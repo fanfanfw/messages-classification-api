@@ -39,3 +39,6 @@ Thumbs.db
 dataset_layer*
 translate_*
 malay_glossary*
+
+# Environment (contains secrets)
+.env
