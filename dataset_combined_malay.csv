@@ -12,16 +12,16 @@ parcel marked delivered tapi saya tak terima,issues,1
 "barang sampai rosak teruk, nak claim sekarang",issues,1
 "item salah hantar, saya order lain",issues,1
 order saya belum dipack lagi padahal urgent,issues,1
-"no resit/consignment note belum keluar, bila pos?",issues,1
+"no resit/consignment note belum keluar, bila pos?",issues,2
 booking servis hari ini tapi technician tak datang,issues,1
 "janji temu saya hilang dalam app, tapi dah bayar",issues,1
 "servis siap tapi hasil tak ikut yang dijanjikan, nak revisi",issues,1
 "kena caj tambahan masa technician sampai, padahal dah bayar",issues,1
 "invois saya perlukan hari ini, sistem tak keluarkan",issues,1
 saya dah cancel tapi masih kena charge,issues,1
-boleh semak status order saya sekarang?,issues,1
+boleh semak status order saya sekarang?,issues,2
 "order cancel sendiri oleh sistem, kenapa?",issues,1
-"alamat penghantaran saya salah, boleh tukar sekarang?",issues,1
+"alamat penghantaran saya salah, boleh tukar sekarang?",issues,2
 "kurier kata gagal hantar sebab alamat tak jumpa, padahal betul",issues,1
 "barang kurang dalam parcel, satu item missing",issues,1
 servis ditanda selesai tapi belum mula pun,issues,1
@@ -34,1475 +34,1408 @@ READY STOCK ADA? NAK BUY NOW,search,1
 boleh booking servis hari ni? slot masih ada?,search,1
 "harga promo sekarang berapa ya, dalam RM?",search,1
 boleh tukar saiz lepas order dibuat?,issues,2
-"saya nak ubah nota untuk seller, boleh?",issues,2
+"saya nak ubah nota untuk seller, boleh?",issues,1
 "voucher saya tak boleh apply, kenapa ya?",issues,2
 poin saya tak masuk lepas pembelian,issues,2
 "saya nak tukar method payment selepas order, boleh?",issues,2
 boleh reschedule janji temu ke minggu depan?,issues,2
-cara nak cancel booking tanpa caj besar?,issues,2
 "invoice yang keluar salah nama, boleh betulkan?",issues,2
-SST/tax dalam invoice tu kira macam mana?,issues,2
+SST/tax dalam invoice tu kira macam mana?,issues,1
 "saya nak minta e-invoice, ada?",issues,2
-"status delivery berubah-ubah, tapi masih dalam transit",issues,2
-"barang sampai tapi kotak kemek, boleh claim?",issues,2
+"barang sampai tapi kotak kemek, boleh claim?",issues,1
 "item freegift tak ada dalam parcel, macam mana?",issues,2
-apps crash bila buka checkout,issues,2
-"saya nak tukar email akaun, langkah dia macam mana?",issues,2
-"akaun saya kena lock lepas salah password, nak unlock",issues,2
-"saya nak delete akaun, tapi masih fikir-fikir",issues,2
-ada diskaun untuk pembelian borong?,search,2
+apps crash bila buka checkout,issues,1
+"saya nak tukar email akaun, langkah dia macam mana?",issues,3
+"akaun saya kena lock lepas salah password, nak unlock",issues,1
+"saya nak delete akaun, tapi masih fikir-fikir",issues,3
+ada diskaun untuk pembelian borong?,search,1
 boleh bagi cadangan produk yang sesuai untuk kulit sensitif?,search,2
 beza varian standard dengan premium apa?,search,2
 spesifikasi penuh boleh share?,search,2
-produk ni original ke?,search,2
-waranti berapa lama ya?,search,2
-ada servis pemasangan sekali?,search,2
-servis ni termasuk alat ganti atau asing?,search,2
-"untuk servis, tempoh siap biasanya berapa jam?",search,2
-boleh minta quotation untuk syarikat?,search,2
-ada pakej langganan bulanan?,search,2
-bahan/material produk ni apa ya?,search,2
+waranti berapa lama ya?,search,1
+ada servis pemasangan sekali?,search,1
+servis ni termasuk alat ganti atau asing?,search,1
+"untuk servis, tempoh siap biasanya berapa jam?",search,1
+boleh minta quotation untuk syarikat?,search,1
+bahan/material produk ni apa ya?,search,1
 produk ni sesuai untuk hadiah?,search,2
-boleh custom nama/logo?,search,2
-"kalau pre-order, anggaran siap berapa hari ya?",search,2
-ongkir/pos kira macam mana?,search,2
+boleh custom nama/logo?,search,1
+"kalau pre-order, anggaran siap berapa hari ya?",search,1
+ongkir/pos kira macam mana?,search,1
 cara tukar bahasa app ke Bahasa Malaysia?,issues,3
 macam mana nak tukar gambar profil?,issues,3
 cara tengok history order lama?,issues,3
-nak download resit pembayaran dekat mana?,issues,3
+nak download resit pembayaran dekat mana?,issues,1
 macam mana nak matikan notifikasi promosi?,issues,3
 cara guna wishlist/favourite?,issues,3
 cara check baki wallet dalam akaun?,issues,3
-poin saya expire bila?,issues,3
+poin saya expire bila?,issues,2
 policy refund boleh baca dekat mana?,issues,3
 policy return/exchange ada link tak?,issues,3
 macam mana nak buat tiket bantuan?,issues,3
 cara attach gambar dalam report?,issues,3
 cara logout semua device?,issues,3
 cara aktifkan 2FA/verification?,issues,3
-"kalau nak tukar alamat default, buat macam mana?",issues,3
+"kalau nak tukar alamat default, buat macam mana?",issues,2
 cara tengok jadual booking dalam app?,issues,3
 kedai buka pukul berapa?,search,3
 hari Ahad buka tak?,search,3
 alamat kedai/offline store kat mana?,search,3
-ada nombor telefon untuk dihubungi?,search,3
-ada email rasmi untuk support?,search,3
-ada katalog produk/jasa boleh tengok?,search,3
-cara order dekat website macam mana?,search,3
-cara booking servis langkah demi langkah?,search,3
-cara bayar yang disokong apa?,search,3
-boleh bayar guna QRIS/DuitNow QR?,search,3
-boleh bayar guna e-wallet?,search,3
-penghantaran cover kawasan mana?,search,3
-servis cover area mana?,search,3
-ada FAQ/pusat bantuan?,search,3
-ada program reseller/affiliate?,search,3
-boleh pickup sendiri di kedai?,search,3
-katalog PDF ada tak?,search,3
-link invoice tak boleh buka,issues,2
-wallet balance tak bertambah lepas topup,issues,3
-ada delivery same day?,search,2
-KENAPA ORDER SAYA AUTO CANCEL???,issues,2
+ada nombor telefon untuk dihubungi?,search,1
+ada email rasmi untuk support?,search,1
+ada katalog produk/jasa boleh tengok?,search,1
+cara order dekat website macam mana?,search,1
+cara booking servis langkah demi langkah?,search,1
+cara bayar yang disokong apa?,search,1
+boleh bayar guna QRIS/DuitNow QR?,search,1
+boleh bayar guna e-wallet?,search,1
+penghantaran cover kawasan mana?,search,1
+servis cover area mana?,search,1
+ada FAQ/pusat bantuan?,search,1
+ada program reseller/affiliate?,search,1
+boleh pickup sendiri di kedai?,search,1
+katalog PDF ada tak?,search,1
+link invoice tak boleh buka,issues,1
+wallet balance tak bertambah lepas topup,issues,1
+ada delivery same day?,search,1
+KENAPA ORDER SAYA AUTO CANCEL???,issues,1
 "receipt saya perlu versi PDF, ada?",issues,1
-kedai buka pukul berapa hari ni?,search,1
-"saya dah hantar balik barang, status retur tak update",issues,3
-boleh bayar guna e-wallet tertentu?,search,3
-kurier minta caj tambahan masa serah barang,issues,2
-warna yang available apa ya?,search,2
-saya nak reset password tapi email reset tak masuk,issues,3
-voucher saya hilang lepas checkout gagal,issues,2
-checkout loading sampai tak habis-habis,issues,3
-tempoh siap servis biasanya berapa lama?,search,3
-booking servis saya belum confirm walaupun dah bayar,issues,3
-OTP masuk lambat sangat sampai expired,issues,2
-saya nak buat retur tapi button tak muncul,issues,3
+kedai buka pukul berapa hari ni?,search,3
+"saya dah hantar balik barang, status retur tak update",issues,2
+boleh bayar guna e-wallet tertentu?,search,1
+kurier minta caj tambahan masa serah barang,issues,1
+saya nak reset password tapi email reset tak masuk,issues,1
+voucher saya hilang lepas checkout gagal,issues,1
+checkout loading sampai tak habis-habis,issues,1
+tempoh siap servis biasanya berapa lama?,search,1
+booking servis saya belum confirm walaupun dah bayar,issues,1
+OTP masuk lambat sangat sampai expired,issues,1
+saya nak buat retur tapi button tak muncul,issues,1
 "tracking tunjuk 'return to sender', apa langkah seterusnya?",issues,3
-boleh custom nama/logo? prosedur macam mana?,search,3
-hari Ahad buka ke?,search,2
-"weh, barang ni ada tak?",search,2
-saya terima noti 'failed delivery' tapi saya ada di rumah,issues,2
+boleh custom nama/logo? prosedur macam mana?,search,1
+hari Ahad buka ke?,search,3
+"weh, barang ni ada tak?",search,1
+saya terima noti 'failed delivery' tapi saya ada di rumah,issues,1
 points/reward tak masuk lagi,issues,2
-spesifikasi penuh boleh bagi?,search,1
+spesifikasi penuh boleh bagi?,search,2
 shipping cover area mana?,search,1
 lead time untuk custom biasanya berapa hari?,search,1
 size chart ada tak?,search,1
 cart saya kosong sendiri lepas pilih courier,issues,1
-"saya nak tukar email login, tapi proses verifikasi gagal",issues,3
+"saya nak tukar email login, tapi proses verifikasi gagal",issues,1
 QR tiket saya blank/empty,issues,1
 bayaran FPX successful tapi status masih unpaid,issues,2
-"alamat lama masih jadi default, macam mana nak ubah?",issues,2
 beza model A vs model B apa?,search,2
-"saya nak berhenti newsletter, macam mana?",issues,3
+"saya nak berhenti newsletter, macam mana?",issues,1
 topup berjaya tapi tak muncul dalam sejarah,issues,1
-alamat kedai dekat mana?,search,1
-produk ni water resistant?,search,3
+alamat kedai dekat mana?,search,3
+produk ni water resistant?,search,1
 harga untuk pakej paling basic berapa?,search,1
-"min, bayaran berjaya tapi order stuck 'processing' je",issues,2
-pos ke luar negara boleh?,search,3
+"min, bayaran berjaya tapi order stuck 'processing' je",issues,1
+pos ke luar negara boleh?,search,1
 "technician lewat, boleh reschedule ke esok?",issues,2
-saya nak tukar alamat penghantaran sebab tersalah key-in,issues,3
-material/bahan produk ni apa?,search,2
-saya nak ubah masa appointment tapi gagal save,issues,3
-"saya nak tukar nombor phone, tapi tak lepas verification",issues,3
-kenapa app crash bila tekan 'Pay'?,issues,3
+saya nak tukar alamat penghantaran sebab tersalah key-in,issues,2
+material/bahan produk ni apa?,search,1
+saya nak ubah masa appointment tapi gagal save,issues,1
+"saya nak tukar nombor phone, tapi tak lepas verification",issues,2
+kenapa app crash bila tekan 'Pay'?,issues,1
 servis ini cover area mana?,search,1
-saya kena caj dua kali untuk satu order,issues,3
-slot servis hujung minggu ada?,search,2
+saya kena caj dua kali untuk satu order,issues,1
 "kena caj tambahan untuk servis, tak dimaklumkan awal",issues,1
 promo code masuk tapi diskaun tak reflect,issues,1
 ada size XXL?,search,1
 minimum order untuk borong berapa?,search,1
 subscription saya dah cancel tapi masih renew,issues,1
 "kurier kata dah hantar, tapi saya tak nampak barang",issues,1
-boleh booking servis untuk minggu depan?,search,2
-pickup di kedai boleh?,search,2
-min boleh semak status aduan saya?,issues,1
-boleh semak kenapa transaksi saya ditolak ya,issues,3
+boleh booking servis untuk minggu depan?,search,1
+pickup di kedai boleh?,search,1
+min boleh semak status aduan saya?,issues,2
+boleh semak kenapa transaksi saya ditolak ya,issues,1
 tiket aduan saya tertutup automatik,issues,1
 duit dah tolak tapi resit pembayaran tak keluar,issues,1
-akaun saya tiba-tiba log out sendiri,issues,2
-"order saya split shipment, tapi satu parcel belum sampai",issues,3
-"saya salah pilih pakej servis, boleh tukar pakej?",issues,3
-beli banyak ada harga borong?,search,2
-boleh bayar guna DuitNow QR?,search,3
+akaun saya tiba-tiba log out sendiri,issues,1
+"order saya split shipment, tapi satu parcel belum sampai",issues,1
+"saya salah pilih pakej servis, boleh tukar pakej?",issues,2
+beli banyak ada harga borong?,search,1
+boleh bayar guna DuitNow QR?,search,1
 waranti cover apa dan berapa lama?,search,1
-"barang sampai pecah, nak claim macam mana?",issues,3
-harga servis ikut jam atau ikut kerja?,search,2
+"barang sampai pecah, nak claim macam mana?",issues,1
+harga servis ikut jam atau ikut kerja?,search,1
 saya nak ubah nota penghantaran untuk kurier,issues,1
-boleh share katalog terbaru?,search,2
+boleh share katalog terbaru?,search,1
 invois keluar tapi nama syarikat salah,issues,1
 boleh bayar instalment/paylater?,search,1
-saya nak tukar kaedah bayaran selepas order dibuat,issues,1
-"parcel sangkut di hub, tak bergerak 4 hari",issues,2
+saya nak tukar kaedah bayaran selepas order dibuat,issues,2
 saya nak request call back dari CS,issues,1
 QR code tak valid masa redeem,issues,1
-ada promo/cashback sekarang?,search,3
-warna/varian tak sama macam yang saya pilih,issues,2
+ada promo/cashback sekarang?,search,1
+warna/varian tak sama macam yang saya pilih,issues,1
 bila masa refund biasanya masuk?,issues,2
 "bossku, stok ready tak?",search,1
 "servis siap tapi hasil tak kemas, nak touch-up",issues,1
-"akaun saya kena lock, nak buka semula",issues,3
-servis on-site ke rumah boleh?,search,2
+"akaun saya kena lock, nak buka semula",issues,1
 cara nak delete account sementara?,issues,3
-barang saya sampai tanpa aksesori dalam box,issues,2
+barang saya sampai tanpa aksesori dalam box,issues,1
 ada option pre-order kalau stock habis?,search,1
-"kotak parcel terbuka masa sampai, saya risau barang hilang",issues,3
-MIN KENAPA CHAT SAYA TAK BERBALAS?!,issues,1
+"kotak parcel terbuka masa sampai, saya risau barang hilang",issues,1
+MIN KENAPA CHAT SAYA TAK BERBALAS?!,issues,2
 "saya perlukan invoice untuk claim office, boleh emailkan?",issues,1
-"bro, item ni available tak?",search,3
-"refund masuk separuh je, balance mana?",issues,3
-"sis, ada ready stock untuk hantar hari ni?",search,2
+"bro, item ni available tak?",search,1
+"refund masuk separuh je, balance mana?",issues,1
+"sis, ada ready stock untuk hantar hari ni?",search,1
 poin saya tolak walaupun saya tak guna,issues,1
-"item saya tak cukup, invoice kata 3 tapi dapat 2",issues,3
-"refund saya masuk ke wallet, boleh transfer ke bank tak?",issues,2
-refund dah approve tapi bank belum terima,issues,2
-ada spare part / refill?,search,3
-"saya nak batal booking, tapi dikenakan fee walaupun awal",issues,3
-saya tak dapat OTP walaupun dah tekan resend,issues,2
-ada saiz besar XXL/XXXL?,search,3
-"saya syak akaun saya digodam, ada aktiviti pelik",issues,2
-chat dalam app tak boleh hantar mesej,issues,2
+"item saya tak cukup, invoice kata 3 tapi dapat 2",issues,1
+"refund saya masuk ke wallet, boleh transfer ke bank tak?",issues,1
+refund dah approve tapi bank belum terima,issues,1
+ada spare part / refill?,search,1
+"saya nak batal booking, tapi dikenakan fee walaupun awal",issues,1
+saya tak dapat OTP walaupun dah tekan resend,issues,1
+ada saiz besar XXL/XXXL?,search,1
+"saya syak akaun saya digodam, ada aktiviti pelik",issues,1
 kalau beli banyak ada diskaun borong?,search,1
 saya nak reset password tapi link reset tak diterima,issues,1
-"MIN CEPAT SIKIT, SAYA DAH TUNGGU!!!",issues,3
-ada promo sekarang?,search,2
+"MIN CEPAT SIKIT, SAYA DAH TUNGGU!!!",issues,1
+ada promo sekarang?,search,1
 boleh share katalog/price list terbaru?,search,1
-kod promo masuk tapi harga tak turun,issues,3
-invoice tak keluar untuk order ni,issues,2
-aplikasi freeze bila tekan 'checkout',issues,3
-ada spare part/refill dijual?,search,3
-retur saya dah dihantar tapi status tak bergerak,issues,3
-tracking tak update dari kelmarin,issues,2
+kod promo masuk tapi harga tak turun,issues,1
+invoice tak keluar untuk order ni,issues,1
+aplikasi freeze bila tekan 'checkout',issues,2
+ada spare part/refill dijual?,search,1
+retur saya dah dihantar tapi status tak bergerak,issues,2
+tracking tak update dari kelmarin,issues,1
 "akaun saya tak boleh login, asyik error",issues,1
 servis ni cover area mana?,search,1
-waranti cover apa?,search,2
+waranti cover apa?,search,1
 "OTP masuk tapi lambat, selalu expired",issues,1
-kena caj tambahan semasa servis tanpa makluman awal,issues,2
+kena caj tambahan semasa servis tanpa makluman awal,issues,1
 size apa yang ada?,search,1
-boleh bagi spesifikasi penuh?,search,1
-"min, saya dah bayar tapi status masih 'menunggu bayaran'",issues,3
-beza varian basic vs pro apa?,search,1
-aksesori dalam box tak ada,issues,2
+boleh bagi spesifikasi penuh?,search,2
+"min, saya dah bayar tapi status masih 'menunggu bayaran'",issues,2
+beza varian basic vs pro apa?,search,2
+aksesori dalam box tak ada,issues,1
 saya nak ubah kaedah bayaran selepas order dibuat,issues,1
-bayaran saya berjaya tapi order tak masuk dalam senarai,issues,3
-parcel dihantar ke alamat lama saya,issues,2
+bayaran saya berjaya tapi order tak masuk dalam senarai,issues,1
+parcel dihantar ke alamat lama saya,issues,1
 kurier mark delivered tapi saya tak terima,issues,1
 alamat kedai di mana?,search,3
 saya batal order tapi status masih berjalan,issues,2
 saya tak boleh upload gambar untuk aduan,issues,1
 bro ni ready ke?,search,1
-website load lama sangat masa pembayaran,issues,2
+website load lama sangat masa pembayaran,issues,1
 tiket aduan saya hilang dari sejarah,issues,1
-freegift tak ada walaupun promo cakap ada,issues,3
-saya tak boleh apply voucher walaupun cukup syarat,issues,1
-pos antarabangsa ada?,search,3
-tempoh servis biasanya berapa jam?,search,3
+freegift tak ada walaupun promo cakap ada,issues,2
+saya tak boleh apply voucher walaupun cukup syarat,issues,3
+pos antarabangsa ada?,search,1
+tempoh servis biasanya berapa jam?,search,1
 "email/phone akaun berubah sendiri, tolong bantu",issues,1
 refund untuk retur belum masuk,issues,1
-ada saiz kecil untuk budak?,search,2
+ada saiz kecil untuk budak?,search,1
 booking servis saya tak wujud walaupun dah bayar,issues,1
-"min, saya nak ubah alamat servis (lokasi) untuk booking",issues,3
-invoice salah nama syarikat,issues,3
+"min, saya nak ubah alamat servis (lokasi) untuk booking",issues,2
+invoice salah nama syarikat,issues,2
 QR tiket saya tak boleh scan,issues,1
 barang sampai tapi salah warna,issues,1
-saya nak buat retur tapi sistem tak bagi,issues,3
-ada demo/trial sebelum beli/booking?,search,3
+saya nak buat retur tapi sistem tak bagi,issues,1
+ada demo/trial sebelum beli/booking?,search,1
 barang pecah masa sampai,issues,1
-invoice saya perlukan hari ini untuk HR,issues,3
-kurier gagal hantar sebab alamat tak lengkap (padahal lengkap),issues,2
-PAYMENT SUCCESS TAPI ORDER TAK WUJUD!!!,issues,2
-saya terima item yang salah,issues,2
+invoice saya perlukan hari ini untuk HR,issues,1
+kurier gagal hantar sebab alamat tak lengkap (padahal lengkap),issues,1
+saya terima item yang salah,issues,1
 CS tak reply dari semalam,issues,1
-warna apa yang available?,search,2
-"servis siap tapi hasil tak memuaskan, nak revisi",issues,2
-"alamat penghantaran tersalah, boleh ubah?",issues,2
-voucher saya terbakar sebab payment gagal,issues,2
-pre-order biasanya berapa lama?,search,2
-OTP tak masuk walaupun dah cuba banyak kali,issues,2
+warna apa yang available?,search,1
+"servis siap tapi hasil tak memuaskan, nak revisi",issues,1
+"alamat penghantaran tersalah, boleh ubah?",issues,1
+voucher saya terbakar sebab payment gagal,issues,1
+pre-order biasanya berapa lama?,search,1
+OTP tak masuk walaupun dah cuba banyak kali,issues,1
 parcel tersangkut di pusat sortir,issues,1
-"saya kena caj dua kali, tolong semak transaksi",issues,3
-ada paylater/ansuran?,search,2
+"saya kena caj dua kali, tolong semak transaksi",issues,1
+ada paylater/ansuran?,search,1
 "barang sampai rosak, saya nak buat claim",issues,1
-WEH ADA STOCK KE TAK?,search,3
-minimum order borong berapa unit?,search,3
-fail invoice PDF rosak/tak boleh buka,issues,2
-item dalam parcel tak cukup,issues,3
-poin saya tiba-tiba berkurang,issues,1
+WEH ADA STOCK KE TAK?,search,1
+minimum order borong berapa unit?,search,1
+fail invoice PDF rosak/tak boleh buka,issues,1
+item dalam parcel tak cukup,issues,1
+poin saya tiba-tiba berkurang,issues,2
 produk ni sesuai untuk kegunaan harian?,search,2
 "barang belum dipack, boleh percepat?",issues,1
 sis ada ready stock?,search,1
-subscription saya dah cancel tapi masih auto-renew,issues,2
-ada pakej servis berkala/langganan?,search,2
-ada pilihan bundle/combo?,search,3
+subscription saya dah cancel tapi masih auto-renew,issues,1
+ada pilihan bundle/combo?,search,1
 slot servis hari ini masih ada?,search,1
-harga paling murah untuk pakej ni berapa?,search,3
-servis ditanda selesai tapi belum buat apa-apa,issues,3
+harga paling murah untuk pakej ni berapa?,search,1
+servis ditanda selesai tapi belum buat apa-apa,issues,1
 boleh konsultasi dulu sebelum decide?,search,1
-produk ni original dan ada warranty?,search,1
-boleh booking servis hujung minggu?,search,3
-promo member ada tak?,search,3
-servis datang rumah boleh?,search,3
-duit kena potong tapi transaksi failed,issues,2
-boleh minta quotation untuk office?,search,2
-saya nak batal order tapi tak jumpa butang cancel,issues,3
+produk ni original dan ada warranty?,search,2
+boleh booking servis hujung minggu?,search,1
+promo member ada tak?,search,1
+servis datang rumah boleh?,search,1
+boleh minta quotation untuk office?,search,1
+saya nak batal order tapi tak jumpa butang cancel,issues,1
 kod QR voucher saya invalid,issues,2
 refund saya pending lebih 7 hari,issues,1
 pos ke Sabah/Sarawak boleh?,search,1
-"boss, stok masih ada tak?",search,2
+"boss, stok masih ada tak?",search,1
 cart saya berubah sendiri lepas pilih varian,issues,1
-boleh bayar guna GrabPay/Touch 'n Go?,search,3
-"nombor tracking belum keluar, bila pos?",issues,3
-janji temu hari ini tapi technician tak muncul,issues,3
-poin saya tak bertambah selepas pembelian,issues,3
-order saya masih belum diproses lagi,issues,3
-refund dah diproses tapi tak nampak dalam akaun bank,issues,2
+boleh bayar guna GrabPay/Touch 'n Go?,search,1
+"nombor tracking belum keluar, bila pos?",issues,2
+janji temu hari ini tapi technician tak muncul,issues,1
+poin saya tak bertambah selepas pembelian,issues,2
+order saya masih belum diproses lagi,issues,1
+refund dah diproses tapi tak nampak dalam akaun bank,issues,1
 "refund masuk ke e-wallet, boleh tukar ke bank?",issues,2
-custom ambil masa berapa lama siap?,search,2
-"saya nak tukar masa appointment, tapi tak boleh save",issues,1
+custom ambil masa berapa lama siap?,search,1
+"saya nak tukar masa appointment, tapi tak boleh save",issues,2
 "refund saya gagal diproses, ada sebab?",issues,1
-"parcel return sebab receiver unreachable, padahal nombor betul",issues,2
-refund lepas retur masih belum masuk,issues,2
-pembayaran booking berjaya tapi status 'unpaid',issues,3
-"CS lambat balas, tapi bukan urgent pun",issues,3
+"parcel return sebab receiver unreachable, padahal nombor betul",issues,1
+refund lepas retur masih belum masuk,issues,1
+pembayaran booking berjaya tapi status 'unpaid',issues,2
+"CS lambat balas, tapi bukan urgent pun",issues,1
 produk ni selamat untuk ibu mengandung?,search,1
-produk tak sama spesifikasi macam listing,issues,3
-boleh bayar guna kad kredit?,search,2
+produk tak sama spesifikasi macam listing,issues,1
+boleh bayar guna kad kredit?,search,1
 tempoh pemprosesan custom berapa lama?,search,1
 "harga berubah masa checkout, kenapa ya?",issues,1
-app minta update tapi Play Store tak ada,issues,3
-transaction declined tapi duit masih tolak,issues,2
-compatible dengan model lama tak?,search,2
-saya nak deactivate akaun sementara,issues,2
-boleh request gift wrap?,search,3
-"bila saya logout, ia login balik sendiri",issues,3
+app minta update tapi Play Store tak ada,issues,1
+transaction declined tapi duit masih tolak,issues,1
+compatible dengan model lama tak?,search,1
+saya nak deactivate akaun sementara,issues,1
+boleh request gift wrap?,search,1
+"bila saya logout, ia login balik sendiri",issues,2
 saya tak boleh chat dengan penyedia servis,issues,1
 boleh bayar guna FPX?,search,1
 boleh share senarai harga untuk borong?,search,1
-"tracking number salah format, tak boleh trace",issues,2
-saya terima item tambahan yang saya tak order,issues,2
-"saya terima barang, tapi invoice dalam sistem masih belum deliver",issues,3
-pos ke Sabah/Sarawak berapa hari?,search,2
-duit dah tolak tapi order batal sebab stok habis,issues,2
-"saya nak ubah alamat penghantaran, masih sempat?",issues,1
-"min, saya tak boleh upload gambar untuk claim",issues,2
-ada pakej untuk event 200 orang?,search,2
+"tracking number salah format, tak boleh trace",issues,1
+"saya terima barang, tapi invoice dalam sistem masih belum deliver",issues,1
+pos ke Sabah/Sarawak berapa hari?,search,1
+duit dah tolak tapi order batal sebab stok habis,issues,1
+"saya nak ubah alamat penghantaran, masih sempat?",issues,2
+ada pakej untuk event 200 orang?,search,1
 "min, bayaran saya berjaya tapi status masih pending",issues,1
-servis saya ada add-on tapi tak termasuk dalam bil,issues,3
+servis saya ada add-on tapi tak termasuk dalam bil,issues,1
 gambar claim asyik gagal dihantar,issues,1
-slot hujung minggu cepat penuh tak?,search,3
-invoice saya perlukan nombor PO,issues,3
-ada video tutorial?,search,3
-poin saya tak boleh guna masa checkout,issues,3
-ada guideline/panduan penggunaan?,search,2
-order saya tak bergerak dari 'diproses',issues,3
+slot hujung minggu cepat penuh tak?,search,1
+invoice saya perlukan nombor PO,issues,1
+ada video tutorial?,search,1
+poin saya tak boleh guna masa checkout,issues,1
+ada guideline/panduan penggunaan?,search,1
+order saya tak bergerak dari 'diproses',issues,1
 berapa lama warranty servis?,search,2
-saya tak boleh login guna Google/Apple,issues,3
+saya tak boleh login guna Google/Apple,issues,1
 barang sampai tapi ada kesan calar,issues,1
 kenapa app saya keluar sendiri bila buka?,issues,2
-produk ni support Android/iOS?,search,3
-saya tak dapat email confirmation order,issues,3
+produk ni support Android/iOS?,search,1
+saya tak dapat email confirmation order,issues,1
 apa beza pakej standard vs deluxe?,search,2
 "notifikasi order tak muncul, tapi saya dah checkout",issues,1
-saya bayar tapi order masuk 'draft' je,issues,3
-voucher saya tak muncul dalam akaun,issues,3
-kupon saya expired cepat sangat,issues,3
-"booking saya duplicate, macam mana?",issues,3
-kedai ada di mall mana?,search,2
+saya bayar tapi order masuk 'draft' je,issues,1
+voucher saya tak muncul dalam akaun,issues,1
+kupon saya expired cepat sangat,issues,1
+"booking saya duplicate, macam mana?",issues,1
+kedai ada di mall mana?,search,1
 "saya nak tukar bahasa app, setting di mana?",issues,2
-buka sampai pukul 10 malam?,search,2
-harga termasuk postage tak?,search,3
-menu vegetarian ada?,search,2
-boleh bayar guna kad debit?,search,2
+buka sampai pukul 10 malam?,search,1
+harga termasuk postage tak?,search,1
+menu vegetarian ada?,search,1
+boleh bayar guna kad debit?,search,1
 saya nak tukar akaun bank untuk refund,issues,2
 "akaun saya tak boleh tukar password, error",issues,2
-saya nak ubah lokasi servis ke alamat lain,issues,2
-"saya nak tukar saiz/warna, prosedur macam mana?",issues,1
-"min, sistem kata stok habis masa bayar",issues,2
-status retur 'menunggu pemeriksaan' lama sangat,issues,1
+"saya nak tukar saiz/warna, prosedur macam mana?",issues,2
+"min, sistem kata stok habis masa bayar",issues,1
+status retur 'menunggu pemeriksaan' lama sangat,issues,2
 "MIN, TOLONG JAWAB YA!",issues,1
 jadual servis paling awal bila?,search,1
 saya nak ubah setting notifikasi order,issues,1
-"servis kena reschedule sebab hujan, boleh pilih tarikh lain?",issues,1
-ada servis installation di rumah?,search,2
+"servis kena reschedule sebab hujan, boleh pilih tarikh lain?",issues,2
+ada servis installation di rumah?,search,1
 order saya stuck 'packing' lama sangat,issues,1
 saya nak ubah nota untuk technician,issues,1
 ada pickup point dekat mana?,search,1
-saya nak extend tempoh pickup parcel,issues,2
-saya nak buat appointment servis tapi app asyik error,issues,3
-boleh tengok contoh hasil custom?,search,3
+saya nak extend tempoh pickup parcel,issues,1
+saya nak buat appointment servis tapi app asyik error,issues,1
+boleh tengok contoh hasil custom?,search,1
 "refund saya masuk lambat, boleh expedite?",issues,1
-technician datang tapi salah hari,issues,3
-"min, saya tak jumpa butang download invoice",issues,2
-saya dah transfer tapi sistem cakap belum bayar,issues,2
-servis ni ada warranty kerja?,search,3
-servis cover kawasan KL/Selangor?,search,3
+technician datang tapi salah hari,issues,1
+"min, saya tak jumpa butang download invoice",issues,1
+saya dah transfer tapi sistem cakap belum bayar,issues,1
+servis ni ada warranty kerja?,search,2
+servis cover kawasan KL/Selangor?,search,1
 saya nak minta invoice dengan alamat billing,issues,2
-produk ni sesuai untuk bayi?,search,1
+produk ni sesuai untuk bayi?,search,2
 cuti umum buka?,search,1
-ada add-on servis apa?,search,3
+ada add-on servis apa?,search,1
 parcel bergerak tapi salah route,issues,1
 pihak kurier update 'address issue' tapi alamat betul,issues,1
-"bro, ada stok warna hitam matte?",search,3
+"bro, ada stok warna hitam matte?",search,1
 sis ada size 38?,search,1
-delivery to Singapore boleh?,search,2
+delivery to Singapore boleh?,search,1
 "retur saya perlu pickup, macam mana nak arrange?",issues,3
 "min, barang belum pos lagi ke?",issues,1
 boleh buat site visit dulu?,search,1
 ada promosi free shipping?,search,1
-"servis lewat 30 minit, saya nak tukar slot",issues,1
-poin saya tak update selepas order selesai,issues,1
+"servis lewat 30 minit, saya nak tukar slot",issues,2
+poin saya tak update selepas order selesai,issues,2
 boleh minta quotation untuk event?,search,1
 ada pilihan tanpa gula?,search,1
-minimum untuk reseller berapa unit?,search,2
-saya nak padam rekod alamat dari akaun,issues,3
-QR voucher untuk servis tak boleh redeem,issues,3
-saya kena caj tambahan untuk SST yang tak dijangka,issues,3
-tiket aduan saya tiada update,issues,3
-barang sampai tapi seal terbuka,issues,2
-"min, saya bayar guna e-wallet tapi status order masih unpaid",issues,1
+minimum untuk reseller berapa unit?,search,1
+saya nak padam rekod alamat dari akaun,issues,1
+QR voucher untuk servis tak boleh redeem,issues,2
+saya kena caj tambahan untuk SST yang tak dijangka,issues,1
+tiket aduan saya tiada update,issues,1
+barang sampai tapi seal terbuka,issues,1
+"min, saya bayar guna e-wallet tapi status order masih unpaid",issues,2
 servis tak ikut skop kerja yang dipersetujui,issues,1
-ada PDF katalog?,search,2
-"retur saya dah sampai, tapi status masih menunggu",issues,3
+ada PDF katalog?,search,1
+"retur saya dah sampai, tapi status masih menunggu",issues,2
 boleh buat konsultasi awal percuma?,search,1
 "invoice perlukan alamat billing, boleh update?",issues,1
 harga termasuk SST ke?,search,1
 "saya nak claim waranti, prosedur macam mana?",issues,1
 bayaran berjaya tapi order dibatalkan sebab stok habis,issues,1
 saya nak ubah kuantiti item sebelum diproses,issues,1
-refund ke akaun bank boleh tukar ke wallet?,issues,1
-"produk datang dengan bau pelik, normal ke?",issues,3
-chat support saya tak boleh send,issues,3
+refund ke akaun bank boleh tukar ke wallet?,issues,2
+"produk datang dengan bau pelik, normal ke?",issues,1
+chat support saya tak boleh send,issues,1
 "tracking tunjuk 'held at warehouse', apa maksud?",issues,1
-servis selesai tapi saya tak nampak laporan kerja,issues,3
-servis ada caj lawatan?,search,3
+servis selesai tapi saya tak nampak laporan kerja,issues,1
+servis ada caj lawatan?,search,1
 waranti 1 tahun ada?,search,1
 produk ni support WiFi/Bluetooth?,search,1
 kurier tak dapat hubungi saya walaupun nombor betul,issues,1
 compatible dengan Windows/Mac?,search,1
-"saya nak buat exchange, tapi menu exchange tak ada",issues,3
-"alamat pada label salah ejaan, boleh betulkan?",issues,2
-"saya tersalah pilih tarikh servis, boleh ubah?",issues,3
+"saya nak buat exchange, tapi menu exchange tak ada",issues,1
+"alamat pada label salah ejaan, boleh betulkan?",issues,1
+"saya tersalah pilih tarikh servis, boleh ubah?",issues,1
 "email verifikasi tak masuk-masuk, dah check spam",issues,1
 produk ni sesuai untuk kulit berminyak tak?,search,2
-kenapa stok habis masa checkout sedangkan tadi ada?,issues,2
-"isi dalam parcel berkurang, saya nak buat laporan",issues,3
+kenapa stok habis masa checkout sedangkan tadi ada?,issues,1
+"isi dalam parcel berkurang, saya nak buat laporan",issues,1
 boleh share perbezaan varian 1 vs 2?,search,2
-kedai ada di mana ya (lokasi)?,search,1
-boleh pilih masa appointment sendiri?,search,2
+kedai ada di mana ya (lokasi)?,search,3
+boleh pilih masa appointment sendiri?,search,1
 "resit pembayaran saya salah tarikh, boleh betulkan?",issues,1
-boleh semak kenapa refund saya jadi 'on hold'?,issues,3
-cara nak print label retur?,issues,1
-"invoice perlukan nombor PO/rujukan, boleh tambah?",issues,3
-produk ni bebas BPA/food grade?,search,3
-"e-invoice tak jumpa dalam akaun, dekat mana?",issues,3
-"saya nak tukar email notifikasi sahaja, bukan email login",issues,3
-saya tak boleh login lepas update app,issues,3
-"boss, ada stok warna putih/krim?",search,2
+boleh semak kenapa refund saya jadi 'on hold'?,issues,2
+cara nak print label retur?,issues,3
+"invoice perlukan nombor PO/rujukan, boleh tambah?",issues,1
+produk ni bebas BPA/food grade?,search,1
+"e-invoice tak jumpa dalam akaun, dekat mana?",issues,1
+"saya nak tukar email notifikasi sahaja, bukan email login",issues,2
+saya tak boleh login lepas update app,issues,1
+"boss, ada stok warna putih/krim?",search,1
 barang yang diterima tak ikut gambar (berbeza model),issues,1
-boleh buat servis di rumah (home service)?,search,2
+boleh buat servis di rumah (home service)?,search,1
 ada gift wrapping?,search,1
-"waranti saya nak daftar, kena buat dekat mana?",issues,3
-status pesanan saya tak berubah dari semalam,issues,3
-saya nak tahu ETA refund untuk bank vs e-wallet,issues,2
-bayaran saya gagal tapi akaun bank dah tolak,issues,2
-"refund saya katanya berjaya, tapi belum masuk bank",issues,3
+"waranti saya nak daftar, kena buat dekat mana?",issues,1
+status pesanan saya tak berubah dari semalam,issues,2
+saya nak tahu ETA refund untuk bank vs e-wallet,issues,1
+bayaran saya gagal tapi akaun bank dah tolak,issues,1
+"refund saya katanya berjaya, tapi belum masuk bank",issues,1
 menu low sugar ada?,search,1
 boleh percepatkan proses packing?,issues,1
-servis cover daerah saya tak?,search,3
-penghantaran express ada?,search,2
-order saya asyik 'menunggu pengesahan',issues,3
+servis cover daerah saya tak?,search,1
+penghantaran express ada?,search,1
+order saya asyik 'menunggu pengesahan',issues,1
 kenapa transaksi saya 'reversed' tapi order masih pending?,issues,1
 ada promosi bundle keluarga?,search,1
 booking servis saya bertindih dua slot,issues,1
-ada saiz S dan M?,search,2
-"akaun saya kena suspend, boleh explain sebab?",issues,3
+ada saiz S dan M?,search,1
+"akaun saya kena suspend, boleh explain sebab?",issues,1
 parcel saya pecah/basah masa sampai,issues,1
 "saya tersalah pilih varian, boleh ubah sebelum pos?",issues,1
-"retur saya dah lulus, tapi saya tak tahu langkah seterusnya",issues,1
-boleh tambah asurans penghantaran?,search,2
-"saya nak invois untuk servis, boleh bagi?",issues,3
-refund untuk retur belum diproses lagi,issues,2
-tracking tunjuk 'attempted delivery' tapi tiada call,issues,3
-booking dibatalkan tapi saya masih nampak di jadual,issues,3
-parcel saya dihantar ke locker/pickup point tanpa izin,issues,2
+"retur saya dah lulus, tapi saya tak tahu langkah seterusnya",issues,3
+boleh tambah asurans penghantaran?,search,1
+"saya nak invois untuk servis, boleh bagi?",issues,1
+refund untuk retur belum diproses lagi,issues,1
+tracking tunjuk 'attempted delivery' tapi tiada call,issues,1
+booking dibatalkan tapi saya masih nampak di jadual,issues,1
+parcel saya dihantar ke locker/pickup point tanpa izin,issues,1
 "caj tambahan servis muncul masa akhir, tak dimaklumkan",issues,1
-ada servis kecemasan (emergency)?,search,2
-tempoh servis selalunya berapa lama?,search,2
-tiket aduan saya tak ada update langsung,issues,3
-menu untuk vegan ada?,search,2
-"login asyik minta verification, tapi kod tak sampai",issues,2
-produk saya datang tanpa manual/aksesori,issues,2
-saya nak tukar alamat penghantaran ke pejabat,issues,2
-buka sampai pukul berapa malam ni?,search,2
+ada servis kecemasan (emergency)?,search,1
+tiket aduan saya tak ada update langsung,issues,2
+menu untuk vegan ada?,search,1
+"login asyik minta verification, tapi kod tak sampai",issues,1
+produk saya datang tanpa manual/aksesori,issues,1
+buka sampai pukul berapa malam ni?,search,3
 hari Sabtu buka?,search,3
-buka masa cuti umum?,search,2
-"barang ada defect kecil, boleh tukar?",issues,3
-saya nak minta resit rasmi untuk audit syarikat,issues,2
-boleh minta sebut harga untuk syarikat?,search,2
+"barang ada defect kecil, boleh tukar?",issues,2
+saya nak minta resit rasmi untuk audit syarikat,issues,1
+boleh minta sebut harga untuk syarikat?,search,1
 ada nombor hotline?,search,1
 teknisi datang tapi tak bawa peralatan lengkap,issues,1
-untuk kontrak bulanan ada pakej?,search,2
-"saya nak tambah add-on servis, macam mana?",issues,3
-slot servis yang saya pilih tiba-tiba hilang,issues,2
-boleh bagi senarai harga borong?,search,3
-"saya nak tukar nombor telefon, OTP hantar ke nombor lama",issues,1
-refund dah masuk tapi jumlah tak sama dengan yang sepatutnya,issues,3
-kalau beli 100 unit ada harga projek?,search,2
+untuk kontrak bulanan ada pakej?,search,1
+"saya nak tambah add-on servis, macam mana?",issues,1
+slot servis yang saya pilih tiba-tiba hilang,issues,1
+boleh bagi senarai harga borong?,search,1
+"saya nak tukar nombor telefon, OTP hantar ke nombor lama",issues,2
+refund dah masuk tapi jumlah tak sama dengan yang sepatutnya,issues,1
+kalau beli 100 unit ada harga projek?,search,1
 "penyedia servis lewat sampai, boleh tukar masa?",issues,2
-parcel saya sampai tapi ada kesan dibuka,issues,3
+parcel saya sampai tapi ada kesan dibuka,issues,1
 ada video tutorial penggunaan?,search,1
 saya nak tukar password tapi sistem kata token invalid,issues,2
-servis ni ada pakej basic & premium?,search,3
-produk ni ada sijil halal?,search,3
+servis ni ada pakej basic & premium?,search,1
+produk ni ada sijil halal?,search,1
 "saya nak batalkan booking, tapi sistem tak bagi",issues,1
-boleh buat redelivery untuk parcel yang gagal hantar?,issues,2
-"saya nak tambah item dalam order yang sama, boleh?",issues,2
-anggaran sampai kalau hantar ke luar negeri?,search,3
-ada guide langkah demi langkah untuk booking?,search,2
-barang sampai salah warna,issues,2
-boleh pilih technician tertentu?,search,3
-warna yang available apa?,search,3
-aksesori tak lengkap dalam box,issues,3
-WEH ADA STOCK KE?,search,2
+boleh buat redelivery untuk parcel yang gagal hantar?,issues,1
+"saya nak tambah item dalam order yang sama, boleh?",issues,1
+anggaran sampai kalau hantar ke luar negeri?,search,1
+barang sampai salah warna,issues,1
+boleh pilih technician tertentu?,search,1
+warna yang available apa?,search,1
+aksesori tak lengkap dalam box,issues,1
+WEH ADA STOCK KE?,search,1
 boleh konsultasi dulu sebelum pilih pakej?,search,1
 material produk ni apa?,search,1
-"invoice saya perlukan cap/stamp (softcopy), boleh?",issues,3
-pre-order biasa berapa lama?,search,3
-paparan blank dekat halaman payment,issues,2
+"invoice saya perlukan cap/stamp (softcopy), boleh?",issues,1
+pre-order biasa berapa lama?,search,1
+paparan blank dekat halaman payment,issues,1
 "refund masuk ke wallet, boleh pindah ke bank?",issues,1
 transaksi gagal tapi balance bank berkurang,issues,1
-boleh tukar alamat penghantaran sekarang?,issues,3
-"boss, ada stok warna navy?",search,2
-manual penggunaan ada?,search,3
-cuti umum buka tak?,search,3
-"order saya belum diproses, boleh tolong semak?",issues,3
-parcel tersangkut di pusat pengedaran,issues,2
+boleh tukar alamat penghantaran sekarang?,issues,2
+"boss, ada stok warna navy?",search,1
+manual penggunaan ada?,search,1
+cuti umum buka tak?,search,1
+"order saya belum diproses, boleh tolong semak?",issues,1
+parcel tersangkut di pusat pengedaran,issues,1
 ada bundle/combo?,search,1
-produk ni original?,search,3
-"saya nak exchange size, prosedur macam mana?",issues,2
-ada diskaun kalau beli banyak?,search,2
+produk ni original?,search,1
+ada diskaun kalau beli banyak?,search,1
 ada servis untuk kawasan luar bandar?,search,1
-kurier tak call tapi update failed delivery,issues,2
+kurier tak call tapi update failed delivery,issues,1
 minimum borong berapa unit?,search,1
-invois saya salah nombor rujukan,issues,2
-produk tak sama macam gambar,issues,3
+invois saya salah nombor rujukan,issues,1
+produk tak sama macam gambar,issues,1
 tempoh servis biasanya berapa lama?,search,1
-ada promo diskaun sekarang?,search,2
-"saya tersalah pilih kaedah bayaran, boleh tukar?",issues,3
-size chart boleh bagi?,search,2
-"sis, ada ready stock untuk pos hari ni?",search,3
-"barang sampai rosak, saya nak claim",issues,2
-"label alamat eja salah, boleh betulkan?",issues,3
-"saya syak akaun kena hack, data berubah",issues,3
-"saya lupa password, nak reset macam mana?",issues,2
-delivery same day ada?,search,2
-"bro, size 41 ada?",search,3
-apa beza pakej standard vs premium?,search,3
-freegift tak ada walaupun promo,issues,1
+ada promo diskaun sekarang?,search,1
+"saya tersalah pilih kaedah bayaran, boleh tukar?",issues,2
+"sis, ada ready stock untuk pos hari ni?",search,1
+"barang sampai rosak, saya nak claim",issues,1
+"label alamat eja salah, boleh betulkan?",issues,1
+"saya syak akaun kena hack, data berubah",issues,1
+"saya lupa password, nak reset macam mana?",issues,1
+delivery same day ada?,search,1
+"bro, size 41 ada?",search,1
+apa beza pakej standard vs premium?,search,2
+freegift tak ada walaupun promo,issues,2
 kena caj dua kali untuk satu invoice,issues,1
-tracking tak update sejak semalam,issues,3
-OTP tak sampai walaupun line okay,issues,3
-bayaran berjaya tapi saya tak dapat notis pengesahan,issues,2
-"nombor lama dah tak aktif, macam mana nak verify?",issues,2
-"link invoice expired, boleh bagi link baru?",issues,2
+tracking tak update sejak semalam,issues,1
+OTP tak sampai walaupun line okay,issues,1
+bayaran berjaya tapi saya tak dapat notis pengesahan,issues,1
+"link invoice expired, boleh bagi link baru?",issues,1
 duit dah ditolak tapi resit tak dijana,issues,1
-ada refill/spare part?,search,3
-promo free shipping ada?,search,2
+ada refill/spare part?,search,1
+promo free shipping ada?,search,1
 servis boleh datang rumah?,search,1
 cart saya kosong sendiri,issues,1
-parcel dihantar ke alamat lama,issues,3
+parcel dihantar ke alamat lama,issues,1
 ada pilihan gift wrap?,search,1
 "min, saya dah bayar tapi sistem masih 'pending payment'",issues,1
-saya nak tukar nombor telefon akaun,issues,1
-retur saya dah hantar tapi status tak bergerak,issues,1
-bila klik 'Place Order' tak jadi apa-apa,issues,3
-servis ada add-on apa saja?,search,2
+saya nak tukar nombor telefon akaun,issues,2
+retur saya dah hantar tapi status tak bergerak,issues,2
+bila klik 'Place Order' tak jadi apa-apa,issues,2
+servis ada add-on apa saja?,search,1
 ada login tak dikenali pada akaun saya,issues,1
-"min, saya nak semak status refund untuk transaksi ni",issues,3
+"min, saya nak semak status refund untuk transaksi ni",issues,2
 kurier kata gagal hantar sebab alamat tak lengkap (padahal lengkap),issues,1
-order stuck dekat status 'packing',issues,3
-custom ambil masa berapa hari?,search,3
-barang kurang dalam parcel,issues,2
+order stuck dekat status 'packing',issues,2
+custom ambil masa berapa hari?,search,1
+barang kurang dalam parcel,issues,1
 "SST dalam invoice tak tepat, boleh semak?",issues,1
-barang sampai salah item,issues,3
+barang sampai salah item,issues,1
 refund dah lulus tapi tak masuk lagi,issues,1
-harga net berapa ya?,search,3
-"waranti saya nak daftar, dekat mana?",issues,2
+harga net berapa ya?,search,1
+"waranti saya nak daftar, dekat mana?",issues,1
 OTP asyik lambat sampai,issues,1
-refund masuk tapi lewat dari tempoh yang diberitahu,issues,2
-boleh minta price list borong?,search,2
+refund masuk tapi lewat dari tempoh yang diberitahu,issues,1
+boleh minta price list borong?,search,1
 item dalam cart bertukar varian sendiri,issues,1
-"akaun saya terkunci, cara buka semula?",issues,2
-status retur 'menunggu pemeriksaan' lama,issues,1
-fail invoice PDF tak boleh buka,issues,2
+status retur 'menunggu pemeriksaan' lama,issues,2
+fail invoice PDF tak boleh buka,issues,1
 boleh buat site visit/survey dulu?,search,1
-produk ada sijil halal?,search,2
-ada warranty kerja untuk servis?,search,3
-saya nak tukar email akaun,issues,1
-checkout loading lama sangat,issues,2
-waranti berapa lama?,search,2
-"verifikasi email gagal, link tak boleh buka",issues,3
+produk ada sijil halal?,search,1
+ada warranty kerja untuk servis?,search,2
+saya nak tukar email akaun,issues,2
+checkout loading lama sangat,issues,1
+waranti berapa lama?,search,1
+"verifikasi email gagal, link tak boleh buka",issues,1
 alamat kedai kat mana?,search,3
-hari Ahad buka?,search,1
+hari Ahad buka?,search,3
 invois saya salah alamat billing,issues,1
-tracking number belum keluar,issues,2
-parcel dihantar ke jiran tanpa izin,issues,2
-website ralat 403 masa nak checkout,issues,2
-"saya tak boleh login, kata password salah padahal betul",issues,3
+tracking number belum keluar,issues,1
+parcel dihantar ke jiran tanpa izin,issues,1
+website ralat 403 masa nak checkout,issues,1
+"saya tak boleh login, kata password salah padahal betul",issues,1
 boleh pickup di kedai?,search,1
-barang belum diserah kepada kurier,issues,2
-produk sampai calar/defect,issues,2
+barang belum diserah kepada kurier,issues,1
+produk sampai calar/defect,issues,1
 app keluar sendiri lepas pilih courier,issues,1
 app crash bila tekan butang bayar,issues,1
 refund saya status 'processing' lama sangat,issues,1
 ada demo/trial sebelum booking?,search,1
-email reset password tak masuk,issues,3
-saya nak buat retur tapi sistem error,issues,3
-"nak claim warranty, langkah dia macam mana?",issues,1
-tuan kenapa status retur tak bergerak?,issues,1
-"bro, tak boleh login — boleh bantu semak?",issues,2
-MIN OTP TAK SAMPAI!!!,issues,2
-servis boleh datang rumah (on-site)?,search,2
+email reset password tak masuk,issues,1
+saya nak buat retur tapi sistem error,issues,1
+"nak claim warranty, langkah dia macam mana?",issues,3
+tuan kenapa status retur tak bergerak?,issues,2
+"bro, tak boleh login — boleh bantu semak?",issues,1
+MIN OTP TAK SAMPAI!!!,issues,1
+servis boleh datang rumah (on-site)?,search,1
 boleh custom nama/logo? macam mana prosesnya?,search,1
-kak kenapa resi/tracking belum keluar?,issues,3
-"produk ni original x, ada waranti?",search,3
-refund pending lama. Saya perlukan update.,issues,3
-"status retur tak bergerak ya, tolong uruskan segera",issues,3
+kak kenapa resi/tracking belum keluar?,issues,1
+"produk ni original x, ada waranti?",search,1
+refund pending lama. Saya perlukan update.,issues,1
+"status retur tak bergerak ya, tolong uruskan segera",issues,2
 "min, saya nak buat laporan: duit dah ditolak tapi order tak wujud",issues,1
-"min, saya nak buat laporan: retur tak boleh submit",issues,2
-boleh hantar antarabangsa?,search,2
-MIN CAJ TAMBAHAN SERVIS!!!,issues,2
-servis cover kawasan Sabah ke?,search,2
-harga untuk pakej pro berapa?,search,2
-MIN BOOKING SERVIS TECHNICIAN TAK DATANG!!!,issues,3
-"puan, saya nak buat laporan: kena caj dua kali",issues,2
-"tak boleh login ya, tlng uruskan segera",issues,3
+"min, saya nak buat laporan: retur tak boleh submit",issues,1
+boleh hantar antarabangsa?,search,1
+MIN CAJ TAMBAHAN SERVIS!!!,issues,1
+servis cover kawasan Sabah ke?,search,1
+harga untuk pakej pro berapa?,search,1
+MIN BOOKING SERVIS TECHNICIAN TAK DATANG!!!,issues,1
+"puan, saya nak buat laporan: kena caj dua kali",issues,1
+"tak boleh login ya, tlng uruskan segera",issues,1
 min kenapa retur tak boleh submit?,issues,1
-servis pembaikan ada x?,search,2
-servis konsultasi ada tak?,search,2
-"bro, barang rosak/pecah — boleh bantu semak?",issues,3
+servis pembaikan ada x?,search,1
+servis konsultasi ada tak?,search,1
+"bro, barang rosak/pecah — boleh bantu semak?",issues,1
 "sis, order stuck diproses — boleh bantu semak?",issues,1
 hari Ahad/cuti umum buka x?,search,3
 "puan, retur tak boleh submit — boleh bantu semak?",issues,1
-blh share size chart (cm) x?,search,3
-alamat kedai/offline store dekat mana?,search,1
-"tuan, refund masuk tapi jumlah tak betul — boleh bantu semak?",issues,3
+blh share size chart (cm) x?,search,1
+alamat kedai/offline store dekat mana?,search,3
+"tuan, refund masuk tapi jumlah tak betul — boleh bantu semak?",issues,1
 MIN APP CRASH/BLANK MASA CHECKOUT!!!,issues,1
-"puan, akaun terkunci — boleh bantu semak?",issues,2
+"puan, akaun terkunci — boleh bantu semak?",issues,1
 "puan, saya nak buat laporan: tracking tak update",issues,1
 weh kenapa kena caj dua kali?,issues,1
 "OTP tak sampai ya, tolong uruskan ASAP",issues,1
-ada ciri mudah cuci untuk produk ni?,search,3
+ada ciri mudah cuci untuk produk ni?,search,1
 app crash/blank masa checkout. Saya perlukan update.,issues,1
-bro kenapa barang rosak/pecah?,issues,3
-"produk ni original tak, ada waranti?",search,2
-boss kenapa refund pending lama?,issues,3
-"min, booking servis technician tak datang — boleh bantu semak?",issues,2
+bro kenapa barang rosak/pecah?,issues,1
+"produk ni original tak, ada waranti?",search,1
+boss kenapa refund pending lama?,issues,1
+"min, booking servis technician tak datang — boleh bantu semak?",issues,1
 servis cover kawasan KL ke?,search,1
-"refund pending lama ya, tlng uruskan segera",issues,2
-"tuan, saya nak buat laporan: invoice tak keluar/salah",issues,3
-size XS masih ada stok?,search,2
-ada promo free shipping sekarang?,search,3
+"refund pending lama ya, tlng uruskan segera",issues,1
+"tuan, saya nak buat laporan: invoice tak keluar/salah",issues,2
+size XS masih ada stok?,search,1
+ada promo free shipping sekarang?,search,1
 MIN ORDER STUCK DIPROSES!!!,issues,1
-"resi/tracking belum keluar ya, tolong uruskan segera",issues,3
-hari Ahad/cuti umum buka tak?,search,2
-"bayaran berjaya tapi status masih unpaid ya, tolong uruskan segera",issues,1
+"resi/tracking belum keluar ya, tolong uruskan segera",issues,1
+hari Ahad/cuti umum buka tak?,search,3
+"bayaran berjaya tapi status masih unpaid ya, tolong uruskan segera",issues,2
 "kak, saya nak buat laporan: kena caj dua kali",issues,1
-MIN TAK BOLEH LOGIN!!!,issues,3
-ada delivery same day/instant?,search,3
+MIN TAK BOLEH LOGIN!!!,issues,1
+ada delivery same day/instant?,search,1
 tak boleh login. Saya perlukan update.,issues,1
-boleh minta price list borong/reseller?,search,2
+boleh minta price list borong/reseller?,search,1
 invoice tak keluar/salah. Saya perlukan update.,issues,2
-tuan kenapa caj tambahan servis?,issues,2
-"kalau pre-order, anggaran siap 5 hari?",search,2
-min kenapa akaun terkunci?,issues,3
+tuan kenapa caj tambahan servis?,issues,1
+"kalau pre-order, anggaran siap 5 hari?",search,1
+min kenapa akaun terkunci?,issues,1
 MIN DUIT DAH DITOLAK TAPI ORDER TAK WUJUD!!!,issues,1
 servis survey lokasi ada tak?,search,3
-produk sesuai untuk outdoor tak?,search,3
-"boss, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,1
-MIN TRACKING TAK UPDATE!!!,issues,2
-"bayaran berjaya tapi status masih unpaid ya, tlng uruskan ASAP",issues,3
-ada ciri anti calar untuk produk ni?,search,2
+produk sesuai untuk outdoor tak?,search,2
+"boss, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,2
+MIN TRACKING TAK UPDATE!!!,issues,1
+"bayaran berjaya tapi status masih unpaid ya, tlng uruskan ASAP",issues,2
+ada ciri anti calar untuk produk ni?,search,1
 MIN RESI/TRACKING BELUM KELUAR!!!,issues,1
-"barang kurang/aksesori hilang ya, tolong uruskan segera",issues,2
-booking servis technician tak datang. Saya perlukan update.,issues,2
-"weh, status retur tak bergerak — boleh bantu semak?",issues,3
-boleh bayar guna kad kredit tak?,search,3
-"barang rosak/pecah ya, tlng uruskan segera",issues,2
-produk sesuai untuk kegunaan harian tak?,search,1
-pos ke Ipoh ambil berapa hari?,search,2
-"barang rosak/pecah ya, tolong uruskan segera",issues,3
+"barang kurang/aksesori hilang ya, tolong uruskan segera",issues,1
+booking servis technician tak datang. Saya perlukan update.,issues,1
+"weh, status retur tak bergerak — boleh bantu semak?",issues,2
+boleh bayar guna kad kredit tak?,search,1
+"barang rosak/pecah ya, tlng uruskan segera",issues,1
+produk sesuai untuk kegunaan harian tak?,search,2
+"barang rosak/pecah ya, tolong uruskan segera",issues,1
 minimum order borong berapa unit ya?,search,1
 boleh bayar guna DuitNow QR tak?,search,1
-harga untuk pakej standard berapa?,search,2
+harga untuk pakej standard berapa?,search,1
 "puan, saya nak buat laporan: refund masuk tapi jumlah tak betul",issues,1
-"sis, saya nak buat laporan: akaun terkunci",issues,3
-"tuan, status retur tak bergerak — boleh bantu semak?",issues,1
+"sis, saya nak buat laporan: akaun terkunci",issues,1
+"tuan, status retur tak bergerak — boleh bantu semak?",issues,2
 "kalau pre-order, anggaran siap 7 hari?",search,1
 MIN REFUND PENDING LAMA!!!,issues,1
-"tracking tak update ya, tolong uruskan segera",issues,3
+"tracking tak update ya, tolong uruskan segera",issues,1
 MIN BARANG SALAH ITEM/WARNA/SAIZ!!!,issues,1
-"kak, status retur tak bergerak — boleh bantu semak?",issues,3
-"kalau beli 10 unit, dapat diskaun tak?",search,3
-"puan, saya nak buat laporan: resi/tracking belum keluar",issues,2
-"boss, saya nak buat laporan: resi/tracking belum keluar",issues,3
-harga untuk pakej basic berapa?,search,3
+"kak, status retur tak bergerak — boleh bantu semak?",issues,2
+"kalau beli 10 unit, dapat diskaun tak?",search,1
+"boss, saya nak buat laporan: resi/tracking belum keluar",issues,1
+harga untuk pakej basic berapa?,search,1
 pos ke Selangor ambil berapa hari?,search,1
 servis pemasangan ada x?,search,1
-tracking tak update. Saya perlukan update.,issues,2
+tracking tak update. Saya perlukan update.,issues,1
 MIN AKAUN TERKUNCI!!!,issues,1
-ada spare part/refill dijual berasingan?,search,2
-MIN PARCEL DELIVERED TAPI TAK TERIMA!!!,issues,2
+ada spare part/refill dijual berasingan?,search,1
 "kalau pre-order, anggaran siap 10 hari?",search,1
-barang salah item/warna/saiz. Saya perlukan update.,issues,2
+barang salah item/warna/saiz. Saya perlukan update.,issues,1
 "kak, saya nak buat laporan: QR tiket/voucher tak valid",issues,1
-MIN REFUND MASUK TAPI JUMLAH TAK BETUL!!!,issues,3
+MIN REFUND MASUK TAPI JUMLAH TAK BETUL!!!,issues,1
 boleh bayar guna e-wallet tak?,search,1
-MIN KENA CAJ DUA KALI!!!,issues,3
-sis kenapa refund masuk tapi jumlah tak betul?,issues,3
-"tuan, sy nak buat laporan: bayaran berjaya tapi status masih unpaid",issues,3
-MIN POIN BERKURANG SENDIRI!!!,issues,1
-"weh, barang salah item/warna/saiz — boleh bantu semak?",issues,2
+MIN KENA CAJ DUA KALI!!!,issues,1
+sis kenapa refund masuk tapi jumlah tak betul?,issues,1
+"tuan, sy nak buat laporan: bayaran berjaya tapi status masih unpaid",issues,2
+MIN POIN BERKURANG SENDIRI!!!,issues,2
+"weh, barang salah item/warna/saiz — boleh bantu semak?",issues,1
 barang rosak/pecah. Saya perlukan update.,issues,1
 MIN INVOICE TAK KELUAR/SALAH!!!,issues,2
-MIN HALAMAN PAYMENT BLANK!!!,issues,3
-"min, barang belum dipack — boleh bantu semak?",issues,3
+MIN HALAMAN PAYMENT BLANK!!!,issues,1
+"min, barang belum dipack — boleh bantu semak?",issues,1
 blh custom nama/logo? prosedur macam mana?,search,1
-"sis, sy nak buat laporan: duit dah ditolak tapi order tak wujud",issues,3
-"kalau beli 3 unit, dapat diskaun x?",search,3
+"sis, sy nak buat laporan: duit dah ditolak tapi order tak wujud",issues,1
+"kalau beli 3 unit, dapat diskaun x?",search,1
 "tuan, tiket aduan tertutup sendiri — boleh bantu semak?",issues,1
 tempoh servis biasanya 4 jam?,search,1
 servis cover kawasan Penang ke?,search,1
-"sis, sy nak buat laporan: parcel delivered tapi tak terima",issues,2
 size XL ready?,search,1
-"kalau beli 3 unit, dapat diskaun tak?",search,2
-"min, sy nak buat laporan: QR tiket/voucher tak valid",issues,2
-"boss, sy nak buat laporan: parcel delivered tapi tak terima",issues,3
+"kalau beli 3 unit, dapat diskaun tak?",search,1
+"min, sy nak buat laporan: QR tiket/voucher tak valid",issues,1
+"boss, sy nak buat laporan: parcel delivered tapi tak terima",issues,1
 "sis, barang rosak/pecah — boleh bantu semak?",issues,1
-kak kenapa barang rosak/pecah?,issues,3
+kak kenapa barang rosak/pecah?,issues,1
 "tuan, kena caj dua kali — boleh bantu semak?",issues,1
-"sis, booking hilang dari jadual — boleh bantu semak?",issues,3
-pos ke Sabah ambil berapa hari?,search,2
-tuan kenapa parcel tersangkut di hub?,issues,2
-"min, sy nak buat laporan: duit dah ditolak tapi order tak wujud",issues,3
+"sis, booking hilang dari jadual — boleh bantu semak?",issues,1
+pos ke Sabah ambil berapa hari?,search,1
+tuan kenapa parcel tersangkut di hub?,issues,1
+"min, sy nak buat laporan: duit dah ditolak tapi order tak wujud",issues,1
 servis cover kawasan Melaka ke?,search,1
-barang kurang/aksesori hilang. Saya perlukan update.,issues,2
+barang kurang/aksesori hilang. Saya perlukan update.,issues,1
 tuan kenapa order stuck diproses?,issues,1
-servis pembaikan ada tak?,search,2
-parcel delivered tapi tak terima. Saya perlukan update.,issues,2
-"parcel tersangkut di hub ya, tolong uruskan segera",issues,3
-blh pickup di kedai?,search,3
-size 38 ready?,search,3
-"min, sy nak buat laporan: kena caj dua kali",issues,3
-produk sesuai untuk hadiah tak?,search,1
+servis pembaikan ada tak?,search,1
+parcel delivered tapi tak terima. Saya perlukan update.,issues,1
+"parcel tersangkut di hub ya, tolong uruskan segera",issues,1
+blh pickup di kedai?,search,1
+size 38 ready?,search,1
+"min, sy nak buat laporan: kena caj dua kali",issues,1
+produk sesuai untuk hadiah tak?,search,2
 boleh minta senarai harga borong/reseller?,search,1
-MIN QR TIKET/VOUCHER TAK VALID!!!,issues,2
-"tuan, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,1
-hari Ahad / cuti umum buka tak?,search,1
+MIN QR TIKET/VOUCHER TAK VALID!!!,issues,1
+"tuan, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,2
+hari Ahad / cuti umum buka tak?,search,3
 "app crash masa checkout ya, tolong uruskan segera",issues,1
 "min, stok warna emerald ada tak?",search,1
 min kenapa barang kurang/aksesori hilang?,issues,1
-"refund masuk tapi jumlah tak betul ya, tolong uruskan segera",issues,2
-"bro, sy nak buat laporan: retur tak boleh submit",issues,2
+"refund masuk tapi jumlah tak betul ya, tolong uruskan segera",issues,1
+"bro, sy nak buat laporan: retur tak boleh submit",issues,1
 kak kenapa diskaun tak reflect?,issues,1
 tempoh servis biasanya 3 jam?,search,1
-ada size chart (cm) boleh share?,search,2
+ada size chart (cm) boleh share?,search,1
 "puan, barang rosak/pecah — boleh bantu semak?",issues,1
 bro kenapa invoice PDF rosak?,issues,1
-ada ciri BPA-free untuk produk ni?,search,3
-order stuck diproses. Saya perlukan update.,issues,2
+ada ciri BPA-free untuk produk ni?,search,1
+order stuck diproses. Saya perlukan update.,issues,1
 "kak, stok warna pastel ada x?",search,1
-"min, barang salah item/warna/saiz — boleh bantu semak?",issues,2
-"boss, tlng bantu: tiket aduan tertutup sendiri",issues,2
+"min, barang salah item/warna/saiz — boleh bantu semak?",issues,1
+"boss, tlng bantu: tiket aduan tertutup sendiri",issues,1
 MIN RETUR TAK BOLEH SUBMIT!!!,issues,1
-"refund pending lama ya, tolong uruskan segera",issues,2
 pos ke Melaka ambil berapa hari?,search,1
 "kalau pre-order, lead time 21 hari ok?",search,1
-"sis, halaman payment blank — boleh bantu semak?",issues,2
-sis kenapa poin berkurang sendiri?,issues,3
-ada spare part/refill dijual asing?,search,2
-"sis, barang kurang/aksesori hilang — boleh bantu semak?",issues,3
-sis kenapa bayaran berjaya tapi status masih unpaid?,issues,1
-"sis, stok warna silver ada tak?",search,2
-tempoh servis biasanya 6 jam?,search,2
-"bro, tlng bantu: QR tiket/voucher tak valid",issues,2
+"sis, halaman payment blank — boleh bantu semak?",issues,1
+sis kenapa poin berkurang sendiri?,issues,2
+ada spare part/refill dijual asing?,search,1
+"sis, barang kurang/aksesori hilang — boleh bantu semak?",issues,1
+sis kenapa bayaran berjaya tapi status masih unpaid?,issues,2
+"sis, stok warna silver ada tak?",search,1
+tempoh servis biasanya 6 jam?,search,1
+"bro, tlng bantu: QR tiket/voucher tak valid",issues,1
 "QR tiket/voucher tak valid ya, tlng uruskan segera",issues,1
-penghantaran antarabangsa ada?,search,2
-"boss, sy nak buat laporan: booking servis technician tak datang",issues,3
-"sis, resi/tracking belum keluar — boleh bantu semak?",issues,2
-"QR tiket/voucher tak valid ya, tlng uruskan ASAP",issues,2
+penghantaran antarabangsa ada?,search,1
+"boss, sy nak buat laporan: booking servis technician tak datang",issues,1
+"sis, resi/tracking belum keluar — boleh bantu semak?",issues,1
+"QR tiket/voucher tak valid ya, tlng uruskan ASAP",issues,1
 MIN INVOICE PDF ROSAK!!!,issues,1
 "kalau beli 50 unit, dapat diskaun tak?",search,1
-"kalau beli 200 unit, dapat diskaun x?",search,3
-tempoh servis biasanya 2 jam?,search,2
-MIN BARANG KURANG/AKSESORI HILANG!!!,issues,3
-bro kenapa tiket aduan tertutup sendiri?,issues,3
-ada ciri food grade untuk produk ni?,search,2
-servis cover kawasan Johor ke?,search,2
-min kenapa tak boleh login?,issues,3
-sis kenapa barang rosak/pecah?,issues,3
+"kalau beli 200 unit, dapat diskaun x?",search,1
+tempoh servis biasanya 2 jam?,search,1
+MIN BARANG KURANG/AKSESORI HILANG!!!,issues,1
+bro kenapa tiket aduan tertutup sendiri?,issues,1
+ada ciri food grade untuk produk ni?,search,1
+servis cover kawasan Johor ke?,search,1
+min kenapa tak boleh login?,issues,1
+sis kenapa barang rosak/pecah?,issues,1
 "kalau pre-order, lead time 14 hari ok?",search,1
-"sis, sy nak buat laporan: halaman payment blank",issues,2
-"retur tak boleh submit ya, tolong uruskan segera",issues,3
-"weh, akaun terkunci — boleh bantu semak?",issues,3
-boss kenapa barang belum dipack?,issues,3
+"sis, sy nak buat laporan: halaman payment blank",issues,1
+"retur tak boleh submit ya, tolong uruskan segera",issues,1
+"weh, akaun terkunci — boleh bantu semak?",issues,1
+boss kenapa barang belum dipack?,issues,1
 alamat kedai/offline store di mana?,search,3
-"parcel tersangkut di hub ya, tolong uruskan ASAP",issues,2
-custom anggaran siap 21 hari?,search,3
-ada pilihan gift wrap/kad ucapan?,search,2
-"weh, sy nak buat laporan: diskaun tak reflect",issues,3
-tuan kenapa OTP tak sampai?,issues,3
+"parcel tersangkut di hub ya, tolong uruskan ASAP",issues,1
+custom anggaran siap 21 hari?,search,1
+ada pilihan gift wrap/kad ucapan?,search,1
+"weh, sy nak buat laporan: diskaun tak reflect",issues,1
+tuan kenapa OTP tak sampai?,issues,1
 MIN STATUS RETUR TAK BERGERAK!!!,issues,2
-blh konsultasi dulu sebelum decide?,search,3
-"chat support tak boleh send ya, tolong uruskan segera",issues,3
+blh konsultasi dulu sebelum decide?,search,1
+"chat support tak boleh send ya, tolong uruskan segera",issues,1
 "weh, sy nak buat laporan: QR tiket/voucher tak valid",issues,1
 "boss, stok warna beige ada tak?",search,1
-"akaun terkunci ya, tlng uruskan segera",issues,3
+"akaun terkunci ya, tlng uruskan segera",issues,1
 harga untuk pakej enterprise berapa ya?,search,1
-produk ni ada ciri food grade?,search,2
 MIN BOOKING HILANG DARI JADUAL!!!,issues,1
-MIN TRANSAKSI PENDING TERLALU LAMA!!!,issues,3
-"tuan, tlng bantu ASAp: invoice tak keluar/salah",issues,1
-"tuan, sy nak report: poin berkurang sendiri",issues,3
+MIN TRANSAKSI PENDING TERLALU LAMA!!!,issues,1
+"tuan, tlng bantu ASAp: invoice tak keluar/salah",issues,2
+"tuan, sy nak report: poin berkurang sendiri",issues,2
 "min, stok warna gold ada tak?",search,1
-ada pakej servis langganan?,search,2
-harga servis ikut jam/kerja?,search,2
-hasil servis tak kemas... macam mana nak settle?,issues,1
-"kak, sy nak report: alamat pada label salah",issues,2
+harga servis ikut jam/kerja?,search,1
+hasil servis tak kemas... macam mana nak settle?,issues,3
+"kak, sy nak report: alamat pada label salah",issues,1
 "kak, sy nak report: poin berkurang sendiri",issues,2
 resi/tracking belum keluar... macam mana nak settle?,issues,3
-"min, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,3
-"min, tlng bantu ASAp: kena caj dua kali",issues,3
+"min, bayaran berjaya tapi status masih unpaid — boleh bantu semak?",issues,2
+"min, tlng bantu ASAp: kena caj dua kali",issues,1
 barang belum dipos... macam mana nak settle?,issues,3
-pre-order ambil 14 hari?,search,3
+pre-order ambil 14 hari?,search,1
 barang rosak/pecah... macam mana nak settle?,issues,1
-MIN PARCEL TERSANGKUT DI HUB!!!,issues,3
-boleh konsultasi dulu?,search,3
-bro kenapa OTP expired?,issues,2
+MIN PARCEL TERSANGKUT DI HUB!!!,issues,1
+boleh konsultasi dulu?,search,1
+bro kenapa OTP expired?,issues,1
 "min, sy nak report: refund untuk retur belum masuk",issues,1
 boleh minta quotation syarikat?,search,1
-duit dah ditolak tapi order tak wujud... macam mana nak settle?,issues,2
+duit dah ditolak tapi order tak wujud... macam mana nak settle?,issues,3
 ada demo/trial?,search,1
 weh kenapa tracking tak update?,issues,1
-pre-order ambil 3 hari?,search,3
+pre-order ambil 3 hari?,search,1
 pre-order ambil 10 hari?,search,1
 kalau beli 3 unit dapat diskaun?,search,1
-blh custom nama/logo?,search,2
+blh custom nama/logo?,search,1
 "boss, sy nak report: refund tak masuk ke bank",issues,1
-"tuan, diskaun tak reflect — boleh bantu semak?",issues,2
-custom siap dalam 3 hari?,search,3
-alamat pada label salah. Tlg update saya ya,issues,3
+"tuan, diskaun tak reflect — boleh bantu semak?",issues,1
+custom siap dalam 3 hari?,search,1
+alamat pada label salah. Tlg update saya ya,issues,1
 size 42 masih ada?,search,1
 blh bayar guna DuitNow QR?,search,1
-"tuan, sy nak report: OTP expired",issues,2
-"bro, tlng bantu ASAp: invoice tak keluar/salah",issues,3
-"weh, alamat penghantaran nak tukar — boleh bantu semak?",issues,1
-"tuan, tlng bantu ASAp: halaman payment blank",issues,3
-"kak, sy nak report: kena caj dua kali",issues,3
+"tuan, sy nak report: OTP expired",issues,1
+"bro, tlng bantu ASAp: invoice tak keluar/salah",issues,2
+"weh, alamat penghantaran nak tukar — boleh bantu semak?",issues,2
+"tuan, tlng bantu ASAp: halaman payment blank",issues,1
+"kak, sy nak report: kena caj dua kali",issues,1
 "weh, stok warna putih ada tak?",search,1
-"weh, sy nak report: OTP expired",issues,3
-slot servis hari ni ada?,search,2
+"weh, sy nak report: OTP expired",issues,1
 booking hilang dari jadual. Tolong update saya ya,issues,1
-produk ni ada ciri jimat elektrik?,search,2
+produk ni ada ciri jimat elektrik?,search,1
 "puan, caj tambahan servis — boleh bantu semak?",issues,1
-ada promo bundle sekarang?,search,3
+ada promo bundle sekarang?,search,1
 sis kenapa voucher tak boleh apply?,issues,2
 pre-order ambil 7 hari?,search,1
-"puan, tlng bantu ASAp: tiket aduan tiada update",issues,2
-Ahad/cuti umum buka tak?,search,2
+"puan, tlng bantu ASAp: tiket aduan tiada update",issues,1
+Ahad/cuti umum buka tak?,search,3
 "puan, sy nak report: kena caj dua kali",issues,1
 tak boleh login. Tolong update saya ya,issues,1
-puan kenapa barang rosak/pecah?,issues,2
-parcel tersangkut di hub. Tolong update saya ya,issues,3
+puan kenapa barang rosak/pecah?,issues,1
+parcel tersangkut di hub. Tolong update saya ya,issues,1
 ada same day/instant delivery?,search,1
-"puan, stok warna pink ada tak?",search,2
+"puan, stok warna pink ada tak?",search,1
 barang rosak/pecah. Tolong update saya ya,issues,1
 poin berkurang sendiri... macam mana nak settle?,issues,3
 servis inspection ada tak?,search,1
-weh kenapa voucher tak boleh apply?,issues,3
+weh kenapa voucher tak boleh apply?,issues,2
 "puan, sy nak report: poin tak masuk",issues,2
-order stuck packing. Tolong update saya ya,issues,3
+order stuck packing. Tolong update saya ya,issues,1
 "tuan, akaun terkunci — boleh bantu semak?",issues,1
-produk ni original & ada waranti?,search,3
-barang belum dipos. Tolong update saya ya,issues,2
-ada promo voucher sekarang?,search,2
-booking hilang dari jadual... macam mana nak settle?,issues,2
+produk ni original & ada waranti?,search,1
+ada promo voucher sekarang?,search,1
 booking servis technician tak datang... macam mana nak settle?,issues,1
-refund tak masuk ke bank... macam mana nak settle?,issues,2
-"weh, barang belum dipos — boleh bantu semak?",issues,3
-kalau beli 2 unit dapat diskaun?,search,3
+refund tak masuk ke bank... macam mana nak settle?,issues,1
+"weh, barang belum dipos — boleh bantu semak?",issues,1
+kalau beli 2 unit dapat diskaun?,search,1
 "boss, tlng bantu ASAp: transaksi pending terlalu lama",issues,1
 min kenapa refund tak masuk ke bank?,issues,1
-transaksi pending terlalu lama. Tolong update saya ya,issues,3
+transaksi pending terlalu lama. Tolong update saya ya,issues,1
 pre-order ambil 5 hari?,search,1
 diskaun tak reflect... macam mana nak settle?,issues,3
 "min, sy nak report: invoice tak keluar/salah",issues,2
 size 40 masih ada?,search,1
-harga pakej deluxe berapa?,search,3
-size XXXL masih ada?,search,2
-invoice PDF rosak... macam mana nak settle?,issues,3
+harga pakej deluxe berapa?,search,1
+size XXXL masih ada?,search,1
+invoice PDF rosak... macam mana nak settle?,issues,1
 barang kurang/aksesori hilang. Tlg update saya ya,issues,1
-bayaran berjaya tapi status masih unpaid. Tolong update saya ya,issues,3
+bayaran berjaya tapi status masih unpaid. Tolong update saya ya,issues,2
 order stuck packing... macam mana nak settle?,issues,3
-"weh, tlng bantu ASAp: booking hilang dari jadual",issues,2
-retur tak boleh submit... macam mana nak settle?,issues,2
-pickup di kedai blh?,search,2
-weh kenapa booking servis technician tak datang?,issues,2
+"weh, tlng bantu ASAp: booking hilang dari jadual",issues,1
+pickup di kedai blh?,search,1
+weh kenapa booking servis technician tak datang?,issues,1
 pos ke Sarawak berapa hari?,search,1
-servis on-site datang rumah boleh?,search,2
-custom siap dalam 14 hari?,search,2
+servis on-site datang rumah boleh?,search,1
+custom siap dalam 14 hari?,search,1
 ada promo cashback sekarang?,search,1
-boleh minta price list/reseller?,search,2
-"bro, sy nak report: tracking tak update",issues,2
+boleh minta price list/reseller?,search,1
+"bro, sy nak report: tracking tak update",issues,1
 "min, sy nak report: akaun terkunci",issues,1
-puan kenapa akaun digodam?,issues,3
-poin tak masuk. Tlg update saya ya,issues,3
+puan kenapa akaun digodam?,issues,1
+poin tak masuk. Tlg update saya ya,issues,2
 poin tak masuk... macam mana nak settle?,issues,3
-MIN BAYARAN BERJAYA TAPI STATUS MASIH UNPAID!!!,issues,2
 blh bayar guna FPX?,search,1
-"tuan, mohon bantu: caj tambahan servis",issues,3
-boss kenapa tracking salah nombor?,issues,3
-kalau beli 20 unit dapat diskaun?,search,2
+"tuan, mohon bantu: caj tambahan servis",issues,1
+boss kenapa tracking salah nombor?,issues,1
+kalau beli 20 unit dapat diskaun?,search,1
 size 40 masih available?,search,1
-"puan, tlng bantu ASAP: order stuck diproses",issues,3
-kalau beli 10 unit dapat diskaun?,search,2
-"sis, mohon bantu: tiket aduan tiada update",issues,2
-size XS masih available?,search,3
+"puan, tlng bantu ASAP: order stuck diproses",issues,1
+kalau beli 10 unit dapat diskaun?,search,1
+"sis, mohon bantu: tiket aduan tiada update",issues,1
+size XS masih available?,search,1
 weh kenapa barang kurang/aksesori hilang?,issues,1
 size 41 masih available?,search,1
 "bro, barang salah item/warna/saiz — boleh tolong semak?",issues,1
-"kak, poin tak boleh guna — boleh tolong semak?",issues,2
-"tuan, sy nak report: tracking tak update",issues,2
+"tuan, sy nak report: tracking tak update",issues,1
 "tuan, sy nak report: invoice PDF rosak",issues,1
 poin tak masuk. Tolong update status ya,issues,2
-MIN POIN TAK BOLEH GUNA!!!,issues,2
-bro kenapa alamat pada label salah?,issues,3
-"min, mohon bantu: barang salah item/warna/saiz",issues,3
-"sis, tlng bantu ASAP: QR tiket/voucher tak valid",issues,2
+bro kenapa alamat pada label salah?,issues,1
+"min, mohon bantu: barang salah item/warna/saiz",issues,1
+"sis, tlng bantu ASAP: QR tiket/voucher tak valid",issues,1
 MIN TIKET ADUAN TIADA UPDATE!!!,issues,1
-"puan, sy nak report: tracking tak update",issues,3
-produk ni ada ciri fast charging?,search,2
-pos ke KK berapa hari?,search,3
-status retur tak bergerak... ada cara cepat tak?,issues,1
-size 42 masih available?,search,3
-size 38 masih available?,search,3
-tracking salah nombor. Tolong update status ya,issues,1
-refund untuk retur belum masuk... ada cara cepat tak?,issues,3
-pos ke Putrajaya berapa hari?,search,3
-min kenapa refund pending lama?,issues,2
-pos antarabangsa boleh?,search,3
-tempoh servis ~6 jam?,search,2
-custom siap 7 hari?,search,2
+"puan, sy nak report: tracking tak update",issues,1
+pos ke KK berapa hari?,search,1
+status retur tak bergerak... ada cara cepat tak?,issues,3
+size 42 masih available?,search,1
+size 38 masih available?,search,1
+tracking salah nombor. Tolong update status ya,issues,2
+refund untuk retur belum masuk... ada cara cepat tak?,issues,1
+pos ke Putrajaya berapa hari?,search,1
+pos antarabangsa boleh?,search,1
+tempoh servis ~6 jam?,search,1
+custom siap 7 hari?,search,1
 kalau beli 5 unit dapat diskaun?,search,1
-parcel tersangkut di hub... ada cara cepat tak?,issues,1
-"weh, mohon bantu: barang kurang/aksesori hilang",issues,2
-"puan, slot booking berubah sendiri — boleh tolong semak?",issues,2
+parcel tersangkut di hub... ada cara cepat tak?,issues,3
+"weh, mohon bantu: barang kurang/aksesori hilang",issues,1
+"puan, slot booking berubah sendiri — boleh tolong semak?",issues,1
 bro kenapa refund untuk retur belum masuk?,issues,1
-OTP expired. Tolong update status ya,issues,1
-"refund masuk ke wallet, nak ke bank... ada cara cepat tak?",issues,1
-"puan, tlng bantu ASAP: booking servis technician tak datang",issues,2
-blh minta price list/reseller?,search,2
-puan kenapa akaun terkunci?,issues,3
+OTP expired. Tolong update status ya,issues,2
+"refund masuk ke wallet, nak ke bank... ada cara cepat tak?",issues,3
+"puan, tlng bantu ASAP: booking servis technician tak datang",issues,1
+blh minta price list/reseller?,search,1
+puan kenapa akaun terkunci?,issues,1
 servis maintenance ada tak?,search,1
 servis cover Selangor ke?,search,1
 refund masuk tapi jumlah tak betul. Tolong update status ya,issues,2
-"weh, stok warna hitam ada tak?",search,3
+"weh, stok warna hitam ada tak?",search,1
 Ahad/cuti umum buka x?,search,3
-size L masih available?,search,2
-website error masa bayar. Tolong update status ya,issues,2
-"kak, sy nak report: refund masuk tapi jumlah tak betul",issues,3
-"tuan, chat support tak boleh send — boleh tolong semak?",issues,3
-"min, sy nak report: kurier gagal hantar tanpa call",issues,3
+size L masih available?,search,1
+website error masa bayar. Tolong update status ya,issues,1
+"kak, sy nak report: refund masuk tapi jumlah tak betul",issues,1
+"tuan, chat support tak boleh send — boleh tolong semak?",issues,1
+"min, sy nak report: kurier gagal hantar tanpa call",issues,1
 MIN TRACKING SALAH NOMBOR!!!,issues,1
 "puan, mohon bantu: parcel return to sender",issues,1
-"puan, transaksi pending terlalu lama — boleh tolong semak?",issues,2
-harga pakej pro berapa?,search,2
 tempoh servis ~1 jam?,search,1
-boleh bayar guna transfer bank?,search,3
-servis cover Sarawak ke?,search,3
-kak kenapa alamat pada label salah?,issues,3
-"bro, mohon bantu: booking hilang dari jadual",issues,2
+boleh bayar guna transfer bank?,search,1
+servis cover Sarawak ke?,search,1
+kak kenapa alamat pada label salah?,issues,1
+"bro, mohon bantu: booking hilang dari jadual",issues,1
 "sis, order stuck diproses — boleh tolong semak?",issues,1
-"weh, tlng bantu ASAP: invoice tak keluar/salah",issues,3
+"weh, tlng bantu ASAP: invoice tak keluar/salah",issues,2
 tempoh servis ~3 jam?,search,1
 "puan, mohon bantu: parcel tersangkut di hub",issues,1
 "sis, stok warna kelabu ada tak?",search,1
 pre-order ambil 21 hari?,search,1
-"boss, mohon bantu: retur tak boleh submit",issues,3
-resi/tracking belum keluar. Tolong update status ya,issues,1
+"boss, mohon bantu: retur tak boleh submit",issues,1
+resi/tracking belum keluar. Tolong update status ya,issues,2
 kak kenapa OTP tak sampai?,issues,1
-"kak, sy nak report: parcel tersangkut di hub",issues,3
+"kak, sy nak report: parcel tersangkut di hub",issues,1
 pos ke Kuching berapa hari?,search,1
-harga pakej premium berapa?,search,2
-"sis, sy nak report: caj tambahan servis",issues,3
-harga pakej basic berapa?,search,3
-hasil servis tak kemas. Tolong update status ya,issues,3
-servis servis berkala ada tak?,search,2
-kalau beli 100 unit dapat diskaun?,search,2
+"sis, sy nak report: caj tambahan servis",issues,1
+harga pakej basic berapa?,search,1
+hasil servis tak kemas. Tolong update status ya,issues,2
+kalau beli 100 unit dapat diskaun?,search,1
 poin tak boleh guna. Tolong update status ya,issues,2
-"weh, mohon bantu: freegift tak ada",issues,1
+"weh, mohon bantu: freegift tak ada",issues,2
 "puan, sy nak report: booking servis technician tak datang",issues,1
-"weh, sy nak report: booking servis technician tak datang",issues,3
+"weh, sy nak report: booking servis technician tak datang",issues,1
 pos ke KL berapa hari?,search,1
-"bro, barang belum dipos — boleh tolong semak?",issues,2
+"bro, barang belum dipos — boleh tolong semak?",issues,1
 tak boleh upload gambar bukti... ada cara cepat tak?,issues,3
-"sis, booking hilang dari jadual — boleh tolong semak?",issues,2
-"tuan, stok warna hitam matte ada tak?",search,2
-kak kenapa duit dah ditolak tapi order tak wujud?,issues,2
-"tuan, freegift tak ada — boleh tolong semak?",issues,1
-OTP tak sampai... ada cara cepat tak?,issues,3
-"puan, tlng bantu ASAP: poin berkurang sendiri",issues,1
+"sis, booking hilang dari jadual — boleh tolong semak?",issues,1
+"tuan, stok warna hitam matte ada tak?",search,1
+kak kenapa duit dah ditolak tapi order tak wujud?,issues,1
+"tuan, freegift tak ada — boleh tolong semak?",issues,2
+OTP tak sampai... ada cara cepat tak?,issues,1
+"puan, tlng bantu ASAP: poin berkurang sendiri",issues,2
 "sis, chat support tak boleh send — boleh tolong semak?",issues,1
-custom siap 21 hari?,search,3
+custom siap 21 hari?,search,1
 size 37 masih available?,search,1
 "kak, sy nak report: voucher tak boleh apply",issues,2
-"min, sy nak report: tracking salah nombor",issues,2
-duit dah ditolak tapi order tak wujud... ada cara cepat tak?,issues,2
-MIN CHAT SUPPORT TAK BOLEH SEND!!!,issues,3
-"weh, mohon bantu: akaun digodam",issues,2
-akak kenapa akaun digodam?,issues,2
+"min, sy nak report: tracking salah nombor",issues,1
+MIN CHAT SUPPORT TAK BOLEH SEND!!!,issues,1
+"weh, mohon bantu: akaun digodam",issues,1
 "akak, tiket aduan tiada update — boleh tlng semak?",issues,1
 "sis, freegift tak ada — boleh tolong semak?",issues,2
-"tuan, hasil servis tak kemas — boleh tolong semak?",issues,2
+"tuan, hasil servis tak kemas — boleh tolong semak?",issues,1
 produk ni ada ciri low sugar?,search,1
-"tuan, boleh explain pasal tak boleh login?",issues,2
 blh minta quotation syarikat?,search,1
 servis cover KL ke?,search,1
-"tuan, tlng bantu ASAP: status retur tak bergerak",issues,3
-"weh, stok warna kelabu ada tak?",search,3
-alamat penghantaran nak tukar. Tolong update status ya,issues,3
+"tuan, tlng bantu ASAP: status retur tak bergerak",issues,2
+"weh, stok warna kelabu ada tak?",search,1
+alamat penghantaran nak tukar. Tolong update status ya,issues,2
 "abang, sy nak report: refund masuk ke wallet tapi nak ke bank",issues,1
-"weh, transaksi pending terlalu lama — boleh tolong semak?",issues,3
-"akak, barang salah item/warna/saiz — boleh tolong semak?",issues,3
-"puan, sy nak report: status retur tak bergerak",issues,3
-puan kenapa caj tambahan servis?,issues,3
+"weh, transaksi pending terlalu lama — boleh tolong semak?",issues,1
+"akak, barang salah item/warna/saiz — boleh tolong semak?",issues,1
+"puan, sy nak report: status retur tak bergerak",issues,2
+puan kenapa caj tambahan servis?,issues,1
 tiket aduan tiada update. Tolong update status ya,issues,2
 "akak, tlng bantu ASAP: alamat penghantaran nak tukar",issues,2
 barang belum dipos... ada cara cepat tak?,issues,3
 produk ni ada ciri anti calar?,search,1
-"min, boleh explain pasal bayaran berjaya tapi status masih unpaid?",issues,3
+"min, boleh explain pasal bayaran berjaya tapi status masih unpaid?",issues,2
 min kenapa cancel pesanan tapi masih aktif?,issues,1
 produk ni ada ciri hypoallergenic?,search,1
-ada promo member deal sekarang?,search,2
-"puan, stok warna krim ada tak?",search,2
-"abang, mohon bantu: bayaran berjaya tapi status masih unpaid",issues,3
-produk ni ada ciri Bluetooth?,search,3
-tak boleh upload gambar bukti. Tolong update status ya,issues,1
-"min, transaksi pending terlalu lama — boleh tolong semak?",issues,3
+ada promo member deal sekarang?,search,1
+"abang, mohon bantu: bayaran berjaya tapi status masih unpaid",issues,2
+produk ni ada ciri Bluetooth?,search,1
+tak boleh upload gambar bukti. Tolong update status ya,issues,2
+"min, transaksi pending terlalu lama — boleh tolong semak?",issues,1
 weh kenapa chat support tak boleh send?,issues,1
-custom siap 10 hari?,search,3
+custom siap 10 hari?,search,1
 boleh bayar guna paylater/ansuran?,search,1
 "boss, sy nak report: order stuck packing",issues,1
-"abang, boleh explain pasal cancel pesanan tapi masih aktif?",issues,2
+"abang, boleh explain pasal cancel pesanan tapi masih aktif?",issues,1
 servis pemasangan ada tak?,search,1
-MIN PARCEL RETURN TO SENDER!!!,issues,2
-pos ke Selangor berapa hari?,search,3
+MIN PARCEL RETURN TO SENDER!!!,issues,1
+pos ke Selangor berapa hari?,search,1
 barang kurang/aksesori hilang... ada cara cepat tak?,issues,1
-poin berkurang sendiri... ada cara cepat tak?,issues,2
-caj tambahan servis. Tolong update status ya,issues,2
-size XXXL masih available?,search,2
+poin berkurang sendiri... ada cara cepat tak?,issues,3
+size XXXL masih available?,search,1
 MIN DISKAUN TAK REFLECT!!!,issues,1
 pos ke Penang berapa hari?,search,1
-servis servis kecemasan ada tak?,search,2
-butang cancel tak jumpa. Tolong update status ya,issues,1
+servis servis kecemasan ada tak?,search,1
+butang cancel tak jumpa. Tolong update status ya,issues,2
 "puan, sy nak report: tracking salah nombor",issues,1
 "abang, tlng bantu ASAP: tiket aduan tiada update",issues,1
-servis survey lokasi ada x?,search,1
+servis survey lokasi ada x?,search,3
 abang kenapa alamat penghantaran nak tukar?,issues,2
 puan kenapa app crash masa checkout?,issues,1
-refund masuk ke wallet tapi nak ke bank... ada cara cepat tak?,issues,1
-size 44 masih available?,search,3
-akak kenapa barang salah item/warna/saiz?,issues,3
+refund masuk ke wallet tapi nak ke bank... ada cara cepat tak?,issues,3
+size 44 masih available?,search,1
+akak kenapa barang salah item/warna/saiz?,issues,1
 servis cover Ipoh ke?,search,1
-"min, akaun terkunci — boleh tolong semak?",issues,3
-retur tak boleh submit. Tolong update status ya,issues,1
+"min, akaun terkunci — boleh tolong semak?",issues,1
+retur tak boleh submit. Tolong update status ya,issues,2
 "boss, mohon bantu: voucher tak boleh apply",issues,2
-"akak, akaun terkunci — boleh tolong semak?",issues,3
-"bro, mohon bantu: voucher hangus sebab payment gagal",issues,2
-servis cover Melaka ke?,search,2
-harga pakej standard berapa?,search,3
-"weh, butang cancel tak jumpa — boleh tolong semak?",issues,3
+"akak, akaun terkunci — boleh tolong semak?",issues,1
+"bro, mohon bantu: voucher hangus sebab payment gagal",issues,1
+servis cover Melaka ke?,search,1
+harga pakej standard berapa?,search,1
+"weh, butang cancel tak jumpa — boleh tolong semak?",issues,1
 "tuan, boleh explain pasal cancel pesanan tapi masih aktif?",issues,1
-"boss, boleh explain pasal retur tak boleh submit?",issues,3
+"boss, boleh explain pasal retur tak boleh submit?",issues,1
 tempoh servis ~4 jam?,search,1
 servis cover Sabah ke?,search,1
-"boss, boleh explain pasal poin berkurang sendiri?",issues,1
-"tuan, boleh explain pasal tak boleh upload gambar bukti?",issues,2
-"tuan, poin tak masuk — boleh tolong semak?",issues,3
+"boss, boleh explain pasal poin berkurang sendiri?",issues,2
+"tuan, boleh explain pasal tak boleh upload gambar bukti?",issues,1
+"tuan, poin tak masuk — boleh tolong semak?",issues,2
 produk ni ada ciri BPA-free?,search,1
-"sis, sy nak report: invoice tak keluar/salah",issues,1
-servis on-site datang rumah blh?,search,2
-refund pending lama. Tolong update status ya,issues,2
+"sis, sy nak report: invoice tak keluar/salah",issues,2
+servis on-site datang rumah blh?,search,1
 refund masuk ke wallet tapi nak ke bank. Tolong update status ya,issues,2
-MIN REFUND MASUK KE WALLET TAPI NAK KE BANK!!!,issues,3
-"min, kurier gagal hantar tanpa call — boleh tlng semak?",issues,2
-"abang, boleh explain pasal halaman payment blank?",issues,3
-servis cover KK ke?,search,3
-"puan, stok warna gold ada tak?",search,3
-blh bayar guna paylater/ansuran?,search,3
+MIN REFUND MASUK KE WALLET TAPI NAK KE BANK!!!,issues,1
+"min, kurier gagal hantar tanpa call — boleh tlng semak?",issues,1
+"abang, boleh explain pasal halaman payment blank?",issues,1
+servis cover KK ke?,search,1
+"puan, stok warna gold ada tak?",search,1
+blh bayar guna paylater/ansuran?,search,1
 tracking salah nombor... ada cara cepat tak?,issues,3
-custom siap 3 hari?,search,2
+custom siap 3 hari?,search,1
 kalau beli 200 unit dapat diskaun?,search,1
-bro kenapa kena caj dua kali?,issues,2
-"sis, mohon bantu: tak boleh login",issues,2
-parcel tersangkut di hub. Tolong update status ya,issues,3
-blh bayar guna e-wallet?,search,2
-harga pakej enterprise berapa?,search,3
+bro kenapa kena caj dua kali?,issues,1
+parcel tersangkut di hub. Tolong update status ya,issues,2
+harga pakej enterprise berapa?,search,1
 "akak, stok warna silver ada tak?",search,1
 butang cancel tak jumpa... ada cara cepat tak?,issues,3
-"boss, boleh explain pasal website error masa bayar?",issues,3
-"min, parcel delivered tapi tak terima — boleh tlng semak?",issues,2
-"bro, stok warna beige ada tak?",search,2
+"boss, boleh explain pasal website error masa bayar?",issues,1
+"min, parcel delivered tapi tak terima — boleh tlng semak?",issues,1
+"bro, stok warna beige ada tak?",search,1
 "tuan, stok warna beige ada tak?",search,1
-pos ke Sabah berapa hari?,search,2
-resi/tracking belum keluar... ada cara cepat tak?,issues,2
-tempoh servis ~2 jam?,search,2
+pos ke Sabah berapa hari?,search,1
+tempoh servis ~2 jam?,search,1
 "kak, mohon bantu: slot booking berubah sendiri",issues,1
-tuan kenapa alamat penghantaran nak tukar?,issues,3
+tuan kenapa alamat penghantaran nak tukar?,issues,2
 custom siap 5 hari?,search,1
 OTP tak sampai... boleh bagi info lanjut?,issues,1
-pos antarabangsa blh?,search,3
-servis cuci/cleaning ada tak?,search,2
+pos antarabangsa blh?,search,1
+servis cuci/cleaning ada tak?,search,1
 "min, sy nak report: halaman payment blank",issues,1
-"puan, mohon bantu: tak blh login",issues,3
-tak boleh login. Tolong update status ya,issues,3
+"puan, mohon bantu: tak blh login",issues,1
+tak boleh login. Tolong update status ya,issues,2
 barang belum dipos. Tolong update status ya,issues,2
 blh bayar guna transfer bank?,search,1
-duit dah ditolak tapi order tak wujud. Tolong update status ya,issues,3
-MIN POIN TAK MASUK!!!,issues,3
-custom siap 14 hari?,search,2
-"boss, saya nak follow up: akaun digodam",issues,3
-"akak, mohon bantu: OTP tak sampai",issues,3
+duit dah ditolak tapi order tak wujud. Tolong update status ya,issues,2
+MIN POIN TAK MASUK!!!,issues,2
+custom siap 14 hari?,search,1
+"boss, saya nak follow up: akaun digodam",issues,1
+"akak, mohon bantu: OTP tak sampai",issues,1
 boss kenapa alamat penghantaran nak tukar?,issues,2
 parcel return to sender. Tolong update status ya,issues,2
 poin tak masuk... boleh bagi info lanjut?,issues,2
-"kak, refund untuk retur belum masuk — boleh tlng semak?",issues,2
+"kak, refund untuk retur belum masuk — boleh tlng semak?",issues,1
 "admin, stok warna maroon ada tak?",search,1
 "admin, sy nak report: voucher tak blh apply",issues,1
-"tuan, mohon bantu: tiket aduan tiada update",issues,3
+"tuan, mohon bantu: tiket aduan tiada update",issues,1
 "bro, tlng bantu ASAP: poin tak masuk",issues,2
-abang kenapa akaun terkunci?,issues,3
+abang kenapa akaun terkunci?,issues,1
 "puan, stok warna kelabu ada tak?",search,1
-akaun digodam... boleh bagi info lanjut?,issues,2
+akaun digodam... boleh bagi info lanjut?,issues,1
 "boss, diskaun tak reflect — blh tolong semak?",issues,1
-produk ni ada ciri vegan-friendly?,search,2
-"bro, saya nak follow up: invoice tak keluar/salah",issues,1
-size 45 masih available?,search,3
-"sis, stok warna putih ada tak?",search,3
-order stuck diproses... boleh bagi info lanjut?,issues,3
-"akak, bayaran berjaya tapi status masih unpaid — blh tlng semak?",issues,3
-"sis, saya nak follow up: refund masuk tapi jumlah tak betul",issues,3
+"bro, saya nak follow up: invoice tak keluar/salah",issues,2
+size 45 masih available?,search,1
+"sis, stok warna putih ada tak?",search,1
+order stuck diproses... boleh bagi info lanjut?,issues,1
+"akak, bayaran berjaya tapi status masih unpaid — blh tlng semak?",issues,2
+"sis, saya nak follow up: refund masuk tapi jumlah tak betul",issues,1
 "sis, mohon bantu: invoice tak keluar/salah",issues,2
-"admin, sy nak report: retur tak boleh submit",issues,2
-"puan, mohon bantu: refund tak masuk ke bank",issues,2
-retur tak boleh submit... boleh bagi info lanjut?,issues,2
-"sis, mohon bantu: akaun terkunci",issues,2
+"admin, sy nak report: retur tak boleh submit",issues,1
+"puan, mohon bantu: refund tak masuk ke bank",issues,1
+retur tak boleh submit... boleh bagi info lanjut?,issues,1
+"sis, mohon bantu: akaun terkunci",issues,1
 "puan, mohon bantu: kurier gagal hantar tanpa call",issues,1
 min kenapa alamat penghantaran nak tukar?,issues,2
-"admin, tlng bantu ASAP: booking hilang dari jadual",issues,2
-tuan kenapa tracking tak update?,issues,3
-freegift tak ada... boleh bagi info lanjut?,issues,1
-"boss, refund untuk retur belum masuk — boleh tolong semak?",issues,2
-"min, status retur tak bergerak — boleh tlng semak?",issues,1
+"admin, tlng bantu ASAP: booking hilang dari jadual",issues,1
+tuan kenapa tracking tak update?,issues,1
+freegift tak ada... boleh bagi info lanjut?,issues,2
+"boss, refund untuk retur belum masuk — boleh tolong semak?",issues,1
+"min, status retur tak bergerak — boleh tlng semak?",issues,2
 "kak, tlng bantu ASAP: bayaran berjaya tapi status masih unpaid",issues,2
-"tuan, stok warna hitam ada tak?",search,3
+"tuan, stok warna hitam ada tak?",search,1
 kurier gagal hantar tanpa call. Tolong update status ya,issues,1
 ada promo flash sale sekarang?,search,1
-"bro, stok warna hitam ada tak?",search,3
+"bro, stok warna hitam ada tak?",search,1
 "sis, stok warna copper ada tak?",search,1
-"min, stok warna krim ada tak?",search,2
+"min, stok warna krim ada tak?",search,1
 "admin, sy nak report: app crash masa checkout",issues,1
-"akak, mohon bantu: resi/tracking belum keluar",issues,2
-tak boleh login... boleh bagi info lanjut?,issues,2
-"admin, tlng bantu ASAP: status retur tak bergerak",issues,1
+"akak, mohon bantu: resi/tracking belum keluar",issues,1
+tak boleh login... boleh bagi info lanjut?,issues,1
+"admin, tlng bantu ASAP: status retur tak bergerak",issues,2
 blh bayar guna kad debit?,search,1
-"boss, mohon bantu: caj tambahan servis",issues,3
-servis cover Putrajaya ke?,search,2
+"boss, mohon bantu: caj tambahan servis",issues,1
+servis cover Putrajaya ke?,search,1
 barang rosak/pecah... boleh bagi info lanjut?,issues,1
-"admin, stok warna sage ada tak?",search,2
+"admin, stok warna sage ada tak?",search,1
 blh konsultasi dulu?,search,1
 "abang, stok warna putih ada x?",search,1
-"sis, sy nak report: halaman payment blank",issues,2
-"akak, voucher tak boleh apply — boleh tlng semak?",issues,3
+"sis, sy nak report: halaman payment blank",issues,1
+"akak, voucher tak boleh apply — boleh tlng semak?",issues,2
 booking hilang dari jadual. Tolong update status ya,issues,1
 "kak, mohon bantu: invoice tak keluar/salah",issues,2
-servis maintenance ada x?,search,3
-size XXL masih available?,search,2
+servis maintenance ada x?,search,1
+size XXL masih available?,search,1
 "min, stok warna navy ada tak?",search,1
 "kak, stok warna kelabu ada tak?",search,1
-"boss, mohon bantu: website error masa bayar",issues,2
-MIN TAK BOLEH UPLOAD GAMBAR BUKTI!!!,issues,3
+"boss, mohon bantu: website error masa bayar",issues,1
+MIN TAK BOLEH UPLOAD GAMBAR BUKTI!!!,issues,1
 "min, diskaun tak reflect — boleh tolong semak?",issues,1
-pos ke Johor berapa hari?,search,3
-"tuan, stok warna navy ada x?",search,3
-pos ke Seremban berapa hari?,search,2
+pos ke Johor berapa hari?,search,1
+"tuan, stok warna navy ada x?",search,1
 akaun digodam. Tolong update status ya,issues,1
-servis servis kecemasan ada x?,search,2
-barang rosak/pecah. Tolong update status ya,issues,3
-produk ni ada ciri tahan air?,search,2
-min kenapa barang rosak/pecah?,issues,3
-"min, mohon bantu: OTP expired",issues,2
-"min, sy nak report: OTP tak sampai",issues,3
-size 46 masih available?,search,3
-"weh, tlng bantu ASAP: diskaun tak reflect",issues,3
-alamat penghantaran nak tukar... boleh bagi info lanjut?,issues,1
-size 39 masih available?,search,3
-kalau beli 50 unit dapat diskaun?,search,3
-produk ni ada ciri WiFi?,search,3
+servis servis kecemasan ada x?,search,1
+barang rosak/pecah. Tolong update status ya,issues,1
+min kenapa barang rosak/pecah?,issues,1
+"min, mohon bantu: OTP expired",issues,1
+"min, sy nak report: OTP tak sampai",issues,1
+size 46 masih available?,search,1
+"weh, tlng bantu ASAP: diskaun tak reflect",issues,1
+alamat penghantaran nak tukar... boleh bagi info lanjut?,issues,2
+size 39 masih available?,search,1
+kalau beli 50 unit dapat diskaun?,search,1
+produk ni ada ciri WiFi?,search,1
 "puan, booking servis technician tak datang — boleh tlng semak?",issues,1
 "boss, stok warna maroon ada tak?",search,1
-size 43 masih available?,search,3
-puan kenapa invoice tak keluar/salah?,issues,1
-pos ke Bangi berapa hari?,search,2
+size 43 masih available?,search,1
+puan kenapa invoice tak keluar/salah?,issues,2
+pos ke Bangi berapa hari?,search,1
 "tuan, barang kurang/aksesori hilang — boleh tolong semak?",issues,1
 "kak, sy nak report: akaun terkunci",issues,1
 servis cover Penang ke?,search,1
 "boss, tlng bantu ASAP: tiket aduan tiada update",issues,1
-"puan, tlng bantu ASAP: booking hilang dari jadual",issues,3
+"puan, tlng bantu ASAP: booking hilang dari jadual",issues,1
 harga pakej starter berapa?,search,1
-"boss, poin berkurang sendiri — boleh tolong semak?",issues,3
-admin kenapa tiket aduan tiada update?,issues,3
-"admin, boleh bantu resolve parcel return to sender hari ni?",issues,3
-website error masa bayar... boleh bagi info lanjut?,issues,3
-"bro, tlng bantu ASAP: hasil servis tak kemas",issues,2
-"weh, sy nak report: chat support tak boleh send",issues,2
-"sis, bukti pembayaran belum disemak — boleh tolong semak?",issues,3
+"boss, poin berkurang sendiri — boleh tolong semak?",issues,2
+admin kenapa tiket aduan tiada update?,issues,1
+"admin, boleh bantu resolve parcel return to sender hari ni?",issues,1
+website error masa bayar... boleh bagi info lanjut?,issues,1
+"bro, tlng bantu ASAP: hasil servis tak kemas",issues,1
+"weh, sy nak report: chat support tak boleh send",issues,1
+"sis, bukti pembayaran belum disemak — boleh tolong semak?",issues,1
 "weh, stok warna navy ada tak?",search,1
-"puan, stok warna beige ada tak?",search,2
+"puan, stok warna beige ada tak?",search,1
 "kak, tlng bantu ASAP: refund masuk ke wallet tapi nak ke bank",issues,1
-boleh request gift wrap/kad ucapan?,search,3
-"tuan, tlng bantu ASAP: duit dah ditolak tapi order tak wujud",issues,2
-kurier minta caj tambahan masa delivery... blh bagi info lanjut?,issues,2
-"kak, blh bantu resolve retur tak blh submit hari ni?",issues,3
+boleh request gift wrap/kad ucapan?,search,1
+"tuan, tlng bantu ASAP: duit dah ditolak tapi order tak wujud",issues,1
+kurier minta caj tambahan masa delivery... blh bagi info lanjut?,issues,1
+"kak, blh bantu resolve retur tak blh submit hari ni?",issues,1
 "admin, stok warna kelabu ada tak?",search,1
-size 36 masih available?,search,3
+size 36 masih available?,search,1
 size S masih available?,search,1
-servis cover Bangi ke?,search,2
+servis cover Bangi ke?,search,1
 "akak, stok warna sage ada tak?",search,1
-size M masih available?,search,2
-"admin, boleh bantu resolve refund pending lama hari ni?",issues,3
-"weh, sy nak report: order stuck packing",issues,2
-"kak, sy nak report: tak boleh login",issues,3
-"puan, tlng bantu ASAP: hasil servis tak kemas",issues,2
+size M masih available?,search,1
+"admin, boleh bantu resolve refund pending lama hari ni?",issues,1
+"weh, sy nak report: order stuck packing",issues,1
+"kak, sy nak report: tak boleh login",issues,1
+"puan, tlng bantu ASAP: hasil servis tak kemas",issues,1
 "min, boleh bantu resolve poin berkurang sendiri hari ni?",issues,2
-"boss, stok warna sage ada tak?",search,3
+"boss, stok warna sage ada tak?",search,1
 min kenapa slot booking berubah sendiri?,issues,1
-produk ni ada ciri anti slip?,search,3
-akaun terkunci. Tolong update status ya,issues,3
-"admin, sy nak follow up: voucher tak boleh apply",issues,3
-size 47 masih available?,search,3
-"weh, stok warna maroon ada tak?",search,3
-freegift tak ada. Tolong update status ya,issues,3
-"tuan, stok warna navy ada tak?",search,2
-"weh, sy nak report: topup wallet berjaya tapi balance tak naik",issues,2
-"bro, stok warna sage ada tak?",search,2
-"weh, sy nak follow up: refund masuk ke wallet tapi nak ke bank",issues,3
+produk ni ada ciri anti slip?,search,1
+akaun terkunci. Tolong update status ya,issues,1
+"admin, sy nak follow up: voucher tak boleh apply",issues,2
+size 47 masih available?,search,1
+"weh, stok warna maroon ada tak?",search,1
+freegift tak ada. Tolong update status ya,issues,2
+"tuan, stok warna navy ada tak?",search,1
+"weh, sy nak report: topup wallet berjaya tapi balance tak naik",issues,1
+"bro, stok warna sage ada tak?",search,1
+"weh, sy nak follow up: refund masuk ke wallet tapi nak ke bank",issues,1
 "boss, sy nak report: invoice PDF rosak",issues,1
 "tuan, sy nak report: slot booking berubah sendiri",issues,1
 size XL masih available?,search,1
 pos ke Melaka berapa hari?,search,1
-"puan, boleh bantu resolve tak boleh login hari ni?",issues,3
+"puan, boleh bantu resolve tak boleh login hari ni?",issues,1
 "boss, tlng bantu ASAP: transaksi pending terlalu lama",issues,1
-"min, tlng bantu ASAP: barang salah item/warna/saiz",issues,3
-"weh, stok warna hitam matte ada tak?",search,2
+"min, tlng bantu ASAP: barang salah item/warna/saiz",issues,1
+"weh, stok warna hitam matte ada tak?",search,1
 "min, tlng bantu ASAP: pesanan duplicate dalam sistem",issues,1
 "akak, mohon bantu: OTP expired",issues,1
-"kak, stok warna sage ada tak?",search,2
-"weh, tlng bantu ASAP: voucher tak boleh apply",issues,1
-"abang, boleh bantu resolve kurier minta caj tambahan masa delivery hari ni?",issues,2
-servis cover Shah Alam ke?,search,3
-MIN KURIER GAGAL HANTAR TANPA CALL!!!,issues,2
+"kak, stok warna sage ada tak?",search,1
+"weh, tlng bantu ASAP: voucher tak boleh apply",issues,2
+"abang, boleh bantu resolve kurier minta caj tambahan masa delivery hari ni?",issues,1
+servis cover Shah Alam ke?,search,1
 "sis, stok warna maroon ada tak?",search,1
-"tuan, stok warna silver ada tak?",search,2
+"tuan, stok warna silver ada tak?",search,1
 "puan, stok warna champagne ada tak?",search,1
-pos ke Ipoh berapa hari?,search,2
+pos ke Ipoh berapa hari?,search,1
 "sis, boleh bantu resolve parcel delivered tapi tak terima hari ni?",issues,1
-"sis, boleh bantu resolve refund masuk ke wallet tapi nak ke bank hari ni?",issues,3
-"kak, stok warna maroon ada tak?",search,3
-"weh, stok warna olive ada tak?",search,2
+"sis, boleh bantu resolve refund masuk ke wallet tapi nak ke bank hari ni?",issues,1
+"kak, stok warna maroon ada tak?",search,1
 "kak, saya nak follow up: topup wallet berjaya tapi balance tak naik",issues,1
-"akak, boleh bantu resolve QR tiket/voucher tak valid hari ni?",issues,3
+"akak, boleh bantu resolve QR tiket/voucher tak valid hari ni?",issues,1
 OTP expired... boleh bagi info lanjut?,issues,1
 "sis, saya nak follow up: refund tak masuk ke bank",issues,1
-servis cover Johor ke?,search,2
-"puan, sy nak report: refund pending lama",issues,2
-"bro, stok warna hitam matte ada tak?",search,2
-"puan, saya nak follow up: bayaran berjaya tapi status masih unpaid",issues,1
+"puan, sy nak report: refund pending lama",issues,1
+"bro, stok warna hitam matte ada tak?",search,1
+"puan, saya nak follow up: bayaran berjaya tapi status masih unpaid",issues,2
 "min, stok warna champagne ada tak?",search,1
-"sis, boleh bantu resolve bayaran berjaya tapi status masih unpaid hari ni?",issues,3
-"abang, stok warna olive ada x?",search,3
+"sis, boleh bantu resolve bayaran berjaya tapi status masih unpaid hari ni?",issues,2
+"abang, stok warna olive ada x?",search,1
 "tuan, mohon bantu: tak boleh login",issues,1
-"akak, boleh bantu resolve hasil servis tak kemas hari ni?",issues,2
-"kak, saya nak follow up: order stuck diproses",issues,2
-transaksi pending terlalu lama. Tolong update status ya,issues,1
+"akak, boleh bantu resolve hasil servis tak kemas hari ni?",issues,1
+"kak, saya nak follow up: order stuck diproses",issues,1
+transaksi pending terlalu lama. Tolong update status ya,issues,2
 voucher tak boleh apply... boleh bagi info lanjut?,issues,2
-kalau beli 500 unit dapat diskaun?,search,2
-invoice tak keluar/salah. Tolong update status ya,issues,1
+kalau beli 500 unit dapat diskaun?,search,1
+invoice tak keluar/salah. Tolong update status ya,issues,2
 invoice PDF rosak... boleh bagi info lanjut?,issues,1
-"sis, boleh bantu resolve alamat penghantaran nak tukar hari ni?",issues,1
-servis servis on-call ada tak?,search,3
+"sis, boleh bantu resolve alamat penghantaran nak tukar hari ni?",issues,2
+servis servis on-call ada tak?,search,1
 puan kenapa duit dah ditolak tapi order tak wujud?,issues,1
 "min, blh bantu resolve booking servis technician tak datang hari ni?",issues,1
-"kak, tlng bantu ASAP: alamat penghantaran nak tukar",issues,3
+"kak, tlng bantu ASAP: alamat penghantaran nak tukar",issues,2
 "min, boleh bantu resolve booking servis technician tak datang hari ni?",issues,1
-"boss, boleh bantu resolve barang rosak/pecah hari ni?",issues,2
-"sis, saya nak follow up: OTP tak sampai",issues,3
-blh bayar guna QRIS?,search,3
-"abang, tlng bantu ASAP: barang kurang/aksesori hilang",issues,2
+"boss, boleh bantu resolve barang rosak/pecah hari ni?",issues,1
+"sis, saya nak follow up: OTP tak sampai",issues,1
+blh bayar guna QRIS?,search,1
+"abang, tlng bantu ASAP: barang kurang/aksesori hilang",issues,1
 blh request gift wrap/kad ucapan?,search,1
-"boss, mohon bantu: refund pending lama",issues,3
-diskaun tak reflect... boleh bagi info lanjut?,issues,2
-tuan kenapa parcel delivered tapi tak terima?,issues,3
-"akak, mohon bantu: barang belum dipos",issues,2
-"bro, OTP tak sampai — blh tolong semak?",issues,2
+"boss, mohon bantu: refund pending lama",issues,1
+diskaun tak reflect... boleh bagi info lanjut?,issues,1
+tuan kenapa parcel delivered tapi tak terima?,issues,1
+"akak, mohon bantu: barang belum dipos",issues,1
+"bro, OTP tak sampai — blh tolong semak?",issues,1
 "admin, tlng bantu ASAP: barang rosak/pecah",issues,1
 tak boleh upload gambar bukti... boleh bagi info lanjut?,issues,1
-pos ke Shah Alam berapa hari?,search,3
-servis cover Seremban ke?,search,2
-pre-order ambil 30 hari?,search,3
-"boss, stok warna krim ada tak?",search,2
-"akak, bayaran berjaya tapi status masih unpaid untuk akaun sy61874 — boleh semak ya?",issues,1
+pos ke Shah Alam berapa hari?,search,1
+servis cover Seremban ke?,search,1
+pre-order ambil 30 hari?,search,1
+"boss, stok warna krim ada tak?",search,1
+"akak, bayaran berjaya tapi status masih unpaid untuk akaun sy61874 — boleh semak ya?",issues,2
 "min, alamat penghantaran nak tukar untuk invois #68861 — boleh semak ya?",issues,2
-"weh, saya nak follow up: booking hilang dari jadual",issues,3
-"min, stok warna sage ada tak?",search,3
+"weh, saya nak follow up: booking hilang dari jadual",issues,1
+"min, stok warna sage ada tak?",search,1
 "boss, sy nak report: poin berkurang sendiri",issues,2
-"sis, booking hilang dari jadual untuk booking #75542 — boleh semak ya?",issues,2
-tracking tak update... boleh bantu saya?,issues,3
-min kenapa refund masuk ke wallet tapi nak ke bank?,issues,2
-"min, parcel tersangkut di hub untuk booking #37318 — boleh semak ya?",issues,3
-kurier gagal hantar tanpa call. Tolong update status,issues,2
-"admin, bukti pembayaran belum disemak untuk pesanan tadi34467 — boleh semak ya?",issues,1
-"admin, tlng bantu ASAP: parcel tersangkut di hub",issues,3
-sis kenapa refund masuk ke wallet tapi nak ke bank?,issues,3
-"admin, stok warna lavender ada tak?",search,2
-"admin, stok warna krim ada x?",search,3
+"sis, booking hilang dari jadual untuk booking #75542 — boleh semak ya?",issues,1
+tracking tak update... boleh bantu saya?,issues,1
+min kenapa refund masuk ke wallet tapi nak ke bank?,issues,1
+"min, parcel tersangkut di hub untuk booking #37318 — boleh semak ya?",issues,1
+kurier gagal hantar tanpa call. Tolong update status,issues,1
+"admin, bukti pembayaran belum disemak untuk pesanan tadi34467 — boleh semak ya?",issues,2
+"admin, tlng bantu ASAP: parcel tersangkut di hub",issues,1
+sis kenapa refund masuk ke wallet tapi nak ke bank?,issues,1
+"admin, stok warna krim ada x?",search,1
 "bro, mohon bantu: bukti pembayaran belum disemak",issues,1
 "min, saya nak follow up: retur tak boleh submit",issues,1
-akaun terkunci... boleh bantu saya?,issues,2
+akaun terkunci... boleh bantu saya?,issues,1
 servis cover Alor Setar ke?,search,1
-custom siap 30 hari?,search,2
-"abang, mohon bantu: OTP tak sampai",issues,2
-bukti pembayaran belum disemak... boleh bantu saya?,issues,2
+custom siap 30 hari?,search,1
+"abang, mohon bantu: OTP tak sampai",issues,1
+bukti pembayaran belum disemak... boleh bantu saya?,issues,1
 produk ni ada ciri noise cancelling?,search,1
-"puan, mohon bantu: akaun terkunci",issues,2
-servis servis berkala ada x?,search,3
-refund tak masuk ke bank... boleh bantu saya?,issues,2
-"kak, mohon bantu: hasil servis tak kemas",issues,3
+"puan, mohon bantu: akaun terkunci",issues,1
+servis servis berkala ada x?,search,1
+refund tak masuk ke bank... boleh bantu saya?,issues,1
+"kak, mohon bantu: hasil servis tak kemas",issues,1
 refund pending lama... boleh bantu saya?,issues,1
-"kak, sy nak report: order stuck packing",issues,2
-"abang, stok warna olive ada tak?",search,2
+"kak, sy nak report: order stuck packing",issues,1
+"abang, stok warna olive ada tak?",search,1
 "puan, mohon bantu: booking hilang dari jadual",issues,1
 "admin, tlng bantu ASAP: OTP tak sampai",issues,1
-"cik, mohon bantu: OTP expired",issues,2
+"cik, mohon bantu: OTP expired",issues,1
 "bro, stok warna mint ada x?",search,1
-produk ni ada ciri auto-off?,search,2
-"boss, tlng bantu ASAP: website error masa bayar",issues,3
+produk ni ada ciri auto-off?,search,1
+"boss, tlng bantu ASAP: website error masa bayar",issues,1
 pos ke Alor Setar berapa hari?,search,1
 tempoh servis ~8 jam?,search,1
-"abang, sy nak report: alamat pada label salah",issues,2
-"abang, sy nak report: chat support tak boleh send",issues,2
-"akak, stok warna hitam matte ada tak?",search,3
-"weh, saya nak follow up: chat support tak boleh send",issues,2
-"abang, tlng bantu ASAP: QR tiket/voucher tak valid",issues,3
+"abang, sy nak report: alamat pada label salah",issues,1
+"abang, sy nak report: chat support tak boleh send",issues,1
+"akak, stok warna hitam matte ada tak?",search,1
+"weh, saya nak follow up: chat support tak boleh send",issues,1
+"abang, tlng bantu ASAP: QR tiket/voucher tak valid",issues,1
 "min, stok warna hitam ada tak?",search,1
-"weh, sy nak report: bayaran berjaya tapi status masih unpaid",issues,1
+"weh, sy nak report: bayaran berjaya tapi status masih unpaid",issues,2
 ada promo voucher repeat buyer sekarang?,search,1
 parcel return to sender... boleh bantu saya?,issues,1
 "admin, stok warna krim ada tak?",search,1
-"abang, stok warna navy ada tak?",search,3
+"abang, stok warna navy ada tak?",search,1
 "min, stok warna putih ada tak?",search,1
-"bro, tlng bantu ASAP: akaun digodam",issues,2
-"bro, stok warna maroon ada tak?",search,3
-"sis, stok warna navy ada tak?",search,3
-"tuan, sy nak report: freegift tak ada",issues,3
-"sis, mohon bantu: poin berkurang sendiri",issues,1
-tiket aduan tiada update... blh bantu saya?,issues,2
+"bro, tlng bantu ASAP: akaun digodam",issues,1
+"bro, stok warna maroon ada tak?",search,1
+"sis, stok warna navy ada tak?",search,1
+"tuan, sy nak report: freegift tak ada",issues,2
+"sis, mohon bantu: poin berkurang sendiri",issues,2
+tiket aduan tiada update... blh bantu saya?,issues,1
 servis inspection ada x?,search,1
-kena caj dua kali. Tolong update status,issues,2
+kena caj dua kali. Tolong update status,issues,1
 tiket aduan tiada update... boleh bantu saya?,issues,1
-"weh, stok warna champagne ada tak?",search,3
-"tuan, mohon bantu: booking servis technician tak datang",issues,3
-"abang, sy nak report: refund untuk retur belum masuk",issues,2
+"weh, stok warna champagne ada tak?",search,1
+"tuan, mohon bantu: booking servis technician tak datang",issues,1
+"abang, sy nak report: refund untuk retur belum masuk",issues,1
 "tuan, tlng bantu ASAP: invoice PDF rosak",issues,1
-order stuck diproses. Tolong update status,issues,1
-poin tak masuk. Tolong update status,issues,1
-"boss, saya nak follow up: bukti pembayaran belum disemak",issues,3
-"admin, stok warna copper ada tak?",search,2
-"boss, stok warna mint ada tak?",search,2
+order stuck diproses. Tolong update status,issues,2
+poin tak masuk. Tolong update status,issues,2
+"boss, saya nak follow up: bukti pembayaran belum disemak",issues,1
+"admin, stok warna copper ada tak?",search,1
 "puan, caj tambahan servis untuk pesanan tadi39054 — boleh semak ya?",issues,1
-"weh, order stuck diproses untuk booking #65500 — boleh semak ya?",issues,3
-"bro, stok warna lavender ada tak?",search,2
-"min, mohon bantu: tak boleh login",issues,3
-"cik, QR tiket/voucher tak valid untuk transaksi #31277 — boleh semak ya?",issues,1
+"weh, order stuck diproses untuk booking #65500 — boleh semak ya?",issues,1
+"bro, stok warna lavender ada tak?",search,1
+"min, mohon bantu: tak boleh login",issues,1
+"cik, QR tiket/voucher tak valid untuk transaksi #31277 — boleh semak ya?",issues,2
 tak boleh login... boleh bantu saya?,issues,1
-"admin, stok warna copper ada x?",search,3
-blh bayar guna kad kredit?,search,3
+"admin, stok warna copper ada x?",search,1
+blh bayar guna kad kredit?,search,1
 MIN WEBSITE ERROR MASA BAYAR!!!,issues,1
-MIN APP CRASH MASA CHECKOUT!!!,issues,3
-boleh bayar guna QRIS?,search,2
-"cik, stok warna gold ada tak?",search,2
-"boss, stok warna lavender ada tak?",search,3
+MIN APP CRASH MASA CHECKOUT!!!,issues,1
+boleh bayar guna QRIS?,search,1
+"boss, stok warna lavender ada tak?",search,1
 caj tambahan servis. Tolong update status,issues,2
 kurier gagal hantar tanpa call... boleh bantu sy?,issues,1
-"abang, saya nak follow up: app crash masa checkout",issues,3
-"admin, stok warna hitam ada tak?",search,3
-"boss, mohon bantu: order stuck diproses",issues,3
-"admin, retur tak boleh submit untuk akaun sy37641 — boleh semak ya?",issues,2
-"admin, stok warna navy ada tak?",search,2
-"puan, stok warna navy ada tak?",search,3
-"puan, stok warna maroon ada tak?",search,2
-chat support tak boleh send. Tolong update status,issues,3
+"abang, saya nak follow up: app crash masa checkout",issues,1
+"admin, stok warna hitam ada tak?",search,1
+"boss, mohon bantu: order stuck diproses",issues,1
+"admin, retur tak boleh submit untuk akaun sy37641 — boleh semak ya?",issues,1
+"admin, stok warna navy ada tak?",search,1
+"puan, stok warna navy ada tak?",search,1
+"puan, stok warna maroon ada tak?",search,1
+chat support tak boleh send. Tolong update status,issues,2
 "min, saya nak follow up: transaksi pending terlalu lama",issues,1
-"tuan, saya nak follow up: diskaun tak reflect",issues,3
+"tuan, saya nak follow up: diskaun tak reflect",issues,1
 "kak, saya nak follow up: transaksi pending terlalu lama",issues,1
 "min, stok warna kelabu ada tak?",search,1
-"cik, sy nak report: tak boleh login",issues,3
+"cik, sy nak report: tak boleh login",issues,1
 "weh, saya nak follow up: duit dah ditolak tapi order tak wujud",issues,1
 "sis, tlng bantu ASAP: akaun terkunci",issues,1
-"cik, stok warna mint ada x?",search,2
-"kak, stok warna olive ada tak?",search,3
+"cik, stok warna mint ada x?",search,1
+"kak, stok warna olive ada tak?",search,1
 "kak, stok warna putih ada tak?",search,1
-"boss, stok warna kelabu ada tak?",search,3
-"cik, stok warna navy ada tak?",search,2
-"abang, stok warna silver ada tak?",search,3
+"boss, stok warna kelabu ada tak?",search,1
+"abang, stok warna silver ada tak?",search,1
 voucher tak boleh apply... mohon bantu ya,issues,2
 "kak, blh bantu resolve kena caj dua kali hari ni?",issues,1
-"boss, tlng bantu ASAP: kena caj dua kali",issues,3
+"boss, tlng bantu ASAP: kena caj dua kali",issues,1
 refund pending lama. Tolong update status,issues,1
-"boss, saya nak follow up: chat support tak boleh send",issues,3
-"puan, stok warna teal ada tak?",search,3
+"boss, saya nak follow up: chat support tak boleh send",issues,1
+"puan, stok warna teal ada tak?",search,1
 "weh, sy nak report: voucher tak boleh apply",issues,2
-bayaran berjaya tapi status masih unpaid... mohon bantu ya,issues,1
+bayaran berjaya tapi status masih unpaid... mohon bantu ya,issues,2
 "tuan, resi/tracking belum keluar untuk akaun saya48769 — boleh semak ya?",issues,1
-MIN LOGIN GUNA GOOGLE/APPLE GAGAL!!!,issues,2
+MIN LOGIN GUNA GOOGLE/APPLE GAGAL!!!,issues,1
 website error masa bayar... mohon bantu ya,issues,1
-parcel delivered tapi tak terima. Tolong update status,issues,2
-"cik, blh bantu resolve caj tambahan servis hari ni?",issues,3
-"bro, blh bantu resolve chat support tak boleh send hari ni?",issues,2
+parcel delivered tapi tak terima. Tolong update status,issues,1
+"cik, blh bantu resolve caj tambahan servis hari ni?",issues,1
+"bro, blh bantu resolve chat support tak boleh send hari ni?",issues,1
 "tuan, voucher hangus sebab payment gagal untuk invois #10963 — boleh semak ya?",issues,1
 website error masa bayar. Tolong update status,issues,1
-pos ke Kuantan berapa hari?,search,2
-min kenapa duit dah ditolak tapi order tak wujud?,issues,2
-min kenapa parcel tersangkut di hub?,issues,2
+pos ke Kuantan berapa hari?,search,1
+min kenapa parcel tersangkut di hub?,issues,1
 "boss, blh bantu resolve invoice tak keluar/salah hari ni?",issues,2
-servis konsultasi ada x?,search,2
-"akak, stok warna putih ada tak?",search,3
-"puan, blh bantu resolve website error masa bayar hari ni?",issues,2
+servis konsultasi ada x?,search,1
+"akak, stok warna putih ada tak?",search,1
+"puan, blh bantu resolve website error masa bayar hari ni?",issues,1
 "boss, stok warna sage ada x?",search,1
-"min, freegift tak ada untuk pesanan tadi48092 — boleh semak ya?",issues,3
+"min, freegift tak ada untuk pesanan tadi48092 — boleh semak ya?",issues,2
 produk ni ada ciri anti-bakteria?,search,1
 "tuan, sy nak follow up: QR tiket/voucher tak valid",issues,1
 MIN OTP EXPIRED!!!,issues,1
-servis cover Kuantan ke?,search,2
-"abang, sy nak report: freegift tak ada",issues,3
+"abang, sy nak report: freegift tak ada",issues,2
 order stuck packing... mohon bantu ya,issues,1
-"weh, stok warna lavender ada tak?",search,3
+"weh, stok warna lavender ada tak?",search,1
 "kak, blh bantu resolve status retur tak bergerak hari ni?",issues,2
 "tuan, link invoice tak boleh buka untuk invois #48767 — boleh semak ya?",issues,1
-"admin, sy nak report: hasil servis tak kemas",issues,2
-"abang, stok warna champagne ada tak?",search,2
-"kak, halaman payment blank untuk order #58341 — boleh semak ya?",issues,3
+"admin, sy nak report: hasil servis tak kemas",issues,1
+"abang, stok warna champagne ada tak?",search,1
+"kak, halaman payment blank untuk order #58341 — boleh semak ya?",issues,1
 "bro, stok warna gold ada x?",search,1
 admin kenapa resi/tracking belum keluar?,issues,1
-"boss, poin tak boleh guna untuk transaksi #89864 — boleh semak ya?",issues,2
-"akak, stok warna lavender ada tak?",search,2
-"tuan, tlng bantu ASAP: refund untuk retur belum masuk",issues,3
-"weh, blh bantu resolve refund pending lama hari ni?",issues,2
+"boss, poin tak boleh guna untuk transaksi #89864 — boleh semak ya?",issues,1
+"akak, stok warna lavender ada tak?",search,1
+"tuan, tlng bantu ASAP: refund untuk retur belum masuk",issues,1
 akak kenapa voucher tak boleh apply?,issues,2
-"abang, stok warna mint ada x?",search,3
-"kak, stok warna beige ada tak?",search,3
-"cik, stok warna beige ada tak?",search,3
+"abang, stok warna mint ada x?",search,1
+"kak, stok warna beige ada tak?",search,1
+"cik, stok warna beige ada tak?",search,1
 "min, stok warna teal ada tak?",search,1
-"kak, saya nak follow up: refund masuk ke wallet tapi nak ke bank",issues,3
+"kak, saya nak follow up: refund masuk ke wallet tapi nak ke bank",issues,1
 ada promo price drop sekarang?,search,1
 "bro, tlng bantu ASAP: website error masa bayar",issues,1
-slot booking berubah sendiri... mohon bantu ya,issues,2
+slot booking berubah sendiri... mohon bantu ya,issues,1
 "min, tlng bantu ASAP: duit dah ditolak tapi order tak wujud",issues,1
 "min, sy nak report: login guna Google/Apple gagal",issues,1
-"tuan, stok warna champagne ada x?",search,3
-"puan, transaksi pending terlalu lama untuk pesanan tadi29074 — boleh semak ya?",issues,2
-resi/tracking belum keluar. Tolong update status,issues,1
-"bro, invoice tak keluar/salah untuk pesanan tadi24882 — boleh semak ya?",issues,3
-"boss, stok warna teal ada x?",search,3
+"tuan, stok warna champagne ada x?",search,1
+"puan, transaksi pending terlalu lama untuk pesanan tadi29074 — boleh semak ya?",issues,1
+resi/tracking belum keluar. Tolong update status,issues,2
+"bro, invoice tak keluar/salah untuk pesanan tadi24882 — boleh semak ya?",issues,2
+"boss, stok warna teal ada x?",search,1
 "admin, blh bantu resolve parcel delivered tapi tak terima hari ni?",issues,1
-"tuan, saya nak follow up: status retur tak bergerak",issues,1
-refund untuk retur belum masuk... mohon bantu ya,issues,2
+"tuan, saya nak follow up: status retur tak bergerak",issues,2
+refund untuk retur belum masuk... mohon bantu ya,issues,1
 "bro, stok warna champagne ada tak?",search,1
-servis cover Kuching ke?,search,3
-"boss, saya nak follow up: booking servis technician tak datang",issues,3
+servis cover Kuching ke?,search,1
+"boss, saya nak follow up: booking servis technician tak datang",issues,1
 alamat penghantaran nak tukar... mohon bantu ya,issues,2
-"sis, barang kurang/aksesori hilang untuk transaksi #89211 — boleh semak ya?",issues,3
-"boss, stok warna silver ada tak?",search,3
-"puan, saya nak follow up: bukti pembayaran belum disemak",issues,2
+"sis, barang kurang/aksesori hilang untuk transaksi #89211 — boleh semak ya?",issues,1
+"boss, stok warna silver ada tak?",search,1
 "akak, login guna Google/Apple gagal untuk invois #80887 — boleh semak ya?",issues,1
 MIN TOPUP WALLET BERJAYA TAPI BALANCE TAK NAIK!!!,issues,1
 "tuan, order stuck diproses untuk akaun saya48291 — boleh semak ya?",issues,1
-"sis, stok warna gold ada tak?",search,3
-"cik, stok warna copper ada x?",search,2
-"bro, stok warna mint ada tak?",search,3
-freegift tak ada. Tolong update status,issues,3
+"sis, stok warna gold ada tak?",search,1
+"cik, stok warna copper ada x?",search,1
+"bro, stok warna mint ada tak?",search,1
+freegift tak ada. Tolong update status,issues,2
 "cik, voucher hangus sebab payment gagal untuk booking #78601 — blh semak ya?",issues,1
-"sis, stok warna krim ada tak?",search,2
-"admin, saya nak follow up: halaman payment blank",issues,2
-"bro, stok warna olive ada tak?",search,2
-"tuan, saya nak follow up: barang rosak/pecah",issues,2
-"cik, stok warna silver ada tak?",search,3
+"sis, stok warna krim ada tak?",search,1
+"admin, saya nak follow up: halaman payment blank",issues,1
+"bro, stok warna olive ada tak?",search,1
+"tuan, saya nak follow up: barang rosak/pecah",issues,1
+"cik, stok warna silver ada tak?",search,1
 parcel return to sender... mohon bantu ya,issues,1
 "cik, stok warna champagne ada tak?",search,1
-servis servis premium ada tak?,search,3
-"bro, saya nak follow up: caj tambahan servis",issues,2
-refund masuk tapi jumlah tak betul. Tolong update status,issues,1
+servis servis premium ada tak?,search,1
+"bro, saya nak follow up: caj tambahan servis",issues,1
+refund masuk tapi jumlah tak betul. Tolong update status,issues,2
 "cik, blh bantu resolve akaun terkunci hari ni?",issues,1
-boss kenapa slot booking berubah sendiri?,issues,3
-"cik, saya nak follow up: diskaun tak reflect",issues,3
+boss kenapa slot booking berubah sendiri?,issues,1
+"cik, saya nak follow up: diskaun tak reflect",issues,1
 "abang, sy nak report: booking servis technician tak datang",issues,1
-"cik, stok warna champagne ada x?",search,3
-MIN BARANG ROSAK/PECAH!!!,issues,3
-size 48 masih available?,search,2
-"sis, stok warna hitam ada tak?",search,2
-"boss, stok warna silver ada x?",search,2
-"encik, blh bantu resolve barang salah item/warna/saiz hari ni?",issues,3
-"kak, sy nak report: invoice tak keluar/salah",issues,3
+"cik, stok warna champagne ada x?",search,1
+MIN BARANG ROSAK/PECAH!!!,issues,1
+size 48 masih available?,search,1
+"sis, stok warna hitam ada tak?",search,1
+"boss, stok warna silver ada x?",search,1
+"encik, blh bantu resolve barang salah item/warna/saiz hari ni?",issues,1
+"kak, sy nak report: invoice tak keluar/salah",issues,2
 "akak, tlng bantu ASAP: diskaun tak reflect",issues,1
 harga pakej lite berapa?,search,1
 "abang, stok warna hitam ada tak?",search,1
@@ -1511,91 +1444,85 @@ app crash masa checkout. Tolong update status,issues,1
 "akak, transaksi gagal tapi duit tetap tolak untuk booking #45045 — boleh semak ya?",issues,1
 "puan, stok warna olive ada tak?",search,1
 transaksi gagal tapi duit tetap tolak... mohon bantu ya,issues,1
-"puan, barang belum dipos untuk order #82895 — boleh semak ya?",issues,2
+"puan, barang belum dipos untuk order #82895 — boleh semak ya?",issues,1
 "abang, sy nak report: akaun terkunci",issues,1
-"akak, stok warna maroon ada tak?",search,2
 "abang, stok warna maroon ada tak?",search,1
-"min, stok warna champagne ada x?",search,2
-servis servis on-call ada x?,search,2
-"kak, stok warna beige ada x?",search,3
+"min, stok warna champagne ada x?",search,1
+servis servis on-call ada x?,search,1
+"kak, stok warna beige ada x?",search,1
 "encik, barang rosak/pecah untuk booking #70977 — boleh semak ya?",issues,1
-"boss, sy nak report: refund pending lama",issues,3
-"min, stok warna hitam matte ada tak?",search,3
-parcel delivered tapi tak terima... mohon bantu ya,issues,2
+"boss, sy nak report: refund pending lama",issues,1
+"min, stok warna hitam matte ada tak?",search,1
+parcel delivered tapi tak terima... mohon bantu ya,issues,1
 alamat penghantaran nak tukar. Tolong update status,issues,2
-"abang, saya nak follow up: barang kurang/aksesori hilang",issues,3
-"cik, stok warna krim ada tak?",search,3
-"abang, tlng bantu ASAP: bayaran berjaya tapi status masih unpaid",issues,3
-"encik, tlng bantu ASAP: booking hilang dari jadual",issues,2
+"abang, saya nak follow up: barang kurang/aksesori hilang",issues,1
+"cik, stok warna krim ada tak?",search,1
+"abang, tlng bantu ASAP: bayaran berjaya tapi status masih unpaid",issues,2
+"encik, tlng bantu ASAP: booking hilang dari jadual",issues,1
 "boss, poin tak boleh guna untuk booking #94572 — boleh semak ya?",issues,1
-cik kenapa refund untuk retur belum masuk?,issues,3
-"weh, blh bantu resolve booking hilang dari jadual hari ni?",issues,3
-admin kenapa alamat penghantaran nak tukar?,issues,3
+cik kenapa refund untuk retur belum masuk?,issues,1
+"weh, blh bantu resolve booking hilang dari jadual hari ni?",issues,1
+admin kenapa alamat penghantaran nak tukar?,issues,2
 weh kenapa bukti pembayaran belum disemak?,issues,1
 "encik, stok warna maroon ada tak?",search,1
-"tuan, blh bantu resolve order stuck diproses hari ni?",issues,2
+"tuan, blh bantu resolve order stuck diproses hari ni?",issues,1
 "boss, blh bantu resolve website error masa bayar hari ni?",issues,1
-"puan, stok warna navy ada x?",search,2
-"min, refund masuk tapi jumlah tak betul untuk invois #61712 — boleh semak ya?",issues,2
+"puan, stok warna navy ada x?",search,1
 "cik, stok warna sage ada tak?",search,1
-"cik, transaksi pending terlalu lama untuk order #20748 — boleh semak ya?",issues,3
-"tuan, stok warna olive ada tak?",search,3
-"min, bukti pembayaran belum disemak untuk order #84503 — boleh semak ya?",issues,1
-"cik, stok warna maroon ada tak?",search,3
-transaksi pending terlalu lama... mohon bantu ya,issues,3
-"admin, stok warna hitam matte ada x?",search,2
-"akak, sy nak report: order stuck diproses",issues,3
-"puan, blh bantu resolve wallet balance berkurang sendiri hari ni?",issues,2
-"bro, stok warna navy ada tak?",search,3
-cik kenapa OTP expired?,issues,3
+"cik, transaksi pending terlalu lama untuk order #20748 — boleh semak ya?",issues,1
+"tuan, stok warna olive ada tak?",search,1
+"min, bukti pembayaran belum disemak untuk order #84503 — boleh semak ya?",issues,2
+"cik, stok warna maroon ada tak?",search,1
+transaksi pending terlalu lama... mohon bantu ya,issues,1
+"admin, stok warna hitam matte ada x?",search,1
+"akak, sy nak report: order stuck diproses",issues,1
+"puan, blh bantu resolve wallet balance berkurang sendiri hari ni?",issues,1
+"bro, stok warna navy ada tak?",search,1
+cik kenapa OTP expired?,issues,1
 puan kenapa resi/tracking belum keluar?,issues,1
 "akak, stok warna copper ada x?",search,1
-"admin, stok warna silver ada x?",search,3
-"admin, saya nak follow up: order stuck packing",issues,2
-"puan, tlng bantu ASAP: poin tak boleh guna",issues,3
+"admin, stok warna silver ada x?",search,1
+"puan, tlng bantu ASAP: poin tak boleh guna",issues,1
 "boss, stok warna gold ada tak?",search,1
-"bro, order duplicate dalam sistem untuk pesanan saya #53474 — boleh semak ya?",issues,2
-produk ni ada ciri quick dry?,search,3
-"min, kena caj dua kali untuk invois #15902 — boleh semak ya?",issues,3
-"abang, saya nak follow up: voucher hangus sebab payment gagal",issues,2
+"bro, order duplicate dalam sistem untuk pesanan saya #53474 — boleh semak ya?",issues,1
+produk ni ada ciri quick dry?,search,1
+"min, kena caj dua kali untuk invois #15902 — boleh semak ya?",issues,1
+"abang, saya nak follow up: voucher hangus sebab payment gagal",issues,1
 "kak, blh bantu resolve booking hilang dari jadual hari ni?",issues,1
 bro kenapa tracking tak update?,issues,1
 "akak, stok warna ivory ada tak?",search,1
-OTP expired... mohon bantu ya,issues,2
-"akak, poin berkurang sendiri untuk invois #75203 — boleh semak ya?",issues,3
-akaun digodam... mohon bantu ya,issues,2
+OTP expired... mohon bantu ya,issues,1
+"akak, poin berkurang sendiri untuk invois #75203 — boleh semak ya?",issues,2
+akaun digodam... mohon bantu ya,issues,1
 "admin, stok warna gold ada tak?",search,1
 "sis, stok warna champagne ada x?",search,1
 "tuan, tlng bantu ASAP: kena caj dua kali",issues,1
-"boss, stok warna hitam matte ada tak?",search,2
 "min, stok warna ivory ada tak?",search,1
 "boss, sy nak report: kena caj dua kali",issues,1
-MIN TRANSAKSI GAGAL TAPI DUIT TETAP TOLAK!!!,issues,2
-"abang, tlng bantu ASAP: bukti pembayaran belum disemak",issues,2
-"min, saya nak follow up: tiket aduan tiada update",issues,2
+MIN TRANSAKSI GAGAL TAPI DUIT TETAP TOLAK!!!,issues,1
+"abang, tlng bantu ASAP: bukti pembayaran belum disemak",issues,1
+"min, saya nak follow up: tiket aduan tiada update",issues,1
 "kak, stok warna hitam matte ada tak?",search,1
-servis cover Miri ke?,search,2
-"boss, sy nak report: tak boleh upload gambar bukti",issues,2
-"weh, invoice PDF rosak untuk booking #91958 — blh semak ya?",issues,2
-kurier minta caj tambahan masa delivery. Tolong update status,issues,3
-"encik, tlng bantu ASAP: status retur tak bergerak",issues,3
-"sis, blh bantu resolve voucher hangus sebab payment gagal hari ni?",issues,2
-pos ke Miri berapa hari?,search,2
-"kak, blh bantu resolve refund masuk ke wallet tapi nak ke bank hari ni?",issues,3
+servis cover Miri ke?,search,1
+"boss, sy nak report: tak boleh upload gambar bukti",issues,1
+"weh, invoice PDF rosak untuk booking #91958 — blh semak ya?",issues,1
+kurier minta caj tambahan masa delivery. Tolong update status,issues,2
+"encik, tlng bantu ASAP: status retur tak bergerak",issues,2
+"sis, blh bantu resolve voucher hangus sebab payment gagal hari ni?",issues,1
+"kak, blh bantu resolve refund masuk ke wallet tapi nak ke bank hari ni?",issues,1
 "weh, saya nak follow up: refund pending lama",issues,1
-"bro, stok warna putih ada tak?",search,3
-OTP tak sampai... mohon bantu ya,issues,2
-QR tiket/voucher tak valid. Tolong update status,issues,1
-bukti pembayaran belum disemak. Tolong update status,issues,3
+"bro, stok warna putih ada tak?",search,1
+OTP tak sampai... mohon bantu ya,issues,1
+QR tiket/voucher tak valid. Tolong update status,issues,2
+bukti pembayaran belum disemak. Tolong update status,issues,2
 "abang, stok warna beige ada tak?",search,1
-"weh, blh bantu resolve tak boleh login hari ni?",issues,2
-"weh, stok warna olive ada x?",search,3
-"puan, stok warna teal ada x?",search,2
-"kak, stok warna copper ada tak?",search,2
-"akak, tlng bantu ASAP: invoice tak keluar/salah",issues,1
-"cik, sy nak report: parcel tersangkut di hub",issues,3
+"weh, blh bantu resolve tak boleh login hari ni?",issues,1
+"weh, stok warna olive ada x?",search,1
+"kak, stok warna copper ada tak?",search,1
+"akak, tlng bantu ASAP: invoice tak keluar/salah",issues,2
+"cik, sy nak report: parcel tersangkut di hub",issues,1
 voucher hangus sebab payment gagal... mohon bantu ya,issues,1
 "akak, stok warna kelabu ada tak?",search,1
-"weh, order stuck diproses untuk invois #88357 — boleh semak ya?",issues,3
-puan kenapa order duplicate dalam sistem?,issues,3
-"abang, saya nak follow up: barang belum dipos",issues,3
+"weh, order stuck diproses untuk invois #88357 — boleh semak ya?",issues,1
+puan kenapa order duplicate dalam sistem?,issues,1
+"abang, saya nak follow up: barang belum dipos",issues,1
