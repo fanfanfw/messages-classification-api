@@ -1,0 +1,601 @@
+text,label,priority
+apakah pesanan saya sudah diproses?,issues,1
+"order saya statusnya masih menunggu pembayaran padahal sudah transfer, bisa dicek?",issues,1
+kenapa pesanan saya dibatalkan otomatis?,issues,1
+"saya mau ubah alamat pengiriman, masih bisa?",issues,1
+"resinya belum keluar, kapan dikirim?",issues,1
+"tracking saya tidak bergerak dari kemarin, ada kendala?",issues,1
+"barang yang datang tidak sesuai pesanan, gimana penukarannya?",issues,1
+"saya cuma terima 1 item, padahal di invoice ada 2",issues,1
+"produk sampai dalam kondisi rusak, bisa klaim?",issues,1
+"saya salah pilih ukuran, bisa tukar size?",issues,2
+"saya ingin refund, prosedurnya bagaimana?",issues,1
+kenapa saldo saya kepotong dua kali untuk transaksi yang sama?,issues,1
+"voucher saya tidak terpakai saat checkout, bisa bantu?",issues,2
+"pembayaran saya gagal terus, solusi apa ya?",issues,1
+saya mau batalkan pesanan yang baru dibuat,issues,1
+bisa kirim ulang bukti pembayaran saya?,issues,1
+kapan estimasi pesanan saya sampai?,issues,1
+saya belum menerima email konfirmasi pesanan,issues,1
+"aplikasi error saat saya mau bayar, jadi ordernya ke-gantung",issues,1
+"pesanan saya nyasar ke alamat lama, bisa dibantu?",issues,1
+"kurir bilang paket sudah diterima, tapi saya belum terima",issues,1
+kenapa biaya ongkir yang ditagihkan berbeda dari yang di checkout?,issues,1
+saya ingin reschedule jadwal pengantaran,issues,2
+saya mau komplain karena layanan CS lama respon,issues,3
+"akun saya terkunci setelah salah password, cara buka?",issues,1
+saya lupa password dan tidak dapat kode OTP,issues,1
+langganan saya sudah bayar tapi fitur belum aktif,issues,1
+tagihan saya muncul padahal sudah berhenti berlangganan,issues,1
+kenapa transaksi saya ditolak oleh sistem?,issues,1
+"saya butuh invoice atau faktur untuk pesanan ini, bisa kirim?",issues,1
+"saya sudah kirim paket retur, status refundnya bagaimana?",issues,1
+saya ingin ganti metode pembayaran setelah order dibuat,issues,2
+kenapa poin atau reward saya tidak masuk setelah pembelian?,issues,2
+"saya salah memasukkan nomor telepon, bisa diperbaiki?",issues,1
+"pesanan saya terduplikasi, yang benar yang mana?",issues,1
+saya mau ajukan garansi untuk barang yang baru saya beli,issues,1
+"barang yang diterima kurang aksesorinya, bagaimana?",issues,1
+apakah bisa mempercepat pengiriman untuk pesanan yang sudah dibuat?,issues,1
+"saya tidak bisa checkout, muncul pesan stok habis padahal tadi ada",issues,1
+saya sudah bayar COD tapi statusnya masih belum dibayar,issues,1
+kenapa saldo dompet digital saya belum kembali setelah pembatalan?,issues,1
+"saya ingin menghapus akun saya, prosesnya bagaimana?",issues,3
+"pemesanan layanan saya tidak tercatat, padahal sudah selesai bayar",issues,1
+"saya salah pilih tanggal booking, bisa ganti?",issues,2
+minta bantuan untuk melacak pesanan nomor 12345,issues,1
+"paket saya kembali ke pengirim, bagaimana kelanjutannya?",issues,1
+kenapa ada biaya tambahan saat kurir datang?,issues,1
+saya menerima notifikasi gagal kirim padahal saya di rumah,issues,1
+"pesanan saya sudah lama di diproses, kapan selesai?",issues,1
+saya ingin konfirmasi apakah pesanan saya sudah masuk ke sistem,issues,1
+apakah produk A masih tersedia?,search,1
+ada rekomendasi produk yang cocok untuk kulit sensitif?,search,2
+berapa harga untuk paket yang paling murah?,search,1
+produk ini ada warna hitam tidak?,search,2
+tersedia ukuran M dan L?,search,1
+ada pilihan paket bundling?,search,1
+apa saja menu yang tersedia hari ini?,search,1
+bisa minta katalog produk terbaru?,search,2
+produk yang kompatibel untuk iPhone 13 ada apa saja?,search,2
+ada barang yang ready stock untuk dikirim hari ini?,search,1
+bedanya varian regular dan premium apa?,search,2
+ada promo atau diskon yang sedang berlaku?,search,1
+apakah ada layanan pemasangan di tempat?,search,1
+jam operasional tokonya kapan?,search,3
+"bisa pesan untuk acara 50 orang, paketnya apa saja?",search,1
+ada opsi pembayaran cicilan?,search,1
+berapa lama garansi untuk produk ini?,search,2
+apakah bahan produk ini anti air?,search,2
+produk ini halal dan sudah bersertifikat?,search,2
+ada produk yang ramah lingkungan?,search,2
+"saya cari yang kapasitas 1 liter, ada?",search,2
+"untuk budget 500 ribu, rekomendasinya apa?",search,2
+apakah ada layanan express delivery?,search,1
+bisa jelaskan spesifikasi lengkapnya?,search,2
+produk yang paling laris yang mana?,search,2
+ada pilihan custom nama atau ukiran?,search,2
+saya butuh yang cocok untuk anak usia 3 tahun,search,2
+apakah tersedia refill atau spare part?,search,1
+"untuk kamar ukuran 3x4, AC berapa PK yang cocok?",search,2
+ada paket servis rutin? detailnya gimana?,search,1
+"saya cari sepatu lari untuk pemula, rekomendasi?",search,2
+ada stok bahan baku untuk 10 kg?,search,1
+apakah bisa request sampel dulu?,search,2
+produk ini bisa dikirim ke luar kota?,search,1
+ada pilihan ukuran mini atau travel size?,search,2
+bagaimana cara pemakaian produk ini?,search,2
+"saya cari laptop untuk desain, spek minimumnya apa?",search,2
+apa perbedaan paket basic dan pro?,search,1
+ada opsi langganan bulanan?,search,2
+ketersediaan layanan di area Jakarta Selatan ada?,search,1
+bisa rekomendasikan produk yang cocok untuk hadiah?,search,2
+produk ini ada versi tanpa gula?,search,2
+apakah ada kursus untuk level pemula?,search,2
+"saya cari printer yang support wifi, ada?",search,2
+ada stok parfum varian vanilla?,search,1
+bisa lihat daftar harga grosir?,search,1
+apa saja metode pengiriman yang tersedia?,search,1
+apakah produk ini aman untuk ibu hamil?,search,2
+"saya cari yang bisa dipakai indoor dan outdoor, ada saran?",search,2
+produk apa yang cocok untuk mengganti item yang sudah discontinued?,search,2
+"status pesanan saya sekarang apa ya, masih diproses atau sudah packing?",issues,1
+"pesanan saya sudah dibayar tapi masih tertulis menunggu pembayaran, mohon cek",issues,1
+"saya mau tambah jumlah barang di order yang sudah dibuat, bisa?",issues,1
+"alamat pengiriman saya salah ketik nomor rumah, bisa diperbaiki?",issues,1
+"kode verifikasi (OTP) tidak masuk-masuk, sudah coba kirim ulang",issues,1
+akun saya tiba-tiba logout dan tidak bisa masuk lagi,issues,1
+"login pakai Google gagal terus, muncul error",issues,1
+"saya sudah top up saldo, tapi belum masuk ke akun",issues,1
+"transaksi berhasil, tapi ordernya tidak muncul di riwayat",issues,1
+kenapa pembayaran lewat virtual account saya kedaluwarsa padahal baru dibuat?,issues,1
+"kartu saya sudah terdebit tapi pesanan gagal, gimana pengembaliannya?",issues,1
+"saya ingin batalkan pesanan, tapi tombol batalkan tidak ada",issues,1
+"produk yang saya pesan ternyata stok kosong, kapan dikirim atau diganti?",issues,1
+"pesanan saya dikirim terpisah, tapi satu paket belum sampai",issues,1
+barang yang datang warnanya berbeda dari yang saya pilih,issues,1
+saya tidak menerima bonus/freebie yang seharusnya ikut paket,issues,1
+"mohon bantu proses retur, saya ingin barang dijemput kurir",issues,1
+"refund saya sudah disetujui, tapi dana belum masuk juga",issues,1
+"saya sudah retur barang, statusnya masih 'menunggu barang kembali'",issues,1
+"komplain saya sudah dibuat, tapi belum ada update nomor tiket",issues,1
+"saya mau ganti email akun, tapi verifikasinya gagal",issues,1
+"nomor HP saya sudah tidak aktif, saya tidak bisa verifikasi",issues,1
+kode referral tidak bisa dipakai padahal baru,issues,2
+voucher saya terpotong tapi diskonnya tidak mengurangi total bayar,issues,2
+aplikasi force close saat buka halaman checkout,issues,1
+keranjang saya kosong sendiri setelah saya pilih produk,issues,1
+status pesanan saya nyangkut di 'menunggu konfirmasi' terlalu lama,issues,1
+kurir tidak bisa menghubungi saya padahal nomor sudah benar,issues,1
+"pengiriman dijadwalkan hari ini, tapi kurir tidak datang",issues,2
+"paket ditandai gagal antar karena alamat tidak ditemukan, padahal jelas",issues,1
+saya ditagih biaya COD lebih besar dari total di aplikasi,issues,1
+poin/reward saya berkurang padahal tidak pernah dipakai,issues,2
+poin belanja saya belum bertambah setelah transaksi selesai,issues,2
+saldo saya jadi minus setelah pembatalan pesanan,issues,1
+"saya dapat notifikasi order berhasil dua kali, apakah dobel?",issues,1
+"saya mau perpanjang tanggal booking, tapi tidak bisa diubah",issues,1
+"jadwal layanan saya ingin dipindah ke jam lain, mohon bantu",issues,2
+"petugas/teknisi tidak hadir sesuai jadwal, bagaimana solusinya?",issues,2
+"layanan sudah selesai, tapi status masih berjalan di aplikasi",issues,1
+"saya tidak bisa unduh e-ticket / voucher, halaman blank",issues,2
+"QR code tiket saya tidak valid saat dipakai, tolong cek",issues,1
+saya dikenakan biaya pembatalan padahal belum ada pelayanan,issues,1
+"produk yang saya terima segelnya rusak, saya khawatir",issues,1
+"kemasan paket bocor saat sampai, isi berantakan",issues,1
+"makanan/minuman yang diterima sudah lewat tanggal, bisa klaim?",issues,1
+nomor seri di kartu garansi tidak sesuai dengan barangnya,issues,1
+"saya tidak bisa upload dokumen verifikasi, selalu gagal",issues,1
+akun saya masih 'menunggu verifikasi' sudah beberapa hari,issues,1
+"order B2B saya sudah setuju penawaran, tapi tidak terbentuk pesanan",issues,1
+"saya mau ubah lokasi pickup untuk pesanan ini, masih bisa?",issues,1
+"saya cari produk untuk kebutuhan kantor, kategori apa yang tersedia?",search,1
+ada stok untuk varian warna navy?,search,1
+produk ini tersedia ukuran XXL?,search,1
+bisa kirim size chart lengkap?,search,1
+"saya butuh produk yang cocok untuk hadiah ulang tahun, ada saran?",search,2
+ada pilihan kemasan gift wrap?,search,2
+berapa estimasi ongkir ke luar pulau?,search,1
+"untuk pengiriman same day, syaratnya apa?",search,1
+apakah ada opsi pre-order kalau stok habis?,search,1
+produk ini ada versi refurbished atau second?,search,2
+mau tanya bahan/material produk ini apa?,search,2
+komposisi/ingredient lengkapnya bisa diinformasikan?,search,2
+produk ini bebas BPA atau food grade?,search,2
+apa isi paket pembelian (kelengkapan dalam box) ?,search,1
+berapa lama masa pakai atau expired produk ini?,search,2
+ada pilihan aroma citrus?,search,2
+notes parfum ini dominan apa ya?,search,2
+produk ini cocok untuk pemakaian harian atau outdoor?,search,2
+"saya butuh yang tahan panas, ada rekomendasi?",search,2
+bisa rekomendasikan yang cocok untuk ruangan kecil?,search,2
+"untuk anak sekolah, item yang paling cocok yang mana?",search,2
+ada produk yang tidak mengandung gula?,search,2
+berapa kalori per porsi untuk menu ini?,search,2
+menu vegetarian/vegan ada apa saja?,search,2
+apakah produk ini support Android dan iOS?,search,2
+bisa dipakai untuk Windows 11?,search,2
+kompatibel dengan tipe mesin/model X tidak?,search,2
+"saya cari aksesoris original untuk produk ini, ada?",search,2
+spare part seperti filter atau baterai tersedia?,search,1
+berapa daya listrik yang dibutuhkan?,search,2
+baterainya tahan berapa jam pemakaian?,search,2
+apakah bisa bayar pakai e-wallet tertentu?,search,1
+minimal pembelian untuk grosir berapa?,search,1
+ada potongan harga kalau beli banyak?,search,1
+bisa minta daftar paket untuk corporate/instansi?,search,1
+layanan tersedia untuk area Bandung?,search,1
+apakah ada konsultasi gratis sebelum order?,search,2
+bisa jadwalkan demo atau trial produk?,search,2
+lead time untuk custom order biasanya berapa lama?,search,1
+warna yang tersedia untuk seri terbaru apa saja?,search,1
+mana yang lebih bagus antara model A dan model B?,search,2
+apakah ada produk alternatif yang harganya lebih terjangkau?,search,2
+range harga untuk kategori ini mulai dari berapa?,search,1
+ada paket hemat untuk pemula?,search,1
+bisa jelaskan perbedaan varian 1 dan varian 2?,search,2
+lokasi toko/offline store ada di mana?,search,3
+apakah ada layanan antar pasang (termasuk instalasi)?,search,1
+jam buka layanan atau toko hari minggu ada?,search,3
+apakah produk ini tersedia dalam bentuk paket langganan?,search,1
+"kalau langganan, benefit yang didapat apa saja?",search,2
+MIN KENAPA ORDER SAYA MASIH 'DIPROSES' DARI KEMARIN!!!,issues,1
+"min, pesenan aku udh bayar tp statusnya blm berubah, cek dong",issues,1
+"BARU BAYAR TAPI ORDERAN GAK MASUK, HELPPP",issues,1
+"saldo kepotong tapi transaksi gagal, minta balikin ya",issues,1
+"uang saya KEDEBIT 2x, ini gimana???",issues,1
+refund udh disetujui tapi duitnya belum masuk2,issues,1
+MIN REFUNDNYA KAPAN MASUK!!!!,issues,1
+orderan saya kok belum dipacking ya? sudah 2 hari,issues,1
+"kak resi belum keluar, tolong dipercepat",issues,1
+paket saya statusnya delivered tapi saya belum nerima,issues,1
+"kurir bilang udah serah terima, padahal saya ga ada di rumah",issues,1
+"paketnya nyangkut di sortir terus, ada kendala?",issues,1
+"alamat pengiriman mau saya koreksi, bisa dibantu cepat?",issues,1
+"saya salah input alamat + kode pos, masih bisa revisi?",issues,1
+"mau ubah penerima dan nomor hp di pesanan, bisa?",issues,1
+"order saya keburu dibatalin sistem, padahal saya masih mau",issues,2
+min saya mau cancel pesanan tapi error terus,issues,2
+"barang yg sampe beda varian, mohon solusi",issues,1
+"produk datang pecah/retak, saya mau klaim",issues,1
+"packing rusak parah, isi barang jadi penyok",issues,1
+"pesanan kurang 1 item, yang kurang kapan dikirim?",issues,1
+free ongkirnya kepake tapi ongkir tetap ditagih,issues,2
+voucher kepotong tapi diskonnya ga masuk,issues,2
+kupon saya invalid padahal belum pernah dipakai,issues,2
+saya butuh invoice sekarang untuk admin kantor,issues,1
+"invoice / faktur pajaknya belum terbit, tolong kirim",issues,1
+"akun saya kayaknya dibajak, email & nomor berubah sendiri",issues,1
+"AKUN SAYA KELOGOUT TERUS, GAK BISA LOGIN!!!!",issues,1
+"OTP ga masuk sama sekali, padahal sinyal aman",issues,1
+"kode verifikasi telat banget masuknya, jadi login gagal",issues,1
+saya mau ganti email akun tapi link verifikasi error,issues,2
+"pembayaran COD udh saya bayar, tapi status masih belum dibayar",issues,1
+kenapa saya kena charge tambahan pas barang dateng?,issues,1
+"saya mau retur, tapi opsi retur ga muncul di aplikasi",issues,1
+"barang sudah saya kirim balik, refundnya mohon diproses",issues,1
+"saya minta pickup retur, bisa dijadwalkan?",issues,2
+pesanan digital saya belum aktif padahal sudah bayar,issues,1
+kode voucher/produk digital sudah dibeli tapi belum bisa dipakai,issues,1
+"tiket/booking saya ga muncul di akun, padahal pembayaran sukses",issues,1
+"QR tiket saya ga kebaca pas dipakai, urgent",issues,1
+"min saya salah pilih tanggal booking, mau ubah hari ini",issues,2
+"saya dapet notifikasi gagal kirim, padahal saya standby",issues,1
+"pengiriman di-reschedule sepihak, bisa dikirim hari ini?",issues,1
+"paket saya balik lagi ke gudang, lanjutannya gimana?",issues,1
+"chat saya ke CS gak dibales2, padahal urgent",issues,2
+MIN KENAPA CHAT SAYA GA DI BALES!!!!,issues,2
+"saya mau hapus akun, tapi menu penghapusan ga ada",issues,3
+"saya salah masukin nomor telp, bisa update?",issues,2
+"riwayat transaksi saya kosong, data order hilang",issues,1
+"MIN PAKET SAYA HILANG DI TRACKING, TOLONG TINDAK LANJUT!!!",issues,1
+"udah bayar tapi malah ke-cancel, ini gimana min?",issues,1
+gan ini ready ga?,search,1
+Ready bos?,search,1
+kak ada stok yg bisa dikirim hari ini?,search,1
+berapa harga yang paling ekonomis?,search,1
+boleh minta list harga terbaru?,search,1
+ada promo hari ini gak?,search,1
+diskon akhir bulan masih ada?,search,1
+bisa COD?,search,1
+bisa bayar pake ewallet?,search,1
+bisa cicilan 0%?,search,1
+ongkir ke kota saya kira2 berapa ya?,search,1
+kirim ke luar negeri bisa?,search,1
+ada opsi same day / instant?,search,1
+bisa pickup di toko?,search,2
+toko buka jam berapa?,search,3
+hari minggu buka gak?,search,3
+alamat tokonya di mana ya?,search,3
+bisa minta katalog / brochure?,search,2
+varian warna apa aja yang tersedia?,search,1
+ukuran yang ada lengkapnya apa saja?,search,1
+ada size kecil buat anak?,search,2
+kalau untuk pemula enaknya pilih yang mana?,search,2
+rekomen yang awet dan gampang dipakai dong,search,2
+yang paling best seller apa?,search,2
+beda varian A sama B apa ya?,search,2
+bahan/komposisinya apa?,search,2
+produk ini aman untuk kulit sensitif ga?,search,2
+ada garansi berapa lama?,search,2
+kalau rusak dalam 7 hari bisa tuker?,search,2
+paket bundling yang hemat ada?,search,1
+kalau beli 10 pcs ada harga grosir?,search,1
+minimal order untuk grosir berapa?,search,1
+bisa custom nama/logo?,search,1
+"kalau custom, pengerjaannya brp lama?",search,1
+ada paket langganan bulanan?,search,1
+benefit langganannya apa aja?,search,2
+produk yang cocok buat kado cewek/ cowok ada?,search,2
+ada yang versi premium? bedanya apa?,search,2
+range harga produk ini start dari berapa?,search,1
+bisa jelasin isi paketnya dapet apa aja?,search,2
+sparepart / refill ada?,search,2
+bisa konsultasi dulu sebelum beli?,search,2
+layanan tersedia di area saya ga?,search,1
+"buat event, paket untuk 100 orang ada?",search,1
+bisa request sample dulu?,search,2
+ada opsi pre-order kalau stok habis?,search,1
+yang cepat ludes biasanya varian apa?,search,2
+ada yang hemat listrik?,search,2
+ada stok warna putih atau cream?,search,1
+"MINNN PESANAN GUE BELUM DIPROSES2, UDAH 3 HARI!!!",issues,1
+kak orderan saya kok masih pending ya?,issues,1
+"statusnya masih 'menunggu konfirmasi' terus, tolong follow up",issues,1
+udah bayar via transfer tapi sistem bilang belum bayar,issues,1
+"pembayaran sukses tapi invoice ga keluar, bisa dibantu?",issues,1
+"bayar pakai kartu berhasil, tapi pesanan gagal dibuat",issues,1
+duit saya kepotong tapi ordernya batal otomatis,issues,1
+"refundnya kok lama banget ya min, udah seminggu",issues,1
+REFUND SAYA BELUM MASUK!!! KAPAN SELESAI??,issues,1
+saldo wallet belum balik setelah pembatalan order,issues,1
+top up berhasil tapi saldo tidak bertambah,issues,1
+"min, saya salah bayar nominal, bisa diperbaiki?",issues,2
+"mau ganti metode pembayaran, tapi ga ada opsinya",issues,2
+"order saya dipisah pengirimannya, yang satu kok belum jalan?",issues,1
+resi sudah ada tapi trackingnya error / tidak ditemukan,issues,1
+"tracking berhenti di kota transit, sudah 5 hari",issues,1
+"paket saya salah kirim ke kota lain, tolong dibantu",issues,1
+"paket saya hilang, di tracking ga ada update",issues,1
+kurir chat katanya alamat ga lengkap padahal lengkap,issues,1
+kurir telpon tidak masuk tapi statusnya gagal antar,issues,1
+"barang yang diterima cacat pabrik, saya mau retur",issues,1
+"produk yang sampai kadaluarsa, saya komplain",issues,1
+"saya terima barang bekas/ada bekas pakai, gimana?",issues,1
+"barang datang tanpa manual/kelengkapan, kurang part",issues,1
+"saya cuma dapat setengah pesanan, sisanya mana?",issues,1
+"paket saya disegel ulang, saya takut isinya kurang",issues,1
+"mau tuker size tapi sudah lewat 1 hari, masih bisa?",issues,2
+"saya salah pilih warna, bisa ubah sebelum dikirim?",issues,1
+"mohon ubah alamat pengiriman, saya pindah kos",issues,1
+"nomor penerima salah 1 digit, bisa diganti?",issues,2
+akun saya kena suspend padahal ga ngapa-ngapain,issues,1
+"AKUN SAYA DIBLOKIR, PADAHAL MASIH ADA ORDER AKTIF!",issues,1
+"lupa password, tapi email reset tidak pernah masuk",issues,1
+"OTP masuknya telat, jadinya expired terus",issues,1
+"nomor saya ganti, jadi ga bisa verifikasi akun",issues,1
+"data alamat saya berubah sendiri, ini kenapa?",issues,1
+saya dapat email perubahan password padahal saya tidak ubah,issues,1
+"langganan sudah bayar, tapi status masih non-aktif",issues,1
+saya sudah berhenti langganan tapi masih ditagih,issues,1
+"poin saya hangus tiba-tiba, bisa cek?",issues,2
+poin tidak masuk setelah transaksi selesai,issues,2
+"kode promo bisa dipilih, tapi pas bayar gagal dipakai",issues,2
+"aplikasi nge-freeze pas klik bayar, jadi order ga jelas",issues,1
+"keranjang saya error, itemnya berubah sendiri",issues,2
+"saya tidak bisa upload bukti pembayaran, selalu gagal",issues,1
+"butuh invoice perusahaan (dengan NPWP), bisa?",issues,1
+dokumen e-invoice yang saya download rusak/blank,issues,1
+"pesanan jasa saya teknisinya belum datang, padahal jadwal sekarang",issues,1
+"teknisi datang tapi tidak menyelesaikan pekerjaan, gimana?",issues,1
+"booking saya berubah jadwal sendiri, mohon kembalikan",issues,2
+"tiket saya sudah dibayar, tapi QR belum muncul",issues,1
+"voucher digital saya kepake, tapi barang/layanan belum bisa diakses",issues,1
+min barangnya masih ada ga?,search,1
+stoknya aman kah buat hari ini?,search,1
+ready gak gan? mau checkout sekarang,search,1
+kak ada warna maroon?,search,1
+size 40-41 ada?,search,1
+ada varian yang paling ringan?,search,2
+yang paling cepat pengirimannya paket apa?,search,1
+bisa kirim instant untuk area dekat?,search,1
+estimasi sampai ke kota saya berapa hari?,search,1
+ada gratis ongkir minimal belanja berapa?,search,1
+promo buy 1 get 1 ada gak?,search,1
+lagi ada cashback?,search,1
+harga normal vs harga promo bedanya berapa?,search,1
+bisa nego kalo ambil banyak?,search,1
+"untuk pembelian grosir, harganya gimana?",search,1
+minimal order untuk reseller berapa?,search,1
+ada paket reseller / dropship?,search,1
+bisa kirim tanpa invoice di paket (buat gift)?,search,2
+bisa request packing kayu/bubble ekstra?,search,2
+produk ini asli/original kan?,search,2
+ada sertifikasi resmi untuk produk ini?,search,2
+"kalau untuk pemakaian outdoor, rekomendasi yang mana?",search,2
+"buat pemula, pilih varian apa ya?",search,2
+komparasi model lama vs model baru apa bedanya?,search,2
+bisa minta spek detail + ukuran dimensinya?,search,2
+daya listriknya berapa watt?,search,2
+baterainya bisa diganti?,search,2
+apakah ada garansi resmi 1 tahun?,search,2
+tersedia layanan instalasi di rumah?,search,1
+bisa booking jadwal pemasangan minggu ini?,search,1
+menu paling favorit yang mana?,search,2
+ada menu pedas level 1-5?,search,2
+ada opsi tanpa MSG?,search,2
+produk ini cocok buat anak kecil ga?,search,2
+untuk ibu hamil aman?,search,2
+bisa request sample tester?,search,2
+"kalo pre-order, estimasi ready kapan?",search,1
+mau tanya apakah bisa custom warna?,search,1
+custom minimal order berapa pcs?,search,1
+bisa kirim katalog PDF via WA?,search,2
+lokasi store terdekat di mana ya?,search,3
+jam operasional hari ini sampai jam berapa?,search,3
+buka pas tanggal merah gak?,search,3
+ada layanan antar untuk area kampus?,search,1
+metode pembayaran apa aja yang tersedia?,search,1
+bisa bayar transfer bank?,search,1
+ada paket langganan tahunan?,search,1
+"kalau order sebelum jam 12, bisa dikirim hari ini?",search,1
+min order saya kok belum di proses ya? urgent,issues,1
+"ORDERAN SAYA STUCK DI DIPROSES, TOLONG CEPETIN!",issues,1
+kapan order saya dikirim? saya butuh hari ini,issues,1
+"resinya masih kosong, padahal status sudah shipped",issues,1
+"tracking numbernya invalid, bisa dicek?",issues,1
+paket udah nyampe kota saya tapi ga dianter2,issues,1
+paket saya balik lagi (return) padahal alamat benar,issues,1
+barang saya ketuker sama pesanan orang lain,issues,1
+"datang barangnya salah ukuran, saya pesen 42 tapi dapet 40",issues,1
+"warna yang datang beda, saya pilih biru tapi datang hijau",issues,1
+"barang rusak kena air pas sampai, minta ganti",issues,1
+"isi paket kurang, kabelnya ga ada",issues,1
+"min, saya belum terima invoice pembelian",issues,1
+"invoice yg saya download salah data, mohon revisi",issues,1
+"pembayaran saya pending terus, padahal saldo cukup",issues,1
+"bayar via ewallet sukses, tapi ordernya ga kebentuk",issues,1
+kenapa transaksi saya ditolak? padahal data benar,issues,1
+"saya salah pilih metode kirim, bisa diganti?",issues,2
+"ongkirnya berubah setelah saya bayar, kok bisa?",issues,1
+kenapa saya dikenakan biaya admin dua kali?,issues,1
+saldo saya kepotong 2x untuk 1 pesanan,issues,1
+"MIN UANG SAYA KOK KEDEBIT, TAPI ORDER GAGAL!!!",issues,1
+"refund saya ditolak, alasannya apa ya?",issues,2
+"saya minta refund sebagian, bisa?",issues,2
+"refund ke rekening salah, bisa ubah rekening tujuan?",issues,1
+refundnya masuknya ke mana? saya ga lihat di mutasi,issues,1
+retur saya ditolak padahal barang rusak,issues,1
+"status retur masih 'diproses' terus, udah 10 hari",issues,1
+"saya kirim balik barang, tapi status belum diterima gudang",issues,1
+saya mau ubah alamat tapi sistem ga ngijinin,issues,1
+"mau ubah nama penerima, gimana caranya?",issues,2
+"saya ga bisa checkout, muncul error 500",issues,1
+appnya blank putih pas buka pembayaran,issues,1
+"min, fitur chat error ga bisa kirim pesan",issues,2
+saya di blokir padahal baru daftar,issues,1
+"ada orang masuk akun saya, saya dapet OTP terus",issues,1
+"PASSWORD SAYA KEGANTI SENDIRI, TOLONG AMANKAN AKUN!",issues,1
+"saya mau ganti nomor hp, tapi verifikasi gagal",issues,1
+kode OTP selalu salah padahal bener,issues,1
+"email verifikasi ga masuk, udah cek spam",issues,1
+"akun saya belum terverifikasi2, padahal dokumen udah upload",issues,1
+"dokumen KTP saya ditolak, alasannya apa?",issues,2
+langganan saya auto-renew padahal saya gak mau,issues,1
+kenapa saya masih ditagih setelah cancel subscription?,issues,1
+poin saya ga bisa dipake pas checkout,issues,2
+reward saya kepotong tanpa transaksi,issues,1
+"kode promo bikin harga naik, ini bug ya?",issues,2
+"saya butuh bantuan segera, tiket komplain belum dijawab",issues,2
+CS nya kemana? saya udah nunggu,issues,2
+"saya mau hapus akun, tapi prosesnya berhenti di verifikasi",issues,3
+"MIN, ORDER SAYA KEHAPUS DARI RIWAYAT. BISA BALIKIN?",issues,1
+pesanan saya malah berubah jadi 'gagal' setelah bayar,issues,1
+"min paket saya pecah saat diterima, saya butuh penggantian",issues,1
+"notifikasi bilang sudah kirim, tapi saya belum dapat resi",issues,1
+"orderan saya dobel, tolong batalkan yang satu",issues,1
+min ada barang yg ready?,search,1
+gan stok masih aman?,search,1
+kak ini bisa dikirim hari ini gak?,search,1
+"buat yg paling murah, rekomendasi apa?",search,1
+berapa harga satuannya?,search,1
+harga grosir per dus berapa?,search,1
+kalau beli 3 dapat diskon?,search,1
+promo free ongkir masih ada?,search,1
+bisa bayar COD untuk area saya?,search,1
+transfer bank apa aja yang tersedia?,search,1
+bisa bayar pakai kartu kredit?,search,1
+ada opsi cicilan?,search,1
+metode pengiriman apa yg paling cepat?,search,1
+bisa pake instant courier?,search,1
+kirim ke luar kota bisa?,search,1
+ada pengiriman ke daerah terpencil?,search,1
+produk ini ada warna pastel?,search,1
+warna limited edition masih ada?,search,1
+ukuran kecil/mini ada ga?,search,1
+ada ukuran jumbo?,search,1
+bisa minta size chart versi cm?,search,2
+bahannya lembut gak?,search,2
+bahan anti air?,search,2
+produk ini cocok buat kulit berminyak?,search,2
+ada varian tanpa pewangi?,search,2
+komposisinya apa aja?,search,2
+ini bisa dipakai anak umur 2 tahun?,search,2
+ada sertifikat halal?,search,2
+garansinya gimana?,search,2
+apa isi paketnya lengkap?,search,2
+ada bundling hemat untuk keluarga?,search,1
+paket untuk kantor isi berapa?,search,1
+bisa custom logo perusahaan?,search,1
+custom minimal berapa pcs?,search,1
+"kalau PO, estimasi jadi berapa lama?",search,1
+ada jasa instalasi?,search,1
+bisa pasang di rumah saya?,search,1
+bisa konsultasi kebutuhan dulu?,search,2
+rekomendasi yang paling awet apa?,search,2
+yang paling laris untuk kategori ini apa?,search,2
+bedanya tipe X sama tipe Y apa?,search,2
+lokasi tokonya dimana?,search,3
+hari ini buka sampai jam brp?,search,3
+ada warna hitam doff?,search,1
+ready stok buat besok pagi ada?,search,1
+"min pesanan saya belum ada update sama sekali, bisa cek?",issues,1
+kok order saya masih nunggu diproses ya?,issues,1
+"PESANAN SAYA BELUM DIKIRIM2, PADAHAL SUDAH BAYAR!!!",issues,1
+"status order tiba-tiba berubah jadi batal, saya gak batalin",issues,1
+saya udh bayar tapi ordernya hilang dari akun,issues,1
+"riwayat pesanan gak muncul, padahal kemarin baru checkout",issues,1
+"min, saya bayar tapi gak dapet konfirmasi apa2",issues,1
+"email konfirmasi gak masuk, bisa kirim ulang?",issues,2
+"VA sudah saya bayar, tapi status masih unpaid",issues,1
+"saldo terpotong tapi pembayaran ditolak, gimana?",issues,1
+"kartu saya terdebit tapi transaksi gagal, tolong refund",issues,1
+"MIN SALDO SAYA KEAMBIL, ORDERNYA ERROR!!!",issues,1
+saya kena double charge di pembayaran,issues,1
+"refund saya nyangkut, sudah lewat estimasi",issues,1
+refund masuk ke wallet atau rekening ya?,issues,2
+"mohon percepat refund, ini urgent",issues,1
+"saya sudah retur, tapi refund belum diproses",issues,1
+"retur saya sudah diterima gudang, tapi status masih pending",issues,1
+"min, saya mau retur karena barang rusak, langkahnya apa?",issues,1
+"barang yang sampai penyok/lecet, saya minta penggantian",issues,1
+"produk sampai salah item, saya pesan A tapi dapat B",issues,1
+"item saya kurang 2 pcs, mohon dilengkapi",issues,1
+"paket saya hanya dapat kardus kosong, gimana ini?",issues,1
+"paket saya kebuka pas sampai, takut ada yang hilang",issues,1
+"saya terima paket basah, barang jadi rusak",issues,1
+kurir menandai 'penerima tidak di tempat' padahal saya standby,issues,1
+"statusnya gagal antar karena alamat tidak jelas, padahal jelas",issues,1
+saya minta kirim ulang paket karena salah alamat,issues,1
+"alamatnya mau saya update sekarang, masih sempat?",issues,1
+"nomor hp penerima mau diganti, bagaimana?",issues,2
+"saya mau minta invoice resmi, belum ada di menu",issues,1
+invoice saya butuh hari ini untuk reimbursement,issues,1
+"faktur pajak belum keluar, tolong dibantu",issues,1
+order saya sudah shipped tapi resi tidak bisa dilacak,issues,1
+tracking stuck di 'manifested' berhari-hari,issues,1
+paketnya nyasar ke alamat lama saya,issues,1
+"pesanan saya split, tapi nomor resi cuma 1",issues,1
+"saya dapat notif paket diterima tetangga, padahal tidak",issues,1
+"mau cancel order, tapi selalu gagal",issues,2
+"saya cancel tapi status tetap jalan, ini gimana?",issues,2
+voucher saya kebakar tapi diskon gak masuk,issues,2
+kode promo error pas checkout,issues,2
+"poin tidak bisa dipakai, muncul pesan error",issues,2
+"poin saya berkurang sendiri, mohon cek",issues,2
+aplikasi crash saat mau bayar,issues,1
+checkout muter-muter loading terus,issues,1
+"saya gak bisa login, password benar tapi ditolak",issues,1
+AKUN SAYA KENA HACK? ADA LOGIN ASING!,issues,1
+saya menerima OTP berkali-kali padahal tidak request,issues,1
+"nomor saya hangus jadi gak bisa OTP, mohon solusi",issues,1
+"MIN PESANAN SAYA TERTAHAN DI GUDANG, TOLONG PROSES ULANG!",issues,1
+min ini ready sekarang?,search,1
+stok warna merah marun ada ga?,search,1
+ukuran 39 ready?,search,1
+kak ada varian termurah?,search,1
+bisa minta pricelist?,search,1
+harga paket bundling berapa?,search,1
+kalo beli 5 ada diskon ga?,search,1
+lagi ada promo apa aja?,search,1
+ada cashback ewallet tertentu?,search,1
+bisa bayar pakai transfer BCA/BRI?,search,1
+bisa bayar via QRIS?,search,1
+ada opsi paylater?,search,1
+ongkir kira2 berapa ya?,search,1
+bisa same day?,search,1
+kirim instant bisa gak?,search,1
+pengiriman paling cepat pakai apa?,search,1
+bisa kirim ke luar pulau?,search,1
+ada layanan kirim internasional?,search,1
+bisa ambil di toko/offline?,search,2
+alamat outletnya dimana?,search,3
+toko buka jam brp skrg?,search,3
+produk ini original ga?,search,2
+ada garansi resmi?,search,2
+fitur utama produk ini apa aja?,search,2
+spesifikasi lengkapnya bisa minta?,search,2
+beda varian 128gb dan 256gb apa?,search,2
+buat kulit kering cocoknya yang mana?,search,2
+ada yang low sugar/less sugar?,search,2
+menu non pedas ada?,search,2
+ada paket untuk 200 pax?,search,1
+bisa custom tulisan di produk?,search,1
+custom butuh minimal order berapa?,search,1
+"kalo pre order, biasanya berapa lama?",search,1
+ada paket langganan mingguan?,search,1
+benefit paket langganannya apa?,search,2
+ada sparepartnya?,search,2
+refillnya dijual terpisah?,search,2
+bisa request packing aman (bubble + kardus)?,search,2
+produk yang paling recommended yang mana?,search,2
+yang cocok buat hadiah ultah apa ya?,search,2
+"saya cari yang tahan air, ada?",search,2
+support untuk Android 14 gak?,search,2
+kompatibel untuk model terbaru?,search,2
+ada versi eco friendly?,search,2
+bisa minta katalog via email?,search,2
+promo khusus member ada?,search,1
+minimal belanja biar dapet free ongkir berapa?,search,1
+kalau beli banyak bisa minta penawaran?,search,1
+"kalau order sekarang, bisa dikirim hari ini?",search,1
