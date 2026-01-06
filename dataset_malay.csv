@@ -599,3 +599,503 @@ promo khusus member ada?,search,1
 minimal belanja biar dapet penghantaran percuma berapa?,search,1
 kalau beli banyak boleh minta penawaran?,search,1
 "kalau pesanan sekarang, boleh dihantar hari ini?",search,1
+MIN KENAPA STATUS MASIH 'AWAITING PAYMENT' PADAHAL UANG SUDAH KEAMBIL??,issues,1
+"pembayaran QRIS sukses, tapi pesanannya balik lagi ke troli",issues,1
+"saya bayar paylater, tapi pesanan jadi expired, macam mana?",issues,1
+"transaksi sukses, tapi saya tidak dapat nombor pesanan",issues,1
+"sistem bilang stok habis saat bayar, tapi baki saya ikut kepotong",issues,1
+"min, pesanan saya ditahan (on hold) tanpa alasan yang jelas",issues,1
+pesanan saya kenapa belum masuk tahap pembungkusan ya?,issues,1
+"status penghantaran berubah jadi gagal attempt, padahal kurier tidak datang",issues,1
+pakej saya dikembalikan ke penjual tanpa pengesahan ke saya,issues,1
+"kurier minta pin lokasi lagi, lalu penghantaran jadi gagal",issues,1
+"barang saya ditaruh di pos satpam tanpa izin, sekarang hilang",issues,1
+"saya sudah terima barang, tapi status masih 'dihantar'",issues,2
+no. tracking saya tertukar dengan pesanan orang lain,issues,1
+"min, no. tracking muncul tapi tidak ada data saat dilacak",issues,1
+barang yang datang bukan varian yang saya checkout,issues,1
+"saya terima produk tanpa segel (polos), ini normal?",issues,1
+serial number di barang berbeza dengan yang tertera di invois,issues,1
+"bonus di pakej tidak ada, padahal tertera di promo",issues,2
+"saya hanya terima sebagian barang, sisanya belum ada kabar",issues,1
+"produk datang penyok, saya nak klaim penggantian",issues,1
+"barang pecah pas diterima, mohon diproses return",issues,1
+produk yang saya terima sudah tamat tempoh,issues,1
+"pengajuan return saya ditolak, padahal barang rosak",issues,1
+"status return selesai, tapi refund belum masuk",issues,1
+"refundnya cuma masuk sebagian, sisanya belum",issues,1
+refund ke kartu kredit belum muncul di bil saya,issues,1
+"MIN REFUND KENAPA TAK MASUK SIH, DAH LEWAT BATAS!",issues,1
+"kupon saya hangus gara-gara gagal bayar, boleh balikin kuponnya?",issues,2
+"diskon hilang pas sudah masuk pembayaran, total jadi naik",issues,2
+"biaya layanan muncul selepas bayar, sebelumnya tak ada",issues,1
+"di invois biaya adminnya dobel, ini salah ya?",issues,1
+"saya nak minta invois atas nama perusahaan, tapi kolom NPWP tidak ada",issues,2
+"saya salah input e-mel, jadi invois tidak terkirim",issues,2
+file invois PDF yang saya unduh corrupt/tak boleh dibuka,issues,2
+tombol checkout tidak boleh dipencet sama sekali,issues,1
+troli saya tiba-tiba kosong selepas pilih kaedah bayar,issues,1
+aplikasi tertutup sendiri tiap masuk halaman pembayaran,issues,1
+"saya tidak boleh upload bukti transfer, selalu gagal",issues,1
+bukti bayaran saya ditolak otomatis padahal jelas,issues,1
+"akaun saya terkunci sebab login tidak biasa, tolong buka",issues,1
+saya menerima notifikasi reset kata laluan terus-menerus,issues,1
+"e-mel akaun saya berubah sendiri, saya takut dibajak",issues,1
+ada aktivitas transaksi yang saya tidak kenal di akaun,issues,1
+"OTP terkirim ke nombor lama, saya sudah tukar nombor",issues,1
+"kod verifikasi e-mel selalu invalid, tak boleh aktif",issues,1
+"saya tidak boleh tukar kata laluan, halaman error terus",issues,1
+verifikasi KTP selalu gagal (katanya blur) padahal jelas,issues,2
+"chat ke KHIDMAT PELANGGAN tak boleh hantar, tombol send error",issues,2
+"KHIDMAT PELANGGAN bilang sudah escalated, tapi tiket saya ketutup otomatis",issues,2
+"MIN JANGAN TUTUP TIKET SAYA, MASALAHNYA BELUM SELESAI!",issues,2
+"saya cancel pesanan, tapi barang tetap dihantar",issues,1
+"nak ubah alamat, tapi sistem bilang sudah dibuat no. tracking",issues,1
+"saya pilih pengambilan, tapi status berubah jadi dihantar",issues,2
+"booking saya sudah bayar, tapi jadwalnya kosong",issues,1
+"teknisi tidak hadir, padahal jadual sudah dikonfirmasi",issues,1
+"gan, stok warna sage masih ada?",search,1
+kak yang ini ready untuk dihantar malam ini?,search,1
+ukuran 45 ada tak min?,search,1
+saiz XXL ready kah?,search,1
+boleh minta rekomendasi yang budget 200rb-an?,search,2
+harga pakej family berapa ya?,search,1
+kalau ambil 100 pcs ada harga proyek?,search,1
+boleh nego harga untuk pembelian rutin?,search,1
+ada opsi bayar termin untuk corporate?,search,1
+boleh DP dulu untuk pre-order?,search,1
+produk ini ada versi matte/ doff?,search,2
+warna pastel yang tersedia apa saja?,search,2
+ada stok limited edition tak?,search,1
+"untuk hadiah, boleh gift wrap?",search,2
+boleh custom tulisan di kemasan?,search,1
+lama pengerjaan custom biasanya berapa hari?,search,1
+boleh hantar desain sendiri untuk custom?,search,2
+ada varian tanpa alkohol/parfum?,search,2
+ada menu gluten free?,search,2
+ada varian decaf?,search,2
+produk ini support fast charging tak?,search,2
+daya listriknya kisaran berapa watt?,search,2
+baterainya boleh diganti sendiri?,search,2
+boleh minta detail ukuran/dimensi produknya?,search,2
+boleh jelasin berbeza seri 2023 vs 2024?,search,2
+yang paling recommended untuk pemula apa?,search,2
+garansi tukar baru 7 hari ada?,search,2
+ada layanan asuransi penghantaran?,search,1
+hantar ke Papua boleh tak?,search,1
+estimasi caj penghantaran untuk luar pulau kira-kira berapa?,search,1
+opsi ekspedisi yang paling aman apa ya?,search,1
+"kalau pesanan sekarang, boleh sampai besok?",search,1
+boleh pengambilan di store?,search,2
+boleh share pin maps lokasi tokonya?,search,3
+hari ini buka sampai jam 9 malam?,search,3
+buka hari Ahad tak?,search,3
+katalog terbaru boleh hantar via e-mel?,search,2
+ada demo/trial sebelum beli?,search,2
+boleh konsultasi ukuran sebelum checkout?,search,2
+ada pakej instalasi + alatnya sekalian?,search,1
+boleh pasang di lokasi saya?,search,1
+ada pakej langganan per bulan?,search,1
+benefit member/subscribe apa aja?,search,2
+minimal pesanan catering berapa porsi?,search,1
+boleh pesanan untuk event besok pagi?,search,1
+MIN JADUAL LAYANAN SAYA HARI INI KENAPA TAK ADA YANG DATANG???,issues,1
+teknisi belum datang padahal sudah lewat jam booking,issues,1
+"layanan saya di-cancel sepihak, padahal saya sudah bayar",issues,1
+pembayaran layanan berhasil tapi bookingnya gagal dibuat,issues,1
+"saya sudah bayar jasa, tapi status masih menunggu bayaran",issues,1
+pesanan jasa saya masih 'diproses' padahal jadwalnya besok pagi,issues,1
+"saya nak jadualkan semula booking, tapi tombol ubah jadual error",issues,2
+"saya salah pilih tanggal layanan, boleh tukar hari ini?",issues,2
+"petugas datang tapi pengerjaan belum dimulai, statusnya macam mana?",issues,1
+"hasil layanan tidak sesuai, saya minta revisi",issues,1
+layanan selesai tapi di aplikasi masih berjalan,issues,2
+saya kena biaya tambahan di lokasi yang tidak diinformasikan,issues,1
+MIN KENAPA BIAYA TAMBAHAN MUNCUL SELEPAS SELESAI LAYANAN?!,issues,1
+"invois untuk layanan belum tersedia, saya perlukan sekarang",issues,1
+e-invois layanan yang saya download kosong/blank,issues,1
+"refund pembatalan layanan belum masuk, mohon percepat",issues,1
+"refund layanan saya cuma masuk sebagian, sisanya belum",issues,1
+"saya cancel layanan, tapi masih ditagih",issues,1
+langganan layanan ke-charge lagi padahal sudah saya stop,issues,1
+"saya nak komplain layanan, tapi tiketnya langsung ketutup",issues,2
+"KHIDMAT PELANGGAN tak bales, padahal komplain layanan segera",issues,2
+"chat saya tak boleh terkirim ke KHIDMAT PELANGGAN, tombol hantar error",issues,2
+akaun saya keblokir pas nak akses jadual layanan,issues,1
+"OTP untuk login tidak masuk, saya tak boleh lihat booking",issues,1
+"akaun saya kayak dibajak, ada perubahan data tanpa izin",issues,1
+"pembayaran terdebit tapi transaksi gagal, minta refund ya",issues,1
+baki kepotong 2x untuk satu transaksi,issues,1
+"kaedah bayar berubah sendiri pas checkout, jadi gagal",issues,1
+"voucher digunakan tapi harga tak turun, ini macam mana?",issues,2
+poin saya berkurang padahal belum dipakai,issues,2
+"pesanan produk saya belum dibungkus juga, mohon dipercepat",issues,1
+PESANAN SAYA BELUM DIHANTAR PADAHAL DAH BAYAR!!!,issues,1
+no. tracking belum keluar padahal status sudah siap hantar,issues,1
+no. tracking ada tapi trackingnya tidak ditemukan,issues,1
+pakej ditandai delivered tapi saya belum terima,issues,1
+"pakej saya hilang di tracking, tolong investigasi",issues,1
+"pakej nyasar ke alamat lama, boleh dibantu?",issues,1
+"barang yang saya terima rosak, saya nak return",issues,1
+barang datang berbeza varian dari yang saya pesan,issues,1
+"item pesanan saya kurang, mohon dilengkapi",issues,1
+produk datang tanpa bonus yang dijanjikan promo,issues,2
+pengajuan return saya ditolak padahal barang cacat,issues,1
+status return sudah diterima tapi refund belum masuk,issues,1
+"refund ke rekening salah, saya nak ubah rekening tujuan",issues,1
+"aplikasi crash pas bayar, transaksi jadi nyangkut",issues,1
+"checkout loading terus, tak boleh selesai",issues,1
+riwayat pesanan saya hilang dari akaun,issues,1
+"pesanan saya dobel, tolong batalkan yang satu",issues,1
+saya ingin ubah alamat penghantaran tapi sudah dibuat no. tracking,issues,1
+kurier minta biaya tambahan di luar total aplikasi,issues,1
+kurier tidak menghubungi tapi statusnya gagal antar,issues,1
+"MIN UANG SAYA KEDEBIT TAPI PESANAN GAGAL, BALIKIN SEKARANG!",issues,1
+"booking saya tiba-tiba hilang dari riwayat, padahal sudah dibayar",issues,1
+kak layanan ini tersedia di area saya tak?,search,1
+boleh booking layanan untuk hari ini?,search,1
+jadual yang available minggu ini bila aja?,search,1
+durasi pengerjaan layanan biasanya berapa lama?,search,2
+biaya jasa sudah termasuk sparepart/alat belum?,search,2
+ada pakej layanan yang paling hemat?,search,1
+untuk layanan premium bedanya apa?,search,2
+boleh minta estimasi biaya kalau keadaan di lokasi berbeza?,search,2
+ada garansi hasil layanan? berapa lama?,search,2
+boleh pilih teknisi/petugas tertentu?,search,2
+ada layanan emergency/24 jam?,search,1
+"kalau jadualkan semula jadual, ada biaya tambahan tak?",search,2
+boleh konsultasi dulu sebelum booking?,search,2
+boleh minta penawaran untuk kontrak rutin bulanan?,search,1
+untuk perusahaan/kantor ada pakej corporate?,search,1
+boleh minta invois atas nama perusahaan untuk layanan?,search,1
+kaedah pembayaran untuk layanan apa aja?,search,1
+boleh bayar DP dulu?,search,1
+boleh bayar pakai QRIS?,search,1
+boleh bayar cicilan/paylater?,search,1
+min produk ini masih ready stock?,search,1
+ready tak gan? nak pesanan sekarang,search,1
+stok warna hitam masih ada?,search,1
+ukuran L/XL tersedia?,search,1
+harga satuannya berapa?,search,1
+kalau beli grosir ada diskon?,search,1
+promo yang lagi jalan apa aja?,search,1
+minimal belanja biar dapat penghantaran percuma berapa?,search,1
+boleh hantar same day/instant?,search,1
+estimasi penghantaran ke luar bandar berapa hari?,search,1
+boleh request pembungkusan ekstra (bubble/kayu)?,search,2
+produk ini original dan garansi resmi?,search,2
+boleh minta detail spek/ciri lengkapnya?,search,2
+bedanya varian A dan B apa?,search,2
+rekomendasi produk untuk pemula yang awet apa?,search,2
+ada yang sesuai untuk hadiah?,search,2
+ada refill/sparepart yang dijual terpisah?,search,2
+katalog produk terbaru boleh dihantar?,search,2
+lokasi store/offline ada di mana?,search,3
+hari ini operasional sampai jam berapa ya?,search,3
+minggu buka atau libur?,search,3
+"untuk event, boleh handle 500 orang?",search,1
+ada pakej catering/layanan untuk acara kantor?,search,1
+boleh request menu/layanan sesuai kebutuhan?,search,2
+boleh hantar proposal & price list untuk corporate?,search,1
+"untuk langganan, benefitnya apa aja?",search,2
+ada trial/demo dulu sebelum beli/booking?,search,2
+"MIN INI BOOKING SAYA HARI INI TIBA HILANG, PADAHAL DAH BAYAR!",issues,1
+jadual layanan saya mundur sendiri tanpa pengesahan,issues,1
+"petugas no show, saya sudah tunggu di lokasi",issues,1
+"teknisi datang terlambat sangat, saya minta kompensasi",issues,2
+layanan saya dibatalkan sebab 'area tidak terjangkau' padahal sebelumnya boleh,issues,1
+saya sudah bayar tapi pesanan layanan masih pending,issues,1
+pembayaran sukses tapi invois layanan belum muncul,issues,1
+"mohon hantar invois sekarang, saya perlukan untuk klaim kantor",issues,1
+MIN REFUND PEMBATALAN LAYANAN BELUM MASUK!!!,issues,1
+refund saya statusnya selesai tapi baki belum masuk,issues,1
+"refund masuk ke rekening lain, bukan rekening saya",issues,1
+"pembayaran saya ke-debit, tapi pesanan gagal dibuat",issues,1
+"saya kena charge 2x untuk transaksi yang sama, tolong bantu",issues,1
+transaksi saya gagal tapi voucher saya jadi digunakan,issues,2
+voucher dipakai tapi total bayar tak berubah,issues,2
+kod promo tiba invalid pas bayar,issues,2
+poin saya hilang selepas saya cancel pesanan,issues,2
+baki wallet saya belum balik selepas pembatalan,issues,1
+"checkout error terus, muncul tulisan 'something went wrong'",issues,1
+"halaman pembayaran blank, tak boleh lanjut",issues,1
+"saya tak boleh login sama sekali, diminta OTP tapi OTP tak nyampe",issues,1
+"AKAUN SAYA KENA HACK, EMAILNYA KEGANTI!!!",issues,1
+"ada login dari perangkat lain, saya tidak pernah login",issues,1
+"nombor TELEFON di akaun berubah sendiri, tolong amankan",issues,1
+saya nak tukar nombor tapi sistem verifikasi selalu gagal,issues,1
+status pesanan produk saya masih 'processing' terus,issues,1
+"pesanan saya belum dibungkus, padahal saya pilih express",issues,1
+"no. tracking belum muncul, boleh tolong follow up gudang?",issues,1
+no. tracking ada tapi tracking tidak update sama sekali,issues,1
+"pakejnya nyangkut di hub, dah beberapa hari",issues,1
+"kurier bilang sudah antar, tapi saya tidak terima pakej",issues,1
+"pakej saya hilang, mohon proses klaim",issues,1
+"pakej rosak parah waktu diterima, saya nak tukar",issues,1
+barang yang diterima berbeza tipe/seri dari yang saya pesan,issues,1
+"saya cuma terima 1 item, padahal pesan 3",issues,1
+"saya terima barang tanpa kelengkapan, ada part yang kurang",issues,1
+"produk yang datang sudah pernah dibuka, segelnya rosak",issues,1
+"status return saya tidak bergerak, sudah 2 minggu",issues,1
+return sudah diterima tapi refund belum diproses,issues,1
+"saya nak ubah alamat penghantaran, tapi katanya sudah dibuat no. tracking",issues,1
+"alamat saya ketulis salah di label, mohon koreksi",issues,1
+"saya cancel pesanan, tapi malah tetap dihantar",issues,1
+"pesanan saya dobel, saya takut ketagih dua kali",issues,1
+biaya admin muncul dua kali di invois,issues,1
+"min saya perlukan faktur pajak, tapi tidak ada opsi",issues,2
+file invois pdf tak kebuka (corrupt),issues,2
+"upload berkas verifikasi selalu error, filenya tak ke-submit",issues,1
+"verifikasi saya ditolak terus, padahal foto jelas",issues,2
+chat ke KHIDMAT PELANGGAN tidak ada balasan sama sekali,issues,2
+"MIN TOLONG JANGAN TUTUP TIKET SAYA, BELUM SELESAI!!!!",issues,2
+"layanan selesai tapi hasilnya berantakan, saya komplain",issues,1
+"saya diminta bayar tambahan saat petugas datang, padahal sudah lunas",issues,1
+pesanan jasa saya berubah status jadi selesai padahal belum dikerjakan,issues,1
+"saya dijadwalkan ulang sepihak, saya minta jam yang sama",issues,2
+kak boleh booking jasa untuk besok pagi?,search,1
+slot jadual hari ini masih ada?,search,1
+area layanan kalian cover sampai mana?,search,1
+"kalau di luar area, boleh tetap dilayani?",search,2
+"untuk layanan ini, estimasi durasinya berapa jam?",search,2
+harga jasa per kunjungan berapa ya?,search,1
+ada pakej langganan untuk perawatan rutin?,search,1
+pakej langganan itu dapat apa aja?,search,2
+boleh request petugas perempuan?,search,2
+boleh pilih jam kedatangan petugas?,search,1
+ada layanan ekspres / same day untuk jasa?,search,1
+boleh konsultasi percuma sebelum pesanan jasa?,search,2
+boleh minta estimasi harga berdasarkan foto/vid?,search,2
+"untuk corporate, boleh kontrak bulanan?",search,1
+minta penawaran harga untuk kantor ya,search,1
+kaedah pembayaran apa aja yang boleh dipakai?,search,1
+boleh bayar pakai transfer bank?,search,1
+boleh bayar guna e-wallet?,search,1
+pembayaran kartu kredit (Visa/Master) boleh?,search,1
+ada opsi cicilan/paylater?,search,1
+min barangnya READY?,search,1
+ready gan?,search,1
+stok varian warna navy masih ada?,search,1
+saiz M tinggal berapa?,search,1
+harga promo sekarang berapa?,search,1
+kalau beli banyak boleh dapat harga reseller?,search,1
+minimal pesanan grosir berapa pcs?,search,1
+ada diskon untuk pembelian 50 pcs?,search,1
+boleh hantar hari ini?,search,1
+penghantaran instant tersedia tak?,search,1
+estimasi ongkirnya kira berapa?,search,1
+boleh pembungkusan kayu?,search,2
+produk ini asli/original?,search,2
+garansi resminya berapa lama?,search,2
+spesifikasi detailnya boleh share?,search,2
+berbeza varian regular vs pro apa?,search,2
+rekomendasi yang sesuai untuk pemula ada?,search,2
+ada produk pengganti kalau model ini habis?,search,2
+boleh custom nama/logo untuk souvenir?,search,1
+custom minimal pesanan berapa?,search,1
+"kalau pre-order, lead time berapa lama?",search,1
+lokasi kedai offline di mana ya?,search,3
+hari ini buka sampai jam berapa?,search,3
+besok libur atau buka?,search,3
+ada opsi survei lokasi dulu sebelum deal?,search,2
+boleh booking konsultasi online dulu?,search,1
+"MIN, STATUS LAYANAN SAYA MASIH 'MENUNGGU PETUGAS' DARI TADI PAGI!!!",issues,1
+"petugas sudah sampai lokasi tapi tidak mulai kerja, saya sudah nunggu",issues,1
+"teknisi datang tapi alatnya kurang jadi pengerjaan batal, macam mana ini?",issues,1
+"hasil jasa tidak rapi, saya minta perbaikan ulang",issues,1
+layanan saya selesai tapi malah bikin kerusakan baru,issues,1
+"saya minta revisi, tapi tidak ada jadual follow-up",issues,1
+pesanan jasa saya dipindah jadual tanpa izin,issues,1
+"jadual booking saya bentrok, sistemnya salah pilih jam",issues,2
+"saya sudah bayar layanan, tapi pesanannya tidak muncul",issues,1
+"pembayaran layanan sukses, tapi statusnya gagal",issues,1
+bil layanan saya terdebit dua kali,issues,1
+"refund pembatalan jasa belum masuk, tolong semak",issues,1
+refund jasa saya malah masuk ke baki yang tidak boleh ditarik,issues,1
+"saya ingin refund sebab layanan tidak sesuai, caranya?",issues,1
+"MIN REFUND SAYA TAK MASUK, DAH BERAPA HARI INI!!!",issues,1
+invois jasa yang saya perlukan untuk kantor belum keluar,issues,1
+invois yang terbit salah nama perusahaan,issues,2
+faktur pajak untuk layanan tidak tersedia,issues,2
+link invois yang dihantar error 404,issues,1
+saya cancel layanan tapi tetap dikenakan biaya penuh,issues,1
+"biaya pembatalan terlalu besar, padahal petugas belum datang",issues,2
+saya dikenakan biaya tambahan di lokasi tanpa persetujuan,issues,1
+petugas minta bayar cash lagi padahal sudah bayar di aplikasi,issues,1
+"KHIDMAT PELANGGAN bilang akan follow up, tapi tidak ada kabar sama sekali",issues,2
+"chat support saya cuma centang satu, tak terkirim",issues,2
+tiket komplain saya berubah jadi resolved padahal belum beres,issues,2
+"saya tak boleh akses akaun, OTP tak masuk-masuk",issues,1
+OTP masuknya selalu lambat dan expired,issues,1
+"saya curiga akaun dibajak, ada perubahan alamat & e-mel",issues,1
+"AKAUN SAYA KELOGOUT TERUS, PAS LOGIN ERROR!",issues,1
+"baki saya kepotong tapi transaksi gagal, mohon pengembalian",issues,1
+"bayar via bank berhasil, tapi pesanan gagal",issues,1
+"pembayaran sukses tapi troli masih ada, pesanan tak kebentuk",issues,1
+voucher sudah terpakai tapi diskon tidak terhitung,issues,2
+poin reward saya tidak masuk selepas transaksi,issues,2
+pesanan produk saya lama sangat di pembungkusan,issues,1
+"pesanan masih diproses, boleh dipercepat?",issues,1
+barang sudah dihantar tapi no. tracking kosong,issues,1
+"no. tracking valid, tapi tracking tidak bergerak sejak semalam",issues,1
+pakej saya gagal antar padahal alamat lengkap,issues,1
+pakejnya ditahan sebab 'penerima tidak ada' padahal saya standby,issues,1
+"kurier minta biaya tambahan untuk naik lantai, ini harusnya macam mana?",issues,1
+"pakej diterima orang lain, saya tak kenal",issues,1
+"barang datang cacat, saya nak tukar baru",issues,1
+produk yang sampai berbeza ukuran dan berbeza warna,issues,1
+"isi pakej kurang, ada item yang hilang",issues,1
+barang saya datang tanpa aksesoris yang sepatutnya ada,issues,1
+"pengajuan return error terus, tak boleh submit",issues,1
+"status return sudah diterima, tapi refund belum jalan",issues,1
+"refund saya ditahan sebab verifikasi, padahal data sudah lengkap",issues,1
+saya cancel pesanan tapi status tetap jalan dan tidak boleh diubah,issues,2
+"pesanan saya jadi dua transaksi, saya takut bayar dobel",issues,1
+"saya perlukan jadualkan semula penghantaran, tapi tak ada pilihan",issues,2
+"alamat penghantaran salah di label, saya minta koreksi segera",issues,1
+boleh booking jasa sekarang untuk 2 jam lagi?,search,1
+slot teknisi hari ini masih tersedia?,search,1
+"kalau nak layanan weekend, boleh?",search,1
+jam layanan paling terakhir sampai jam berapa?,search,3
+area coverage layanan kalian apa aja?,search,1
+"untuk lokasi jauh, ada tambahan biaya transport?",search,2
+harga jasa dihitung per jam atau per pekerjaan?,search,2
+boleh minta estimasi biaya sebelum teknisi datang?,search,2
+ada pakej jasa + garansi hasil?,search,2
+garansi layanan berapa hari?,search,2
+boleh request invois & faktur pajak untuk layanan?,search,1
+kaedah pembayaran untuk booking apa saja?,search,1
+boleh bayar DP dulu untuk jadual minggu depan?,search,1
+boleh bayar via QRIS untuk layanan?,search,1
+ada pakej langganan servis rutin?,search,1
+"kalau langganan, include kunjungan berapa kali?",search,2
+boleh konsultasi online dulu sebelum pesanan?,search,2
+boleh survei lokasi dulu? biayanya berapa?,search,2
+"untuk kantor, boleh kontrak per bulan?",search,1
+minta penawaran corporate (quotation) boleh?,search,1
+min barang ini ready?,search,1
+gan stoknya ready tak?,search,1
+warna coklat/coffee ada?,search,1
+saiz XS ada tak?,search,1
+harga nettnya berapa?,search,1
+ada promo cashback tak sekarang?,search,1
+kalau beli 20 pcs boleh dapat diskon?,search,1
+minimal pembelian grosir berapa?,search,1
+boleh hantar hari ini (same day) tak?,search,1
+opsi penghantaran paling aman apa?,search,2
+boleh tambah asuransi penghantaran?,search,2
+produk ini ori dan bergaransi?,search,2
+apa aja isi box nya?,search,2
+sparepart/refill tersedia?,search,2
+boleh custom nama untuk souvenir kantor?,search,1
+custom minimal 30 pcs boleh?,search,1
+preorder biasanya berapa lama ready?,search,1
+boleh minta katalog yang paling baru?,search,2
+ada rekomendasi produk setara tapi lebih murah?,search,2
+untuk anak 5 tahun ada ukuran yang sesuai?,search,2
+lokasi outlet/kedai fizikal dimana?,search,3
+hari ini buka atau libur?,search,3
+buka sampai jam berapa malam ini?,search,3
+boleh handle event jasa untuk 1000 orang?,search,1
+"cara bookingnya macam mana, lewat app atau boleh via chat?",search,2
+ada minimal pesanan untuk booking jasa?,search,2
+"MIN, BOOKING SAYA KE-JADUALKAN SEMULA TANPA PENGESAHAN, TOLONG BALIKIN!",issues,1
+"jadual petugas saya mundur 2 jam, saya tak boleh nunggu",issues,1
+"petugas datang tapi tidak sesuai keahlian, saya minta tukar",issues,1
+"teknisi salah diagnosis, jadi pengerjaan tak selesai",issues,1
+layanan dibilang selesai padahal belum ada yang dikerjakan,issues,1
+"saya sudah bayar jasa, tapi statusnya masih pending",issues,1
+pembayaran booking sukses tapi aplikasi bilang gagal,issues,1
+"VA saya sudah dibayar untuk layanan, tapi belum terkonfirmasi",issues,1
+"MIN BAKI SAYA KEDEBIT, TAPI BOOKING TAK JADI!!!",issues,1
+"refund pembatalan booking belum masuk, mohon dipercepat",issues,1
+refund saya di-approve tapi dana belum masuk,issues,1
+refund masuknya ke mana ya? saya tak lihat di rekening,issues,2
+"refund saya ditahan sebab verifikasi tambahan, padahal sudah lengkap",issues,1
+"invois layanan tidak boleh diunduh, file error",issues,1
+invois yang saya terima salah alamat/identitas,issues,2
+"saya perlukan e-faktur, tapi tidak muncul",issues,2
+saya dikenakan biaya tambahan saat layanan selesai tanpa info awal,issues,1
+"petugas minta bayar lagi di tempat, padahal saya sudah lunas",issues,1
+"saya cancel layanan sebelum jadual, tapi tetap kena fee penuh",issues,2
+tombol jadualkan semula booking tidak boleh diklik,issues,2
+"saya nak ubah jam booking, tapi selalu gagal simpan",issues,2
+chat ke KHIDMAT PELANGGAN soal layanan tak dibalas-bales,issues,2
+"MIN KHIDMAT PELANGGAN JANGAN CLOSED TIKET, INI BELUM SELESAI!!!",issues,2
+akaun saya logout sendiri pas nak lihat jadual,issues,2
+OTP tak masuk jadi saya tak boleh akses akaun,issues,1
+kod OTP selalu expired sebelum saya input,issues,1
+"akaun saya kayak diambil alih, ada perubahan e-mel",issues,1
+saya kena transaksi tidak dikenal di akaun,issues,1
+pesanan produk saya stuck di 'diproses' 3 hari,issues,1
+pesanan saya belum masuk pembungkusan padahal bayar sudah berhasil,issues,1
+"MIN NO. TRACKING BELUM KELUAR, BILA DIHANTAR??",issues,1
+no. tracking sudah ada tapi trackingnya kosong terus,issues,1
+"tracking stop di gudang transit, dah 4 hari",issues,1
+"pakej dihantar ke alamat yang salah, tolong bantu koreksi",issues,1
+status delivered tapi pakej tidak saya terima,issues,1
+"pakej saya hilang, mohon klaim dan penyelesaian",issues,1
+"barang sampai rosak/pecah, saya nak komplain",issues,1
+"produk yang datang berbeza varian, bukan yang saya pilih",issues,1
+jumlah barang kurang dari invois,issues,1
+aksesoris/bonus tidak ikut dihantar,issues,2
+"return saya tidak boleh diajukan, selalu error",issues,1
+status return sudah diterima tapi refund belum berjalan,issues,1
+refund pembelian produk belum masuk ke baki,issues,1
+baki saya kepotong dua kali saat checkout,issues,1
+pembayaran sukses tapi pesanan tidak terbentuk,issues,1
+checkout gagal tapi voucher ikut digunakan,issues,2
+diskon hilang saat final payment,issues,2
+poin reward saya tidak bertambah selepas transaksi,issues,2
+aplikasi tertutup sendiri saat bayar,issues,1
+website error 502 pas checkout,issues,1
+troli saya kosong sendiri selepas pilih pembayaran,issues,1
+"saya tak boleh upload bukti bayar, selalu gagal",issues,1
+bukti transfer saya sudah dihantar tapi tidak diverifikasi,issues,1
+biaya caj penghantaran berubah selepas pembayaran,issues,1
+"kurier minta biaya tambahan, padahal sudah bayar caj penghantaran",issues,1
+kak ada slot booking malam ini?,search,1
+boleh pesanan jasa untuk besok jam 7 pagi?,search,1
+layanan ini boleh on-site ke rumah?,search,1
+coverage area layanan sampai mana aja?,search,1
+"kalau di luar bandar, boleh booking juga?",search,2
+harga jasa dihitung per unit atau per jam?,search,2
+ada pakej jasa + material?,search,2
+estimasi biaya layanan untuk kasus ringan berapa?,search,2
+boleh minta quotation untuk kantor?,search,1
+kalau kontrak 6 bulan ada diskon?,search,1
+boleh langganan perawatan rutin mingguan?,search,1
+"kalau langganan, jadual kunjungannya fleksibel?",search,2
+ada layanan darurat/emergency?,search,1
+boleh konsultasi via chat dulu sebelum booking?,search,2
+boleh request petugas datang jam tertentu?,search,1
+kaedah bayar untuk layanan apa aja ya?,search,1
+boleh bayar pakai QRIS untuk booking?,search,1
+transfer bank manual boleh?,search,1
+ada opsi paylater/cicilan untuk layanan?,search,1
+invois atas nama perusahaan boleh?,search,1
+min ini ready stock?,search,1
+ready tak sis?,search,1
+warna burgundy ada tak?,search,1
+stok ukuran XXL masih ada?,search,1
+harga 1 pcs berapa ya?,search,1
+ada promo diskon minggu ini?,search,1
+kalau beli 10 pcs ada potongan?,search,1
+minimal pesanan untuk harga grosir berapa?,search,1
+boleh hantar instan sekarang?,search,1
+opsi ekspedisi yang ada apa saja?,search,2
+boleh tambah insurance penghantaran?,search,2
+boleh request pembungkusan kayu/bubble?,search,2
+produk ini original? ada garansi?,search,2
+isi pakej pembelian apa aja?,search,2
+spare part / refill ada?,search,2
+boleh custom nama/logo di produk?,search,1
+custom minimal 50 pcs boleh?,search,1
+preorder lead time biasanya berapa hari?,search,1
+katalog terbaru boleh minta?,search,2
+ada rekomendasi yang paling worth it?,search,2
+lokasi tokonya di mana?,search,3
+jam buka hari ini sampai jam berapa?,search,3
+besok buka tak?,search,3
+boleh handle event jasa untuk 1000 pax?,search,1
+konsultasi tatap muka tersedia tak?,search,2
