@@ -1299,3 +1299,303 @@ jam operasional toko saat weekend bagaimana?,search,3
 apakah buka saat libur nasional?,search,3
 bisa pickup order di toko?,search,3
 apakah ada tutorial penggunaan produk?,search,3
+cara ubah username/ID di akun?,issues,3
+bisa ubah tanggal lahir di profil?,issues,3
+cara tambah nomor darurat di akun?,issues,3
+gimana cara menghapus nomor telepon dari profil?,issues,3
+cara ganti foto profil dari web (desktop)?,issues,3
+cara ubah preferensi tema (dark mode) ada?,issues,3
+cara menonaktifkan email promo?,issues,3
+cara mengatur notifikasi WhatsApp supaya tidak masuk?,issues,3
+gimana cara reset preferensi aplikasi ke default?,issues,3
+cara menghapus cache/riwayat pencarian di aplikasi?,issues,3
+gimana cara pindah akun di aplikasi (switch account)?,issues,3
+cara melihat daftar perangkat terpercaya di akun?,issues,3
+cara menambahkan alamat penjemputan (pickup) di profil?,issues,3
+cara mengubah alamat penagihan untuk invoice?,issues,3
+bisa ubah format nama di invoice?,issues,3
+cara set default invoice perusahaan?,issues,3
+cara mengunduh bukti transaksi (receipt) dari aplikasi?,issues,3
+bukti transaksi bisa minta versi PDF?,issues,3
+cara mengubah metode pengiriman favorit?,issues,3
+bisa simpan beberapa metode pengiriman favorit?,issues,3
+cara mengubah pilihan kurir sebelum checkout?,issues,3
+cara melihat syarat penggunaan poin/reward?,issues,3
+poin reward bisa dipakai untuk apa saja?,issues,3
+cara cek riwayat penggunaan poin?,issues,3
+cara cek status membership dan levelnya?,issues,3
+membership saya expire kapan?,issues,3
+cara melihat kupon/voucher yang saya punya?,issues,3
+cara cek masa berlaku voucher?,issues,3
+cara memasukkan kode voucher saat checkout?,issues,3
+bisa jelasin kenapa voucher tidak bisa digabung?,issues,3
+cara mengubah metode refund (rekening/wallet)?,issues,3
+refund biasanya diproses jam kerja atau bisa kapan saja?,issues,3
+"saya mau cek riwayat pembatalan pesanan, di mana?",issues,3
+cara cek status klaim garansi produk?,issues,3
+cara daftar garansi produk setelah pembelian?,issues,3
+garansi layanan ada nomor sertifikatnya?,issues,3
+cara mengajukan revisi layanan lewat aplikasi?,issues,3
+cara memberikan rating dan ulasan untuk layanan?,issues,3
+cara edit ulasan yang sudah saya kirim?,issues,3
+cara menghapus review yang sudah dibuat?,issues,3
+cara menambahkan catatan untuk kurir/petugas?,issues,3
+bisa atur preferensi jam pengantaran?,issues,3
+cara melihat estimasi biaya sebelum checkout/booking?,issues,3
+cara cek riwayat chat dengan penjual/CS?,issues,3
+cara menghapus riwayat chat?,issues,3
+bagaimana cara mengubah bahasa otomatis di chat?,issues,3
+cara update aplikasi ke versi terbaru?,issues,3
+apakah ada versi web untuk akses akun?,issues,3
+cara pindah data akun ke HP baru?,issues,3
+cara mengubah suara notifikasi aplikasi?,issues,3
+ada panduan penggunaan untuk pemula?,search,3
+ada manual produk dalam bahasa Indonesia?,search,3
+cara pemesanan/booking step-by-step bisa dikirim?,search,3
+kalian punya halaman bantuan/knowledge base?,search,3
+di mana saya bisa baca kebijakan retur lengkap?,search,3
+di mana saya bisa baca kebijakan refund lengkap?,search,3
+syarat garansi produk bisa dikirim linknya?,search,3
+syarat garansi layanan bisa dikirim linknya?,search,3
+"untuk layanan, prosedur komplain seperti apa?",search,3
+"untuk produk, prosedur komplain seperti apa?",search,3
+ada SOP atau alur kerja layanan yang bisa saya lihat?,search,3
+kalian melayani jam berapa sampai jam berapa?,search,3
+operasional hari sabtu sampai jam berapa?,search,3
+hari minggu operasional atau libur?,search,3
+kalau malam hari masih bisa dihubungi?,search,3
+alamat email CS/support apa ya?,search,3
+nomor hotline untuk bantuan ada?,search,3
+alamat kantor pusat di mana?,search,3
+apakah ada cabang di kota lain?,search,3
+bisa share link lokasi Google Maps?,search,3
+apakah ada showroom atau tempat lihat barang?,search,3
+apakah bisa konsultasi di toko/offline?,search,3
+layanan kalian bisa datang ke rumah (home service)?,search,3
+area home service mencakup wilayah mana saja?,search,3
+minimal biaya kunjungan untuk layanan ada?,search,3
+berapa lama durasi layanan biasanya?,search,3
+apa saja yang termasuk dalam paket layanan standar?,search,3
+"untuk paket premium, fasilitas tambahannya apa?",search,3
+apakah bisa pilih jadwal sendiri saat booking?,search,3
+apakah bisa ubah jadwal setelah booking?,search,3
+metode pembayaran yang tersedia apa saja ya?,search,3
+apakah menerima pembayaran via kartu?,search,3
+apakah bisa bayar melalui virtual account?,search,3
+apakah bisa bayar dengan QRIS?,search,3
+apakah ada pembayaran cicilan?,search,3
+apakah ada biaya layanan/handling fee?,search,3
+apakah bisa request invoice perusahaan?,search,3
+apakah tersedia faktur pajak?,search,3
+"untuk corporate, alur pengajuan penawaran bagaimana?",search,3
+apakah ada program kemitraan atau reseller?,search,3
+apakah tersedia program affiliate/afiliasi untuk referral?,search,3
+bisa minta company profile?,search,3
+bisa minta brosur/leaflet?,search,3
+apakah ada daftar produk/jasa lengkap?,search,3
+kategori layanan yang tersedia apa aja?,search,3
+bisa share daftar kategori produk yang tersedia?,search,3
+"untuk produk, materialnya biasanya apa?",search,3
+apakah ada pilihan ukuran/warna untuk produk?,search,3
+bisa jelasin cara perawatan dan penyimpanan produk?,search,3
+ada halaman status sistem kalau sedang maintenance?,search,3
+cara melihat alamat yang tersimpan di akun?,issues,3
+cara mengubah alamat utama di akun?,issues,3
+cara menambah alamat kantor dan alamat rumah sekaligus?,issues,3
+cara pilih alamat saat checkout?,issues,3
+cara simpan catatan khusus untuk alamat (patokan rumah)?,issues,3
+cara set alamat pickup berbeda dengan alamat pengiriman?,issues,3
+cara cek status verifikasi email/nomor di menu mana?,issues,3
+cara ubah nama lengkap di akun?,issues,3
+bisa ubah gender di profil?,issues,3
+cara ganti foto KTP yang sudah diupload?,issues,3
+cara lihat daftar voucher yang bisa dipakai?,issues,3
+cara melihat promo yang sedang aktif?,issues,3
+bagaimana cara kerja promo cashback?,issues,3
+cara mengetahui promo mana yang bisa digabung?,issues,3
+cara cek minimum pembelian untuk promo?,issues,3
+cara cek sisa kuota voucher saya?,issues,3
+cara gunakan kode referral saat daftar?,issues,3
+cara melihat riwayat referral?,issues,3
+cara pakai saldo wallet untuk bayar?,issues,3
+cara top up saldo wallet?,issues,3
+cara cek biaya admin sebelum bayar?,issues,3
+cara simpan metode pembayaran favorit?,issues,3
+cara menghapus metode pembayaran yang tidak dipakai?,issues,3
+cara pakai pembayaran cicilan/paylater?,issues,3
+cara cek limit paylater?,issues,3
+cara melihat histori penggunaan voucher?,issues,3
+cara cek garansi masih berlaku atau tidak?,issues,3
+"cara klaim garansi produk, langkah-langkahnya apa?",issues,3
+"cara klaim garansi layanan, langkahnya gimana?",issues,3
+bisa jelaskan aturan penukaran barang (exchange)?,issues,3
+cara ajukan retur lewat aplikasi?,issues,3
+apa saja dokumen yang dibutuhkan untuk retur?,issues,3
+bagaimana cara packing barang untuk retur?,issues,3
+retur bisa drop off di mana?,issues,3
+retur bisa dijemput kurir atau harus kirim sendiri?,issues,3
+cara melihat riwayat retur saya?,issues,3
+cara cek status refund yang sedang berjalan?,issues,3
+cara menambahkan rekening bank untuk refund?,issues,3
+apakah refund bisa masuk ke wallet?,issues,3
+cara ubah pengaturan privasi akun?,issues,3
+cara menghapus akun sementara (deactivate) bisa?,issues,3
+cara mengaktifkan kembali akun yang sudah dinonaktifkan?,issues,3
+cara cek log aktivitas akun?,issues,3
+cara mengatur keamanan akun supaya tidak mudah dibobol?,issues,3
+cara melaporkan bug aplikasi dengan benar?,issues,3
+cara kirim screenshot/video ke CS?,issues,3
+cara cek versi aplikasi yang saya pakai?,issues,3
+cara update aplikasi kalau pakai iPhone?,issues,3
+cara update aplikasi kalau pakai Android?,issues,3
+cara minta salinan S&K promo?,issues,3
+jam buka toko hari kerja gimana?,search,3
+jam istirahat toko ada?,search,3
+bisa transaksi offline di store?,search,3
+bisa bayar di tempat kalau datang ke toko?,search,3
+alamat gudang atau pickup point ada?,search,3
+kalian melayani area mana saja?,search,3
+"untuk layanan, area coverage lengkapnya apa?",search,3
+"untuk produk, bisa kirim ke seluruh Indonesia?",search,3
+ada opsi pengiriman reguler dan hemat?,search,3
+cut off pengiriman jam berapa?,search,3
+pakai ekspedisi apa saja?,search,3
+ada layanan pickup untuk retur?,search,3
+bisa ambil pesanan di toko?,search,3
+ada opsi pengantaran terjadwal?,search,3
+"untuk layanan, bisa booking untuk tanggal tertentu?",search,3
+"untuk layanan, tersedia jam berapa saja?",search,3
+bisa pilih teknisi/petugas tertentu atau random?,search,3
+"untuk layanan, apakah ada biaya survey?",search,3
+bisa konsultasi dulu sebelum ambil paket?,search,3
+bisa minta price list jasa?,search,3
+bisa minta price list produk?,search,3
+bisa minta daftar paket layanan lengkap?,search,3
+ada paket hemat untuk pemula (starter pack)?,search,3
+apakah ada paket premium?,search,3
+apa perbedaan paket basic vs pro?,search,3
+apakah paket sudah termasuk instalasi?,search,3
+apakah ada biaya instalasi terpisah?,search,3
+metode pembayaran apa saja yang tersedia untuk corporate?,search,3
+bisa minta invoice perusahaan untuk pembelian?,search,3
+bisa minta faktur pajak untuk pembelian?,search,3
+"untuk corporate, ada PIC yang bisa dihubungi?",search,3
+"untuk kerja sama, prosedurnya gimana?",search,3
+apakah ada program membership?,search,3
+membership dapat benefit apa saja?,search,3
+apakah ada program poin/reward?,search,3
+poin/reward bisa dipakai buat apa?,search,3
+apakah ada promo khusus member?,search,3
+apakah kalian punya aplikasi di iOS/Android?,search,3
+apakah bisa order lewat website?,search,3
+apakah bisa order lewat WhatsApp?,search,3
+prosedur pemesanan grosir bagaimana?,search,3
+apakah ada minimal pembelian grosir?,search,3
+cara jadi reseller bagaimana?,search,3
+cara daftar kemitraan bagaimana?,search,3
+bisa kirim katalog produk lewat email?,search,3
+bisa kirim katalog layanan lewat email?,search,3
+ada demo/trial untuk layanan?,search,3
+ada tutorial atau video cara pakai produk?,search,3
+apakah produk punya sertifikasi tertentu?,search,3
+ada opsi tukar tambah (trade-in)?,search,3
+cara mengubah alamat email untuk notifikasi saja?,issues,3
+bisa pisahkan email login dan email untuk invoice?,issues,3
+cara mengatur preferensi notifikasi push?,issues,3
+cara menonaktifkan notifikasi suara?,issues,3
+cara mengaktifkan notifikasi hanya untuk status pesanan?,issues,3
+cara mengganti zona waktu/jam di aplikasi?,issues,3
+cara memilih format tanggal di aplikasi?,issues,3
+cara ubah satuan ukuran (cm/inch) di aplikasi?,issues,3
+cara lihat riwayat pencarian produk?,issues,3
+cara menghapus riwayat pencarian?,issues,3
+cara menyimpan alamat favorit?,issues,3
+cara mengganti alamat default untuk checkout?,issues,3
+cara menambahkan instruksi pengantaran permanen?,issues,3
+cara mengubah nama penerima default?,issues,3
+cara mengatur beberapa profil penerima?,issues,3
+cara melihat daftar pesanan yang sudah selesai?,issues,3
+cara mengunduh invoice untuk beberapa transaksi sekaligus?,issues,3
+invoice bisa minta format selain PDF?,issues,3
+cara melihat ringkasan biaya di checkout?,issues,3
+cara melihat rincian pajak di invoice?,issues,3
+bagaimana cara mengajukan invoice bertanggal tertentu?,issues,3
+cara mengubah data billing tanpa mengubah data akun utama?,issues,3
+cara cek status pembayaran manual?,issues,3
+cara melihat daftar metode pembayaran yang tersedia?,issues,3
+cara mengatur metode pembayaran default?,issues,3
+cara menghapus rekening bank yang tersimpan?,issues,3
+cara menambah rekening bank baru untuk refund?,issues,3
+cara melihat syarat pembatalan pesanan?,issues,3
+batas waktu pembatalan pesanan biasanya berapa lama?,issues,3
+cara melihat syarat pembatalan booking layanan?,issues,3
+batas waktu reschedule layanan itu sampai kapan?,issues,3
+cara cek ketersediaan jadwal sebelum booking?,issues,3
+cara memasukkan catatan untuk teknisi sebelum booking?,issues,3
+cara melihat detail paket layanan yang saya pilih?,issues,3
+cara mengubah alamat layanan di pesanan booking?,issues,3
+cara menyimpan lokasi layanan favorit?,issues,3
+bagaimana cara menambahkan akses lokasi di aplikasi?,issues,3
+cara mengubah preferensi komunikasi CS (email/telepon)?,issues,3
+cara meminta call back dari CS?,issues,3
+cara menghapus data kartu di aplikasi?,issues,3
+cara cek status membership saya?,issues,3
+cara mengaktifkan kupon otomatis?,issues,3
+cara menggunakan voucher untuk pengiriman (ongkir)?,issues,3
+cara cek syarat penggunaan voucher ongkir?,issues,3
+bagaimana cara kerja wishlist?,issues,3
+cara membagikan wishlist ke orang lain?,issues,3
+cara mengatur privasi profil (public/private)?,issues,3
+cara mengubah foto cover profil?,issues,3
+bagaimana cara meminta penutupan akun sementara?,issues,3
+apakah ada halaman tentang profil perusahaan?,search,3
+bisa minta company profile dalam PDF?,search,3
+apakah ada brosur digital?,search,3
+ada daftar harga umum yang bisa saya lihat?,search,3
+harga bisa berubah sewaktu-waktu gak?,search,3
+kebijakan harga grosir ada di mana?,search,3
+apakah ada program membership untuk pelanggan?,search,3
+program membership manfaatnya apa saja?,search,3
+apakah ada program poin loyalti?,search,3
+poin loyalti cara dapatnya gimana?,search,3
+apakah ada promo rutin mingguan/bulanan?,search,3
+cara cek promo terbaru di mana?,search,3
+apakah ada newsletter promo?,search,3
+bisa subscribe newsletter?,search,3
+kalian punya aplikasi mobile?,search,3
+apakah tersedia aplikasi web?,search,3
+apakah bisa order tanpa aplikasi?,search,3
+pemesanan bisa via telepon?,search,3
+pemesanan bisa via email?,search,3
+pemesanan bisa via DM sosmed?,search,3
+cara pembayaran yang didukung apa saja?,search,3
+bisa bayar pakai debit online?,search,3
+bisa bayar pakai e-wallet apa saja?,search,3
+pembayaran via QRIS didukung?,search,3
+bisa bayar pakai virtual account bank apa?,search,3
+apakah ada pembayaran COD?,search,3
+"untuk layanan, apakah bisa bayar setelah selesai?",search,3
+apakah ada opsi DP untuk layanan?,search,3
+apakah ada biaya kunjungan untuk layanan?,search,3
+apakah layanan tersedia untuk luar kota?,search,3
+wilayah layanan biasanya mencakup apa saja?,search,3
+apakah bisa booking layanan untuk minggu depan?,search,3
+jam layanan tersedia dari jam berapa?,search,3
+jam layanan tersedia sampai jam berapa?,search,3
+apakah ada layanan di hari libur?,search,3
+apakah ada layanan malam hari?,search,3
+apakah ada layanan instalasi?,search,3
+apakah ada layanan survey lokasi?,search,3
+"kalau survey, prosedurnya bagaimana?",search,3
+apakah layanan bisa request jadwal khusus?,search,3
+apakah ada garansi pengerjaan layanan?,search,3
+garansi pengerjaan biasanya berapa hari?,search,3
+kebijakan retur produk fisik bisa dicek di mana?,search,3
+kebijakan refund untuk pembatalan layanan bisa dicek di mana?,search,3
+"kebijakan pengiriman: estimasi & biaya, bisa lihat di mana?",search,3
+kalian ada opsi pickup point?,search,3
+kalian punya toko offline atau cuma online?,search,3
+jam buka toko offline hari ini sampai jam berapa?,search,3
+bisa konsultasi langsung di toko?,search,3
+apakah ada layanan after-sales?,search,3
+apakah ada pusat servis/resmi?,search,3
