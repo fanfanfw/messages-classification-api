@@ -4,7 +4,7 @@ from transformers import AutoModel
 
 
 class MultiTaskClassifier(nn.Module):
-    def __init__(self, model_name='indolem/indobert-base-uncased', num_labels=2, num_priorities=3, dropout=0.3):
+    def __init__(self, model_name='bert-base-multilingual-cased', num_labels=2, num_priorities=3, dropout=0.3):
         super().__init__()
         self.bert = AutoModel.from_pretrained(model_name)
         hidden_size = self.bert.config.hidden_size

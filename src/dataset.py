@@ -1,6 +1,8 @@
 import torch
 from torch.utils.data import Dataset
 import pandas as pd
+from pathlib import Path
+from typing import Iterable, Union, List, Tuple
 
 
 class MultiTaskDataset(Dataset):
@@ -38,6 +40,27 @@ class MultiTaskDataset(Dataset):
         }
 
 
-def load_data(csv_path):
-    df = pd.read_csv(csv_path)
-    return df['text'].tolist(), df['label'].tolist(), df['priority'].tolist()
+def load_data(csv_paths: Union[str, Path, Iterable[Union[str, Path]]]) -> Tuple[List[str], List[str], List[int]]:
+    if isinstance(csv_paths, (str, Path)):
+        paths = [Path(csv_paths)]
+    else:
+        paths = [Path(p) for p in csv_paths]
+
+    if not paths:
+        raise ValueError("No CSV paths provided")
+
+    frames = []
+    for path in paths:
+        df = pd.read_csv(path)
+        missing = {"text", "label", "priority"} - set(df.columns)
+        if missing:
+            raise ValueError(f"Missing columns {sorted(missing)} in {path}")
+        frames.append(df[["text", "label", "priority"]])
+
+    df_all = pd.concat(frames, ignore_index=True)
+    df_all = df_all.dropna(subset=["text", "label", "priority"])
+    return (
+        df_all["text"].astype(str).tolist(),
+        df_all["label"].astype(str).tolist(),
+        df_all["priority"].astype(int).tolist(),
+    )

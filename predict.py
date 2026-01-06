@@ -10,8 +10,14 @@ class MessageClassifier:
     def __init__(self, model_path='model_output'):
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
         model_path = Path(model_path)
-        
-        checkpoint = torch.load(model_path / 'best_model.pt', map_location=self.device, weights_only=False)
+
+        checkpoint_path = model_path / 'best_model.pt'
+        if not checkpoint_path.exists():
+            fallback = model_path / 'best_model_update_priority3.pt'
+            if fallback.exists():
+                checkpoint_path = fallback
+
+        checkpoint = torch.load(checkpoint_path, map_location=self.device, weights_only=False)
         self.model_name = checkpoint['model_name']
         self.label_map = checkpoint['label_map']
         self.priority_map = checkpoint['priority_map']

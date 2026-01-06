@@ -38,7 +38,7 @@ REST API untuk klasifikasi pesan customer service.
 ### Features
 - Klasifikasi label: **issues** atau **search**
 - Klasifikasi priority: **1** (high), **2** (medium), **3** (low)
-- Multi-task learning dengan IndoBERT
+- Multi-task learning dengan model Transformer
 - API Key authentication
 
 ### Authentication
