@@ -1526,3 +1526,486 @@ voucher hangus sebab payment gagal... mohon bantu ya,issues,1
 "weh, order stuck diproses untuk invois #88357 — boleh semak ya?",issues,1
 puan kenapa order duplicate dalam sistem?,issues,1
 "abang, saya nak follow up: barang belum dipos",issues,1
+selamat pagi,search,3
+selamat petang,search,3
+selamat malam,search,3
+hai,search,3
+hello,search,3
+hi,search,3
+hye,search,3
+salam,search,3
+assalamualaikum,search,3
+salam sejahtera,search,3
+pagi min,search,3
+petang kak,search,3
+malam boss,search,3
+hai min,search,3
+hello kak,search,3
+hi boss,search,3
+hye bro,search,3
+salam sis,search,3
+assalamualaikum min,search,3
+assalamualaikum kak,search,3
+selamat pagi min,search,3
+selamat petang kak,search,3
+selamat malam boss,search,3
+slmt pagi,search,3
+slmt petang,search,3
+slmt malam,search,3
+aslm,search,3
+aslkm,search,3
+mlm,search,3
+pg,search,3
+ptg,search,3
+hlo,search,3
+hai admin,search,3
+hello admin,search,3
+hi admin,search,3
+hye admin,search,3
+selamat pagi admin,search,3
+selamat petang admin,search,3
+selamat malam admin,search,3
+salam admin,search,3
+pagi bro,search,3
+pagi sis,search,3
+petang bro,search,3
+petang sis,search,3
+malam bro,search,3
+malam sis,search,3
+bro,search,3
+sis,search,3
+boss,search,3
+kak,search,3
+min,search,3
+tuan,search,3
+puan,search,3
+encik,search,3
+cik,search,3
+abang,search,3
+akak,search,3
+weh,search,3
+wei,search,3
+eh,search,3
+oi,search,3
+morning,search,3
+evening,search,3
+morning min,search,3
+evening kak,search,3
+good morning,search,3
+good evening,search,3
+hi there,search,3
+hello there,search,3
+hai semua,search,3
+hello semua,search,3
+salam perkenalan,search,3
+salam hormat,search,3
+dengan hormat,search,3
+yth admin,search,3
+mohon maaf,search,3
+maaf ganggu,search,3
+maaf mengganggu,search,3
+minta maaf,search,3
+sorry ganggu,search,3
+sori min,search,3
+sori kak,search,3
+permisi,search,3
+permisi min,search,3
+permisi kak,search,3
+tumpang tanya,search,3
+nak tanya,search,3
+boleh tanya,search,3
+boleh nak tanya,search,3
+izin bertanya,search,3
+minta izin tanya,search,3
+tuan boleh tanya,search,3
+puan boleh tanya,search,3
+assalamualaikum wbt,search,3
+assalamualaikum warahmatullahi wabarakatuh,search,3
+waalaikumsalam,search,3
+wassalam,search,3
+selamat pagi ya,search,3
+selamat petang ya,search,3
+selamat malam ya,search,3
+pagi ya,search,3
+petang ya,search,3
+malam ya,search,3
+hai ya,search,3
+hello ya,search,3
+permisi ya,search,3
+maaf ya,search,3
+mohon bantuan,search,3
+minta tolong,search,3
+tolong bantu,search,3
+perlukan bantuan,search,3
+harap dapat bantu,search,3
+salam sejahtera untuk semua,search,3
+selamat beraktiviti,search,3
+selamat berehat,search,3
+pagi semua,search,3
+petang semua,search,3
+malam semua,search,3
+hi all,search,3
+hello all,search,3
+abang min,search,3
+akak admin,search,3
+encik admin,search,3
+cik admin,search,3
+tuan admin,search,3
+puan admin,search,3
+boss min,search,3
+bro min,search,3
+sis min,search,3
+weh min,search,3
+wei kak,search,3
+oi bos,search,3
+bossku,search,3
+bossku min,search,3
+bro boleh tanya,search,3
+sis boleh tanya,search,3
+min boleh tanya,search,3
+kak boleh tanya,search,3
+hai boleh tanya,search,3
+hello boleh tanya,search,3
+salam min,search,3
+salam kak,search,3
+salam tuan,search,3
+salam puan,search,3
+selamat malam min pesanan saya belum diproses,issues,1
+selamat pagi kak kenapa duit saya tolak tapi order gagal?,issues,1
+"hai min, refund saya tak masuk dah seminggu",issues,1
+"hello kak, barang yang sampai rosak teruk",issues,1
+"assalamualaikum, akaun saya tak boleh login ada error",issues,1
+"permisi min, baki saya tolak 2 kali untuk transaksi sama",issues,1
+"pagi kak, pesanan saya cancel automatik padahal dah bayar",issues,1
+"petang min, parcel saya hilang dalam penghantaran",issues,1
+"malam boss, barang yang sampai tak sama dengan yang saya order",issues,1
+"salam tuan, akaun saya macam kena hack ada transaksi tak dikenali",issues,1
+"hai, voucher saya tak boleh guna keluar error terus",issues,1
+"hello, tracking parcel saya tak bergerak dari 5 hari lepas",issues,1
+"hi min, produk sampai pecah dan tak boleh guna",issues,1
+"hye kak, saya dah transfer tapi status masih menunggu bayaran",issues,1
+"weh boss, pesanan saya stuck di status diproses dah 4 hari",issues,1
+"slmt pagi, refund saya ditolak padahal barang dah saya retur",issues,1
+"mlm min, saya tak boleh checkout keluar error 500",issues,1
+"morning kak, OTP tak pernah masuk padahal dah resend banyak kali",issues,1
+"assalamualaikum min, invoice tak boleh download file corrupt",issues,1
+selamat pagi pesanan saya belum dipacking dah 3 hari,issues,1
+selamat petang kurier kata parcel dah hantar tapi saya tak terima,issues,1
+selamat malam pembayaran saya gagal terus padahal baki cukup,issues,1
+"bro, barang saya kurang 2 item dari invoice",issues,1
+"sis, status pesanan tiba-tiba berubah jadi dibatalkan kenapa?",issues,1
+"boss, saya terima barang salah varian dan warna",issues,1
+"min, app crash setiap kali nak bayar",issues,1
+"kak, poin reward saya hilang tanpa diguna",issues,1
+"tuan, parcel saya balik ke pengirim padahal alamat betul",issues,1
+"puan, ada caj tambahan yang saya tak setuju masa checkout",issues,1
+"encik, akaun saya terkunci lepas beberapa kali salah password",issues,1
+"cik, transaksi saya debit tapi order tak terbentuk",issues,1
+"abang, barang yang sampai dah expired",issues,1
+"akak, tiket booking tak muncul padahal dah bayar",issues,1
+"weh, refund masuk ke wallet bukan ke bank kenapa?",issues,1
+"wei, kurier minta bayar tambahan padahal dah lunas",issues,1
+"hai admin, barang sampai tanpa segel macam dah dibuka",issues,1
+"hello admin, pesanan hilang dari riwayat order",issues,1
+"hi admin, baki wallet berkurang sendiri tanpa transaksi",issues,1
+"hye admin, technician tak datang ikut jadual yang dah booking",issues,1
+selamat pagi min pesanan statusnya stuck di sorting facility,issues,1
+selamat petang kak refund dah approve tapi duit tak masuk 14 hari,issues,1
+selamat malam boss barang rosak dan seller tak mau tanggung jawab,issues,1
+"assalamualaikum wbt, voucher terpotong tapi diskaun tak mengurangi total",issues,1
+"salam tuan, confirmation pembayaran tak masuk ke email",issues,1
+"salam puan, layanan yang saya booking dibatalkan sepihak tanpa refund",issues,1
+"mohon maaf kak, alamat di label berbeza dengan yang saya input",issues,1
+"maaf ganggu min, barang datang dengan kerosakan serius tak boleh guna",issues,1
+"permisi min, butuh faktur pajak tapi tak ada option di sistem",issues,1
+"tumpang tanya kak, top up baki berjaya tapi balance tak bertambah",issues,1
+"nak tanya min, gagal upload dokumen verifikasi padahal format dah betul",issues,1
+"boleh tanya kak, pesanan dobel tapi saya hanya order sekali",issues,1
+"weh min, tiket komplain ditutup padahal masalah belum selesai",issues,1
+"bro admin, parcel nyasar ke alamat orang lain",issues,1
+"sis admin, langganan masih ditagih padahal dah berhenti",issues,1
+"assalamualaikum min, caj ongkir yang ditagih berbeza dari checkout",issues,1
+"hai ya, hasil layanan tak sesuai dengan yang dijanjikan",issues,1
+"hello ya, poin tak masuk selepas transaksi selesai",issues,1
+"pagi bro, akaun macam diakses orang lain",issues,1
+"petang sis, refund cuma masuk sebahagian mana yang lagi?",issues,1
+"malam boss, keranjang kosong sendiri selepas pilih pembayaran",issues,1
+"bossku, pesanan digital tak aktif padahal dah bayar",issues,1
+"tuan min, pembayaran VA berjaya tapi order tak confirm",issues,1
+"puan kak, barang sampai tanpa manual dan kelengkapan lain",issues,1
+"selamat malam, boleh semak status penghantaran pesanan saya?",issues,2
+"selamat pagi, saya nak ubah alamat penghantaran sebab tersalah input",issues,2
+"hai min, tolong check kenapa voucher tak boleh guna",issues,2
+"hello kak, pesanan saya dah berapa hari tak ada update?",issues,2
+"assalamualaikum, saya nak reschedule jadual booking",issues,2
+"permisi min, boleh minta nombor resi penghantaran?",issues,2
+"pagi kak, status pesanan masih pending dari semalam",issues,2
+"petang min, tracking dah tak update 2 hari kenapa ya?",issues,2
+"malam boss, promo diskaun kata aktif tapi tak boleh guna",issues,2
+"salam tuan, saya perlu follow up untuk tiket komplain 12345",issues,2
+"hai, boleh tukar saiz pesanan yang dah dibuat?",issues,2
+"hello, invoice yang diterbitkan perlu revisi nama syarikat",issues,2
+"hi min, nak update nombor telefon penerima di pesanan",issues,2
+"hye kak, cashback yang dijanjikan belum masuk ke akaun",issues,2
+"weh boss, pembayaran dah terverifikasi? belum ada confirmation",issues,2
+"slmt pagi, nak tanya bila anggaran pesanan saya dihantar",issues,2
+"mlm min, poin sepatutnya dah masuk tapi belum muncul",issues,2
+"morning kak, boleh tolong check status retur saya?",issues,2
+"assalamualaikum min, request ubah warna produk sebelum dihantar",issues,2
+selamat pagi pesanan statusnya masih diproses dah 2 hari,issues,2
+selamat petang boleh minta anggaran bila refund diproses?,issues,2
+selamat malam jadual technician nak dipindah ke jam lain boleh?,issues,2
+"bro, tolong follow up ke team warehouse untuk pesanan saya",issues,2
+"sis, nak check kenapa promo buy 1 get 1 tak berlaku",issues,2
+"boss, saya belum terima email confirmation booking",issues,2
+"min, resit pembelian boleh dihantar semula via email?",issues,2
+"kak, tracking pesanan saya dah sampai mana ya?",issues,2
+"tuan, tolong confirm pembayaran saya dah masuk",issues,2
+"puan, nak tukar method penghantaran jadi express boleh?",issues,2
+"encik, syarat voucher free ongkir apa? tak boleh guna",issues,2
+"cik, boleh tolong forward ke team refund?",issues,2
+"abang, status booking masih menunggu confirmation",issues,2
+"akak, boleh ubah catatan untuk kurier?",issues,2
+"weh, poin yang tertunda bila masuk ke akaun?",issues,2
+"wei, resi belum muncul padahal status dah shipped",issues,2
+"hai admin, kenapa promo code invalid terus?",issues,2
+"hello admin, tolong check statusnya bila barang dipacking",issues,2
+"hi admin, nak tanya progress retur saya macam mana",issues,2
+"hye admin, promo aplikasi tak muncul di checkout saya",issues,2
+selamat pagi min boleh tolong percepatkan proses packingnya?,issues,2
+selamat petang kak nak tanya syarat tukar saiz macam mana,issues,2
+selamat malam boss diskaun yang terpotong berbeza dari promo?,issues,2
+"assalamualaikum wbt, confirmation pemesanan bila dihantar ke email?",issues,2
+"salam tuan, request jadual kunjungan technician dipercepatkan",issues,2
+"salam puan, invoice nak minta versi PDF boleh?",issues,2
+"mohon maaf kak, anggaran penghantaran sepatutnya dah sampai semalam",issues,2
+"maaf ganggu min, nak check baki kuota voucher saya",issues,2
+"permisi min, boleh update status retur barang saya?",issues,2
+"tumpang tanya kak, tolong check jadual servis yang dah booking",issues,2
+"nak tanya min, OTP masuknya lama sangat baru terima sekarang",issues,2
+"boleh tanya kak, voucher birthday tak aktif padahal bulan ni birthday",issues,2
+"weh min, tolong confirm alamat penghantaran dah betul",issues,2
+"bro admin, poin dari transaksi semalam bila masuknya?",issues,2
+"sis admin, nak follow up status pembayaran yang pending",issues,2
+"assalamualaikum min, boleh tolong check kenapa checkout loading lama",issues,2
+"hai ya, syarat warranty produk ni apa ya?",issues,2
+"hello ya, verifikasi email saya pending terus",issues,2
+"pagi bro, bila anggaran barang sampai?",issues,2
+"petang sis, booking boleh diubah lokasinya?",issues,2
+"malam boss, check status pesanan dah berapa persen proses",issues,2
+"selamat malam, macam mana cara tukar password akaun?",issues,3
+"selamat pagi, nak tanya prosedur pengajuan retur macam mana",issues,3
+"hai min, cara check poin reward saya di mana?",issues,3
+"hello kak, polisi refund biasanya berapa hari?",issues,3
+"assalamualaikum, cara ubah alamat default di akaun macam mana?",issues,3
+"permisi min, macam mana cara download invoice dari app?",issues,3
+"pagi kak, langkah-langkah klaim warranty produk macam mana?",issues,3
+"petang min, cara verifikasi email akaun macam mana?",issues,3
+"malam boss, nak tanya boleh reschedule booking?",issues,3
+"salam tuan, cara tengok riwayat transaksi di mana?",issues,3
+"hai, macam mana cara hapus kad pembayaran yang tersimpan?",issues,3
+"hello, prosedur tukar barang kalau saiz tak sesuai macam mana?",issues,3
+"hi min, cara matikan notifikasi promo macam mana?",issues,3
+"hye kak, panduan guna feature wishlist ada?",issues,3
+"weh boss, cara check baki wallet di app macam mana?",issues,3
+"slmt pagi, syarat dan ketentuan guna voucher boleh tengok di mana?",issues,3
+"mlm min, cara ubah foto profil di akaun macam mana?",issues,3
+"morning kak, cara logout dari semua device macam mana?",issues,3
+"assalamualaikum min, panduan verifikasi 2 langkah ada?",issues,3
+selamat pagi nak tanya cara tukar nombor telefon di akaun,issues,3
+selamat petang polisi pembatalan pesanan macam mana?,issues,3
+selamat malam cara check tempoh sah poin macam mana?,issues,3
+"bro, langkah-langkah hapus akaun secara kekal apa?",issues,3
+"sis, cara tengok detail tracking penghantaran di mana?",issues,3
+"boss, panduan cara reschedule layanan ada tak?",issues,3
+"min, cara isi data SST untuk invoice macam mana?",issues,3
+"kak, macam mana cara tambah alamat baru di profil?",issues,3
+"tuan, prosedur pengajuan klaim insurans penghantaran?",issues,3
+"puan, cara tengok promo yang sedang aktif di mana?",issues,3
+"encik, langkah-langkah pembuatan tiket bantuan macam mana?",issues,3
+"cik, cara check membership level saya macam mana?",issues,3
+"abang, syarat jadi reseller apa ya?",issues,3
+"akak, cara guna kod referral masa daftar macam mana?",issues,3
+"weh, polisi privasi boleh baca di mana?",issues,3
+"wei, cara aktifkan dark mode di app?",issues,3
+"hai admin, panduan cara bayar guna paylater?",issues,3
+"hello admin, cara check riwayat penggunaan voucher di mana?",issues,3
+"hi admin, langkah-langkah verifikasi nombor HP macam mana?",issues,3
+"hye admin, cara edit review yang dah dihantar macam mana?",issues,3
+selamat pagi min nak tanya cara tukar username di akaun,issues,3
+selamat petang kak polisi warranty produk boleh baca di mana?,issues,3
+selamat malam boss prosedur lanjutan langganan macam mana?,issues,3
+"assalamualaikum wbt, cara tambah catatan untuk kurier macam mana?",issues,3
+"salam tuan, langkah-langkah guna voucher ongkir?",issues,3
+"salam puan, macam mana cara tengok histori top up baki?",issues,3
+"mohon maaf kak, panduan cara setting preferensi notifikasi?",issues,3
+"maaf ganggu min, cara hapus alamat lama dari profil macam mana?",issues,3
+"permisi min, langkah-langkah klaim poin reward macam mana?",issues,3
+"tumpang tanya kak, cara check syarat guna promo di mana?",issues,3
+"nak tanya min, panduan cara booking layanan step by step?",issues,3
+"boleh tanya kak, cara atur PIN keselamatan akaun macam mana?",issues,3
+"selamat malam, ada produk warna navy ready stock?",search,1
+"selamat pagi, boleh hantar hari ni kalau order sekarang?",search,1
+"hai min, stok saiz M masih ada?",search,1
+"hello kak, harga borong minimal order berapa?",search,1
+"assalamualaikum, boleh COD untuk kawasan saya?",search,1
+"permisi min, ada promo free ongkir hari ni?",search,1
+"pagi kak, produk ni ready stock?",search,1
+"petang min, boleh bayar guna e-wallet?",search,1
+"malam boss, saiz XXL tersedia?",search,1
+"salam tuan, penghantaran instant available?",search,1
+"hai, harga satu unit berapa?",search,1
+"hello, ada option ansuran 0%?",search,1
+"hi min, katalog terbaru boleh minta?",search,1
+"hye kak, warna merah maroon ada?",search,1
+"weh boss, boleh custom nama di produk?",search,1
+"slmt pagi, ada pakej bundle jimat?",search,1
+"mlm min, lokasi kedai offline di mana?",search,1
+"morning kak, spare part tersedia?",search,1
+"assalamualaikum min, boleh hantar ke luar kawasan?",search,1
+selamat pagi ready stock untuk dihantar esok?,search,1
+selamat petang harga promo sampai bila?,search,1
+selamat malam ada warranty rasmi tak?,search,1
+"bro, stok warna putih ada?",search,1
+"sis, boleh order untuk kuantiti besar?",search,1
+"boss, minimal order borong berapa unit?",search,1
+"min, ongkir ke KL berapa?",search,1
+"kak, ada size chart?",search,1
+"tuan, produk ni original?",search,1
+"puan, boleh request packing kayu?",search,1
+"encik, ada pilihan warna lain?",search,1
+"cik, harga reseller macam mana?",search,1
+"abang, barang ready bila?",search,1
+"akak, preorder biasanya berapa lama?",search,1
+"weh, ada voucher diskaun aktif?",search,1
+"wei, boleh bayar transfer bank?",search,1
+"hai admin, pakej same day ada?",search,1
+"hello admin, stok masih ada?",search,1
+"hi admin, harganya berapa?",search,1
+"hye admin, ready tak?",search,1
+selamat pagi min ada cashback untuk pembelian hari ni?,search,1
+selamat petang kak bahan produk ni apa?,search,1
+selamat malam boss dimensi produk berapa?,search,1
+"assalamualaikum wbt, ada refill available?",search,1
+"salam tuan, boleh check ketersediaan stok?",search,1
+"salam puan, ada pakej langganan bulanan?",search,1
+"mohon maaf kak, layanan same day tersedia?",search,1
+"maaf ganggu min, boleh pickup di kedai?",search,1
+"permisi min, ada insurans penghantaran?",search,1
+"tumpang tanya kak, warna apa yang ready?",search,1
+"nak tanya min, saiz tersedia apa?",search,1
+"boleh tanya kak, spesifikasi lengkapnya boleh share?",search,1
+"weh min, method bayar apa yang tersedia?",search,1
+"bro admin, support Android dan iOS?",search,1
+"sis admin, ada versi tanpa gula?",search,1
+"assalamualaikum min, tersedia varian halal?",search,1
+"hai ya, ada konsultasi percuma sebelum order?",search,1
+"hello ya, boleh request sample dulu?",search,1
+"pagi bro, harga untuk event 100 orang berapa?",search,1
+"petang sis, range harga produk ni?",search,1
+"malam boss, minimal belanja free ongkir berapa?",search,1
+"bossku, ada program membership?",search,1
+"tuan min, benefit langganan apa?",search,1
+"puan kak, boleh custom logo syarikat?",search,1
+"selamat malam, produk ni sesuai untuk kulit sensitif?",search,2
+"selamat pagi, rekomendasi produk pemula yang tahan lama?",search,2
+"hai min, beza varian A dan B apa?",search,2
+"hello kak, untuk hadiah birthday rekomendasi apa?",search,2
+"assalamualaikum, perbezaan pakej basic dan premium?",search,2
+"permisi min, mana lebih bagus model X atau Y?",search,2
+"pagi kak, rekomendasi untuk budget RM200?",search,2
+"petang min, sesuai untuk anak umur 5 tahun?",search,2
+"malam boss, produk ni selamat untuk ibu mengandung?",search,2
+"salam tuan, berapa lama warranty produk?",search,2
+"hai, spesifikasi detail produk ni apa?",search,2
+"hello, rekomendasi yang sesuai untuk outdoor?",search,2
+"hi min, untuk kulit berminyak pilih yang mana?",search,2
+"hye kak, perbandingan model lama vs baru?",search,2
+"weh boss, mana yang paling recommended?",search,2
+"slmt pagi, feature unggulan produk ni apa?",search,2
+"mlm min, berapa lama bateri tahan?",search,2
+"morning kak, warranty include apa?",search,2
+"assalamualaikum min, perbezaan harga regular vs promo?",search,2
+selamat pagi produk pengganti kalau ni habis apa?,search,2
+selamat petang rekomendasi untuk bilik kecil?,search,2
+selamat malam detail warranty layanan macam mana?,search,2
+"bro, pakej mana yang value for money?",search,2
+"sis, untuk pemula eloknya pilih yang mana?",search,2
+"boss, rekomendasi produk untuk hadiah perempuan?",search,2
+"min, spek minimum untuk design grafik?",search,2
+"kak, perbezaan layanan standard vs express?",search,2
+"tuan, berapa lama tempoh warranty rasmi?",search,2
+"puan, material produk ni apa?",search,2
+"encik, recommended untuk kegunaan harian?",search,2
+"cik, benefit jadi member apa?",search,2
+"abang, warranty kerja layanan berapa lama?",search,2
+"akak, untuk AC bilik 3x4 berapa PK?",search,2
+"weh, komponen apa yang termasuk?",search,2
+"wei, pilihan warna yang paling laris?",search,2
+"hai admin, rekomendasi laptop untuk kerja?",search,2
+"hello admin, speknya apa?",search,2
+"hi admin, warrantynya macam mana?",search,2
+"hye admin, bezanya sama ni apa?",search,2
+selamat pagi min pilihan pakej paling jimat?,search,2
+selamat petang kak untuk kawasan outdoor pilih mana?,search,2
+selamat malam boss produk ni support fast charging?,search,2
+"assalamualaikum wbt, berapa kapasiti yang direkomen?",search,2
+"salam tuan, spesifikasi lengkap boleh share?",search,2
+"salam puan, perbezaan model 128gb vs 256gb?",search,2
+"mohon maaf kak, rekomendasi produk mesra alam?",search,2
+"maaf ganggu min, produk versi premium bezanya apa?",search,2
+"permisi min, kompatibel dengan peranti saya?",search,2
+"tumpang tanya kak, siri terbaru feature tambahan apa?",search,2
+"nak tanya min, produk ni tahan berapa lama?",search,2
+"boleh tanya kak, untuk kulit kering sesuai mana?",search,2
+selamat malam jam buka kedai hari ni sampai bila?,search,3
+selamat pagi alamat outlet offline di mana?,search,3
+"hai min, hari Ahad buka tak?",search,3
+"hello kak, operasional CS jam berapa sampai berapa?",search,3
+"assalamualaikum, lokasi store terdekat di mana?",search,3
+"permisi min, nombor telefon yang boleh dihubungi?",search,3
+"pagi kak, jam operasional weekend sama tak?",search,3
+"petang min, alamat pejabat di mana?",search,3
+"malam boss, email rasmi untuk kerja sama apa?",search,3
+"salam tuan, buka cuti umum tak?",search,3
+"hai, link Google Maps lokasi kedai?",search,3
+"hello, akaun media sosial rasmi apa?",search,3
+"hi min, website rasmi apa?",search,3
+"hye kak, FAQ atau pusat bantuan ada link?",search,3
+"weh boss, jam buka hari Sabtu macam mana?",search,3
+"slmt pagi, lokasi cawangan di bandar lain ada?",search,3
+"mlm min, jam tutup hari ni jam berapa?",search,3
+"morning kak, alamat gudang untuk pickup di mana?",search,3
+"assalamualaikum min, polisi retur boleh baca di mana?",search,3
+selamat pagi contact email support apa?,search,3
+selamat petang jam rehat kedai ada?,search,3
+selamat malam showroom boleh dikunjungi bila?,search,3
+"bro, jam layanan CS paling malam sampai jam?",search,3
+"sis, polisi privasi linknya mana?",search,3
+"boss, syarat dan ketentuan boleh tengok di mana?",search,3
+"min, ada alamat email untuk partnership?",search,3
+"kak, lokasi outlet di KL ada berapa?",search,3
+"tuan, hari cuti umum tutup atau buka?",search,3
+"puan, nombor hotline untuk emergency?",search,3
+"encik, jam operasional call center?",search,3
+"cik, polisi penghantaran boleh baca di mana?",search,3
+"abang, alamat warehouse pickup di mana?",search,3
+"akak, link download aplikasi mobile?",search,3
+"weh, promo terbaru boleh check di mana?",search,3
+"wei, polisi refund lengkapnya?",search,3
+"hai admin, prosedur aduan tertulis di mana?",search,3
+"hello admin, jam buka bila?",search,3
+"hi admin, kedai offline ada?",search,3
+"hye admin, alamat kedai?",search,3
+selamat pagi min lokasi kedai terdekat dari saya?,search,3
+selamat petang kak prosedur custom order tertulis di mana?,search,3
+selamat malam boss alamat pejabat wakil?,search,3
+"assalamualaikum wbt, jam layanan pelanggan?",search,3
+"salam tuan, polisi pembatalan booking?",search,3
+"salam puan, company profile boleh diminta?",search,3
+"mohon maaf kak, alamat email procurement?",search,3
+"maaf ganggu min, jam operasional live chat?",search,3
+"permisi min, SOP layanan boleh dilihat?",search,3
+"tumpang tanya kak, halaman tentang kami di mana?",search,3
+"nak tanya min, polisi warranty layanan?",search,3
+"boleh tanya kak, jam support teknikal?",search,3
